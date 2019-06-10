@@ -1,5 +1,9 @@
 # teaching
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/teaching.svg?branch=master)](https://travis-ci.org/richelbilderbeek/teaching)
+
 Overview of my English teaching activities.
 
 For an overview of my Dutch teaching activities, 
