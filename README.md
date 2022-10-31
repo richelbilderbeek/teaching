@@ -1,9 +1,5 @@
 # teaching
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/teaching.svg?branch=master)](https://travis-ci.org/richelbilderbeek/teaching)
-
 Overview of my English teaching activities.
 
 For an overview of my Dutch teaching activities, 
@@ -28,6 +24,7 @@ go to [https://github.com/richelbilderbeek/lesgeven](https://github.com/richelbi
 
 ### Courses
 
+ * C++ for Biologists: a C++ course aimed at biology students in their MSc studies
  * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course
 
 ### Simulations, tools, programs
@@ -44,5 +41,3 @@ go to [https://github.com/richelbilderbeek/lesgeven](https://github.com/richelbi
 ## Courses I taught
 
  * [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
-
-
