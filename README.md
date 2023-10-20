@@ -5,11 +5,58 @@ Overview of my English teaching activities.
 For an overview of my Dutch teaching activities, 
 go to [https://github.com/richelbilderbeek/lesgeven](https://github.com/richelbilderbeek/lesgeven).
 
+## Lesson plans I wrote
+
+Most I plan on paper, but hey, sometimes I do use a computer :-)
+
+When      |What                                                     |URL
+----------|---------------------------------------------------------|-----
+2023-09-11|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/lesson_plans/20230911_richel.md)
+2023-11-10|NBIS Introduction to Python for Bioinformaticians, Day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_richel.md)
+2023-11-13|NBIS Introduction to Python for Bioinformaticians, Day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_richel.md)
+
+## Reflections I wrote
+
+Most I write on paper, but hey, sometimes I do use a computer :-)
+
+When      |What                                                     |URL
+----------|---------------------------------------------------------|-----
+2023-06-02|UPPMAX Programming Formalisms                            |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/20230602_richel.md)
+2023-10-10|NBIS Introduction to Python for Bioinformaticians, Day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_reflection.md)
+2023-10-13|NBIS Introduction to Python for Bioinformaticians, Day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_reflection.md)
+2023-10-18|R, Python and Julia for HPC. Python Day                  |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/reflection_20231018_python_by_richel.md)
+
+## Evaluations the courses I taught in received
+
+When      |What                                                     |URL
+----------|---------------------------------------------------------|-----
+2023-05-29|UPPMAX Programming Formalisms                            |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/20230529/README.md)
+2023-10-13|NBIS Introduction to Python for Bioinformaticians        |[here](https://github.com/NBISweden/workshop-python/blob/ht23/evaluation/Intro%20to%20Python%202023%20evaluation.csv)
+
+## Evaluations that I did in courses I did not teach
+
+When      |What                                                     |URL
+----------|---------------------------------------------------------|-----
+2023-10-18|R, Python and Julia for HPC. Julia Day                   |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/evaluation_julia_20231018.md)
+2023-10-19|R, Python and Julia for HPC. R Day                       |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/evaluation_r_20231019.md)
+
+
+
+
+
 ## Conferences I visited
 
 When      |Title
 ----------|---------------------------------------------------------------------
 2023-10-19|[Konferensen i universitetspedagogisk utveckling](20231019_konferensen_i_universitetspedagogisk_utveckling.pdf)
+
+## Colleague peer observations
+
+Most I plan on paper, but hey, sometimes I do use a computer :-)
+
+When      |Observee|Observer|Material|What
+----------|--------|--------|--------|------------------------------------
+2023-08-24|Eli     |Me      |Paper   |Architecture technical drawing rules 
 
 ## Teaching material
 
