@@ -5,6 +5,12 @@ Overview of my English teaching activities.
 For an overview of my Dutch teaching activities, 
 go to [https://github.com/richelbilderbeek/lesgeven](https://github.com/richelbilderbeek/lesgeven).
 
+## Conferences I visited
+
+When      |Title
+----------|---------------------------------------------------------------------
+2023-10-19|[Konferensen i universitetspedagogisk utveckling](20231019_konferensen_i_universitetspedagogisk_utveckling.pdf)
+
 ## Teaching material
 
 ### Artices, blog posts, books
