@@ -43,7 +43,7 @@ When      |What                                                     |URL
 2023-10-13|NBIS Introduction to Python for Bioinformaticians, day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_reflection.md)
 2023-10-10|NBIS Introduction to Python for Bioinformaticians, day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_reflection.md)
 2023-09-11|Bianca workshop: intermediate                            |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/reflections/20230911_richel.md)
-2023-08-27|Lördagskurser                                            |[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/main/evaluations/reflections/20230827_richel/README.md)
+2023-08-27|Lördagskurser                                            |[here](https://github.com/uppsala-makerspace/loerdagskurser/tree/master/evaluations/reflections/20230827_richel)
 2023-06-02|UPPMAX Programming Formalisms                            |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_summer/README.md)
 
 ## Evaluations of the courses I coordinate
