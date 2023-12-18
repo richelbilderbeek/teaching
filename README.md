@@ -8,37 +8,80 @@ go to [https://github.com/richelbilderbeek/lesgeven](https://github.com/richelbi
 ## Lesson plans I wrote
 
 Most I plan on paper, but hey, sometimes I do use a computer :-)
+Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
+2023-12-14|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/lesson_plans/20231214_richel.md
+2023-12-11|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/lesson_plans/20231211_richel.md
+2023-12-01|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_autumn/day_5_lesson_plan.md
+2023-11-30|UPPMAX Programming Formalisms, day 4                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_autumn/day_4_lesson_plan.md
+2023-11-29|UPPMAX Programming Formalisms, day 3                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_autumn/day_3_lesson_plan.md
+2023-11-13|NBIS Introduction to Python for Bioinformaticians, day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_richel.md)
+2023-11-10|NBIS Introduction to Python for Bioinformaticians, day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_richel.md)
 2023-09-11|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/lesson_plans/20230911_richel.md)
-2023-11-10|NBIS Introduction to Python for Bioinformaticians, Day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_richel.md)
-2023-11-13|NBIS Introduction to Python for Bioinformaticians, Day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_richel.md)
+2023-06-02|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_5_2.md
+2023-06-01|UPPMAX Programming Formalisms, day 4 morning             |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_1.md
+2023-06-01|UPPMAX Programming Formalisms, day 4 afternoon           |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_2.md
+2023-05-31|UPPMAX Programming Formalisms, day 3                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_3_2.md
+2023-05-30|UPPMAX Programming Formalisms, day 2                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_2_2.md
 
 ## Reflections I wrote
 
-Most I write on paper, but hey, sometimes I do use a computer :-)
+Most I write on paper, but hey, sometimes I do use a computer :-) .
+Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
-2023-06-02|UPPMAX Programming Formalisms                            |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/20230602_richel.md)
-2023-10-10|NBIS Introduction to Python for Bioinformaticians, Day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_reflection.md)
-2023-10-13|NBIS Introduction to Python for Bioinformaticians, Day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_reflection.md)
+2023-12-14|Bianca workshop: intro                                   |[here](https://github.com/UPPMAX/bianca_workshop/docs/reflections/20231214_richel.md)
+2023-12-11|Bianca workshop                                          |[here](https://github.com/UPPMAX/bianca_workshop/docs/reflections/20231211_richel.md)
+2023-12-01|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_autumn/day_5_reflection.md)
+2023-12-01|UPPMAX Programming Formalisms, course                    |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_autumn/course_reflection.md)
+2023-11-30|UPPMAX Programming Formalisms, day 4                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_autumn/day_4_reflection.md)
+2023-11-29|UPPMAX Programming Formalisms, day 3                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_autumn/day_3_reflection.md)
 2023-10-18|R, Python and Julia for HPC. Python Day                  |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/reflection_20231018_python_by_richel.md)
+2023-10-13|NBIS Introduction to Python for Bioinformaticians, day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_reflection.md)
+2023-10-10|NBIS Introduction to Python for Bioinformaticians, day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_reflection.md)
+2023-09-11|Bianca workshop: intermediate                            |[here](https://github.com/UPPMAX/bianca_workshop/docs/reflections/20230911_richel.md)
+2023-08-27|Lördagskurser                                            |[here](https://github.com/uppsala-makerspace/loerdagskurser/evaluations/reflections/20230827_richel/README.md)
+2023-06-02|UPPMAX Programming Formalisms                            |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_summer/README.md)
 
-## Evaluations the courses I taught in received
+## Evaluations of the courses I coordinate
+
+These are courses I coordinate and teach.
+Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
-2023-05-29|UPPMAX Programming Formalisms                            |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/20230529/README.md)
+2023-05-27|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20230527/results.md
+2022-12-10|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20221210/results.md
+2022-08-02|tresinformal |[here](https://github.com/tresinformal/drakkar/blob/master/doc/20220802_tresinformal_evaluation.md)
+2022-05-28|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20220528/results.md
+2021-12-15|tresinformal |[here](https://github.com/tresinformal/drakkar/blob/master/doc/20211215_tresinformal_evaluation.md)
+2021-12-11|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20211211/20211211.md)
+2021-06-22|tresinformal |[here](https://github.com/tresinformal/drakkar/blob/master/doc/20210622_tresinformal_evaluation.md)
+
+## Evaluations the courses I taught
+
+These are courses I am not a coordinator of.
+Most recent at the top.
+
+When      |What                                                     |URL
+----------|---------------------------------------------------------|-----
 2023-10-13|NBIS Introduction to Python for Bioinformaticians        |[here](https://github.com/NBISweden/workshop-python/blob/ht23/evaluation/Intro%20to%20Python%202023%20evaluation.csv)
+2023-09-11|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/evaluations/20230911/README.md)
+2023-05-29|UPPMAX Programming Formalisms                            |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/20230529/README.md)
 
 ## Evaluations that I did in courses I did not teach
 
+This is for comparison.
+Most recent at the top.
+
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
-2023-10-18|R, Python and Julia for HPC. Julia Day                   |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/evaluation_julia_20231018.md)
 2023-10-19|R, Python and Julia for HPC. R Day                       |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/evaluation_r_20231019.md)
+2023-10-18|R, Python and Julia for HPC. Julia Day                   |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/evaluation_julia_20231018.md)
+
 
 
 
