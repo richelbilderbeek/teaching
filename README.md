@@ -12,6 +12,7 @@ Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
+2024-01-22|UPPMAX AWK course day 1                                  |[here](https://github.com/richelbilderbeek/awk_course/blob/master/lesson_plans/20240122/README.md)
 2024-01-18|UPPMAX Intro to Python                                   |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240118/README.md)
 2023-12-14|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/lesson_plans/20231214_richel.md)
 2023-12-11|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/lesson_plans/20231211_richel.md)
@@ -34,6 +35,7 @@ Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
+2024-01-22|UPPMAX AWK course day 1                                  |[here](https://github.com/richelbilderbeek/awk_course/blob/master/reflections/20240122/README.md)
 2024-01-18|UPPMAX Intro to Python                                   |[here](https://github.com/UPPMAX/uppmax_intro_python/tree/main/reflections/20240118/README.md)
 2023-12-14|Bianca workshop: intro                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/reflections/20231214_richel.md)
 2023-12-11|Bianca workshop                                          |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/reflections/20231211_richel.md)
@@ -70,6 +72,7 @@ Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|----------------------------------------
+2024-01-22|UPPMAX AWK course day 1                                  |[here](https://github.com/richelbilderbeek/awk_course/blob/master/evaluations/20240122/README.md)
 2024-01-18|UPPMAX Intro to Python                                   |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/2024_01/README.md)
 2023-12-01|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_5.md)
 2023-12-01|UPPMAX Programming Formalisms, course                    |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_course.md)
