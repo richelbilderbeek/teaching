@@ -22,11 +22,11 @@ When      |What                                                     |URL
 2023-11-13|NBIS Introduction to Python for Bioinformaticians, day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_richel.md)
 2023-11-10|NBIS Introduction to Python for Bioinformaticians, day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_richel.md)
 2023-09-11|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/lesson_plans/20230911_richel.md)
-2023-06-02|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_5_2.md
-2023-06-01|UPPMAX Programming Formalisms, day 4 morning             |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_1.md
-2023-06-01|UPPMAX Programming Formalisms, day 4 afternoon           |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_2.md
-2023-05-31|UPPMAX Programming Formalisms, day 3                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_3_2.md
-2023-05-30|UPPMAX Programming Formalisms, day 2                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_2_2.md
+2023-06-02|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_5_2.md)
+2023-06-01|UPPMAX Programming Formalisms, day 4 morning             |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_1.md)
+2023-06-01|UPPMAX Programming Formalisms, day 4 afternoon           |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_2.md)
+2023-05-31|UPPMAX Programming Formalisms, day 3                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_3_2.md)
+2023-05-30|UPPMAX Programming Formalisms, day 2                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_2_2.md)
 
 ## Reflections I wrote
 
