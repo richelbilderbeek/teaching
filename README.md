@@ -57,10 +57,10 @@ Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
-2023-05-27|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20230527/results.md
-2022-12-10|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20221210/results.md
+2023-05-27|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20230527/results.md)
+2022-12-10|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20221210/results.md)
 2022-08-02|tresinformal |[here](https://github.com/tresinformal/drakkar/blob/master/doc/20220802_tresinformal_evaluation.md)
-2022-05-28|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20220528/results.md
+2022-05-28|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20220528/results.md)
 2021-12-15|tresinformal |[here](https://github.com/tresinformal/drakkar/blob/master/doc/20211215_tresinformal_evaluation.md)
 2021-12-11|Lördagskurser|[here](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/evaluations/20211211/20211211.md)
 2021-06-22|tresinformal |[here](https://github.com/tresinformal/drakkar/blob/master/doc/20210622_tresinformal_evaluation.md)
