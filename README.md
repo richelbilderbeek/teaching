@@ -70,36 +70,31 @@ When      |What                                                     |URL
 These are courses I am not a coordinator of.
 Most recent at the top.
 
-When      |What                                                     |URL
-----------|---------------------------------------------------------|----------------------------------------
-2024-01-22|UPPMAX AWK course day 1                                  |[here](https://github.com/richelbilderbeek/awk_course/blob/master/evaluations/20240122/README.md)
-2024-01-18|UPPMAX Intro to Python                                   |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/2024_01/README.md)
-2023-12-01|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_5.md)
-2023-12-01|UPPMAX Programming Formalisms, course                    |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_course.md)
-2023-11-30|UPPMAX Programming Formalisms, day 4                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_4.md)
-2023-11-29|UPPMAX Programming Formalisms, day 3                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_3.md)
-2023-11-28|UPPMAX Programming Formalisms, day 2                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_2.md)
-2023-10-17|Introduction to running R, Python, and Julia in HPC      |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20231017/README.md)
-2023-10-13|NBIS Introduction to Python for Bioinformaticians        |[here](https://github.com/NBISweden/workshop-python/blob/ht23/evaluation/Intro%20to%20Python%202023%20evaluation.csv)
-2023-09-11|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/evaluations/20230911/README.md)
-2023-06-02|UPPMAX Programming Formalisms, day 5                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day5.pdf)
-2023-06-01|UPPMAX Programming Formalisms, day 4                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day4.pdf)
-2023-05-31|UPPMAX Programming Formalisms, day 3                     |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day3.pdf)
+When      |What                                                        |URL
+----------|------------------------------------------------------------|----------------------------------------
+2024-01-22|UPPMAX AWK course day 1                                     |[here](https://github.com/richelbilderbeek/awk_course/blob/master/evaluations/20240122/README.md)
+2024-01-18|UPPMAX Intro to Python                                      |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/2024_01/README.md)
+2023-12-01|UPPMAX Programming Formalisms, day 5                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_5.md)
+2023-12-01|UPPMAX Programming Formalisms, course                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_course.md)
+2023-11-30|UPPMAX Programming Formalisms, day 4                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_4.md)
+2023-11-29|UPPMAX Programming Formalisms, day 3                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_3.md)
+2023-11-28|UPPMAX Programming Formalisms, day 2                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_2.md)
+2023-10-17|Introduction to running R, Python, and Julia in HPC, Python |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20231017/README.md)
+2023-10-13|NBIS Introduction to Python for Bioinformaticians           |[here](https://github.com/NBISweden/workshop-python/blob/ht23/evaluation/Intro%20to%20Python%202023%20evaluation.csv)
+2023-09-11|UPPMAX Bianca workshop                                      |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/docs/evaluations/20230911/README.md)
+2023-06-02|UPPMAX Programming Formalisms, day 5                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day5.pdf)
+2023-06-01|UPPMAX Programming Formalisms, day 4                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day4.pdf)
+2023-05-31|UPPMAX Programming Formalisms, day 3                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day3.pdf)
 
 ## Evaluations that I did in courses I did not teach
 
 This is for comparison.
 Most recent at the top.
 
-When      |What                                                     |URL
-----------|---------------------------------------------------------|-----
-2023-10-19|R, Python and Julia for HPC. R Day                       |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/evaluation_r_20231019.md)
-2023-10-18|R, Python and Julia for HPC. Julia Day                   |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/for_teachers/evaluation_julia_20231018.md)
-
-
-
-
-
+When      |What                                                       |URL
+----------|-----------------------------------------------------------|-----
+2023-10-19|Introduction to running R, Python, and Julia in HPC, R     |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20231019/README.md)
+2023-10-18|Introduction to running R, Python, and Julia in HPC, Julia |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20231018/README.md)
 
 ## Conferences I visited
 
