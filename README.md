@@ -129,8 +129,7 @@ When      |Observee|Observer|Material|What
 
 ### Courses
 
- * C++ for Biologists: a C++ course aimed at biology students in their MSc studies
- * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course
+ * [AWK](https://github.com/UPPMAX/awk_course): an AWK course
 
 ### Simulations, tools, programs
 
@@ -146,3 +145,10 @@ When      |Observee|Observer|Material|What
 ## Courses I taught
 
  * [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
+ * C++ for Biologists: a C++ course aimed at biology students in their MSc studies
+ * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course
+
+## My favorite literature
+
+ * [Bell, 2020] Bell, Mike. The fundamentals of teaching: A five-step model to put the research evidence into practice. Routledge, 2020.
+ * [Hattie, 2012] Hattie, John. Visible learning for teachers: Maximizing impact on learning. Routledge, 2012.
