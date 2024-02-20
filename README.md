@@ -5,6 +5,14 @@ Overview of my English teaching activities.
 For an overview of my Dutch teaching activities, 
 go to [https://github.com/richelbilderbeek/lesgeven](https://github.com/richelbilderbeek/lesgeven).
 
+## Courses I teach
+
+ * [Intro to AWK](https://github.com/UPPMAX/awk_course), an UPPMAX course
+ * [Intro to Python](https://github.com/UPPMAX/uppmax_intro_python), an UPPMAX course
+ * [Bianca workshop](https://github.com/UPPMAX/bianca_workshop/), an UPPMAX course
+ * [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms), a course by NBIS and UPPMAX
+ * [R, Python and Julia for HPC](https://github.com/UPPMAX/R-python-julia-HPC), a course by HPC2N and UPPMAX
+
 ## Lesson plans I wrote
 
 Most I plan on paper, but hey, sometimes I do use a computer :-)
@@ -127,10 +135,6 @@ When      |Observee|Observer|Material|What
  * [R coding standard](https://github.com/richelbilderbeek/R-CodingStandard)
  * [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
 
-### Courses
-
- * [AWK](https://github.com/UPPMAX/awk_course): an AWK course
-
 ### Simulations, tools, programs
 
  * [Hometrainer](https://github.com/richelbilderbeek/hometrainer): self-testing suite
@@ -144,9 +148,14 @@ When      |Observee|Observer|Material|What
 
 ## Courses I taught
 
+ * Biology, secondary school program
+ * C++ for Biologists: a C++ course aimed at biology students in their MSc studies, teaching material is lost
+ * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course, obsoleted
+ * [Dojo](https://github.com/djog/dojo.git)
  * [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
- * C++ for Biologists: a C++ course aimed at biology students in their MSc studies
- * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course
+ * [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
+ * Physics, secondary school program
+ * Stagecraft, secondary school program
 
 ## My favorite literature
 
