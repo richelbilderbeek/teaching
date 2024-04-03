@@ -120,6 +120,7 @@ When      |Observee|Observer|Material|What
 
 ## Teaching material
 
+
 ### Artices, blog posts, books
 
  * [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1): a
@@ -156,6 +157,11 @@ When      |Observee|Observer|Material|What
  * [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
  * Physics, secondary school program
  * Stagecraft, secondary school program
+
+### Misc
+
+ * [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
+ * [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
 
 ## My favorite literature
 
