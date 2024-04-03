@@ -162,6 +162,7 @@ When      |Observee|Observer|Material|What
 
  * [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
  * [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
+ * [A professional GitHub workflow](professional_github_workflow.md)
 
 ## My favorite literature
 
