@@ -20,6 +20,8 @@ Most recent at the top.
 
 When      |What                                                     |URL
 ----------|---------------------------------------------------------|-----
+2024-03-14|R, Python and Julia in HPC, R day                        |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/lesson_plans/20240314_richel/README.md)
+2024-03-12|R, Python and Julia in HPC, Python day                   |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/lesson_plans/20240312_richel/README.md)
 2024-01-22|UPPMAX AWK course day 1                                  |[here](https://github.com/richelbilderbeek/awk_course/blob/master/lesson_plans/20240122/README.md)
 2024-01-18|UPPMAX Intro to Python                                   |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240118/README.md)
 2023-12-14|UPPMAX Bianca workshop                                   |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20231214_richel.md)
@@ -43,6 +45,8 @@ Most recent at the top.
 
 When      |What                                                        |URL
 ----------|------------------------------------------------------------|-----
+2024-03-14|R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/reflections/20240314_richel/README.md)
+2024-03-12|R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/reflections/20240312_richel/README.md)
 2024-01-22|UPPMAX AWK course day 1                                     |[here](https://github.com/richelbilderbeek/awk_course/blob/master/reflections/20240122/README.md)
 2024-01-18|UPPMAX Intro to Python                                      |[here](https://github.com/UPPMAX/uppmax_intro_python/tree/main/reflections/20240118/README.md)
 2023-12-14|Bianca workshop: intro                                      |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20231214_richel.md)
@@ -80,6 +84,8 @@ Most recent at the top.
 
 When      |What                                                        |URL
 ----------|------------------------------------------------------------|----------------------------------------
+2024-03-14|R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20240314/Introduction%20to%20running%20R%2C%20Python%2C%20and%20Julia%20in%20HPC%2C%2012-14%20March%202024%20-%20DAY%203%20(R)%20(1-13).xlsx)
+2024-03-12|R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20240312/Introduction%20to%20running%20R%2C%20Python%2C%20and%20Julia%20in%20HPC%2C%2012-14%20March%202024%20-%20DAY%201%20(Python)(1-25).xlsx)
 2024-01-22|UPPMAX AWK course day 1                                     |[here](https://github.com/richelbilderbeek/awk_course/blob/master/evaluations/20240122/README.md)
 2024-01-18|UPPMAX Intro to Python                                      |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/2024_01/README.md)
 2023-12-01|UPPMAX Programming Formalisms, day 5                        |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_5.md)
@@ -119,7 +125,6 @@ When      |Observee|Observer|Material|What
 2023-08-24|Eli     |Me      |Paper   |Architecture technical drawing rules 
 
 ## Teaching material
-
 
 ### Artices, blog posts, books
 
