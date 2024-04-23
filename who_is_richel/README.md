@@ -15,14 +15,14 @@
 -   2007-2008 MSc: Teaching in Pre-higher education in Biology
 -   Oct 2008-Aug 2010: 0.6 FTE teacher and team leader, 12-18 yo
 -   Jan 2014-Jan 2021: coordinator of multiple courses, as volunteer, 8-18 yo
+-   Sep 2019-Mar 2024: team leader of programming team, 13-38 yo
 -   Sep 2022-now: coordinator of multiple courses, as volunteer, 8-18 yo
--   Sep 2019-now: team leader of programming team, 13-38 yo
 -   Mar 2023-now: teacher at UPPMAX, 18-88 yo
 
 ## Teaching style
 
 -   Literate [1]
--   Evidence-based, e.g. [Hattie, 2012][Schwartz, 2012]
+-   Evidence-based, e.g. [Bell, 2020][Hattie, 2012][Hattie, 2023][Schwartz, 2012]
 -   Active learning
 -   Learning community
 -   Well-prepared [1]
@@ -48,6 +48,10 @@ This was the only lecture in the course :-)
 ## References
 
  * [1] <https://github.com/richelbilderbeek/teaching>
+ * [Anderson & Krathwohl, 2001] Anderson, Lorin W., and David R. Krathwohl. A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives: complete edition. Addison Wesley Longman, Inc., 2001.
  * [Bell, 2020] Bell, Mike. The fundamentals of teaching: A five-step model to put the research evidence into practice. Routledge, 2020.
  * [Hattie, 2012] Hattie, John. Visible learning for teachers: Maximizing impact on learning. Routledge, 2012.
+ * [Hattie, 2023] Hattie, John. Visible learning: The sequel: A synthesis of over 2,100 meta-analyses relating to achievement. Routledge, 2023.
+ * [Hattie & Clarke, 2018] Hattie, John, and Shirley Clarke. Visible learning: feedback. Routledge, 2018.
  * [Schwartz, 2012] Schwartz, Beth M., and Regan AR Gurung. Evidence-based teaching for higher education. American Psychological Association, 2012.
+
