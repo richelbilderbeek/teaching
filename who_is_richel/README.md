@@ -29,6 +29,22 @@
 -   Student-centered
 -   Transparent [1]
 
+```mermaid
+flowchart TD
+  prior_knowledge[Prior knowledge]
+  present[Present]
+  challenge[Challenge]
+  feedback[Feedback]
+  repeat[Repeat]
+  prior_knowledge --> present
+  present --> challenge
+  challenge --> feedback
+  feedback --> repeat
+  repeat --> prior_knowledge
+```
+
+> Evidence-based teaching cycle, from [Bell, 2020]
+
 ## Features
 
 -   Every learner needs to be active
@@ -51,11 +67,14 @@ Hence, this was the only lecture in the course :-)
  * [1] <https://github.com/richelbilderbeek/teaching>
  * [2] See [Hattie, 2023], page 363, effect size is -0.26 with a robustness index of 4 out of 5
    and is based on 3 meta analyses using 273 studies using 27,296 people, 
-   measuring for 614 effects with a standard error of 0.08
+   measuring for 614 effects with a standard error of 0.08.
+   One example open access study is [Knight & Wood, 2005].
  * [Anderson & Krathwohl, 2001] Anderson, Lorin W., and David R. Krathwohl. A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives: complete edition. Addison Wesley Longman, Inc., 2001.
  * [Bell, 2020] Bell, Mike. The fundamentals of teaching: A five-step model to put the research evidence into practice. Routledge, 2020.
+ * [Knight & Wood, 2005] Knight, Jennifer K., and William B. Wood. "Teaching more by lecturing less." Cell biology education 4.4 (2005): 298-310. [paper](https://www.lifescied.org/doi/full/10.1187/05-06-0082)
  * [Hattie, 2012] Hattie, John. Visible learning for teachers: Maximizing impact on learning. Routledge, 2012.
  * [Hattie, 2023] Hattie, John. Visible learning: The sequel: A synthesis of over 2,100 meta-analyses relating to achievement. Routledge, 2023.
  * [Hattie & Clarke, 2018] Hattie, John, and Shirley Clarke. Visible learning: feedback. Routledge, 2018.
  * [Schwartz, 2012] Schwartz, Beth M., and Regan AR Gurung. Evidence-based teaching for higher education. American Psychological Association, 2012.
+
 
