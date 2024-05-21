@@ -49,7 +49,9 @@ Hence, this was the only lecture in the course :-)
 ## References
 
  * [1] <https://github.com/richelbilderbeek/teaching>
- * [2] See [Hattie, 2023], page 363, effect size is -0.26
+ * [2] See [Hattie, 2023], page 363, effect size is -0.26 with a robustness index of 4 out of 5
+   and is based on 3 meta analyses using 273 studies using 27,296 people, 
+   measuring for 614 effects with a standard error of 0.08
  * [Anderson & Krathwohl, 2001] Anderson, Lorin W., and David R. Krathwohl. A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives: complete edition. Addison Wesley Longman, Inc., 2001.
  * [Bell, 2020] Bell, Mike. The fundamentals of teaching: A five-step model to put the research evidence into practice. Routledge, 2020.
  * [Hattie, 2012] Hattie, John. Visible learning for teachers: Maximizing impact on learning. Routledge, 2012.
