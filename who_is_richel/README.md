@@ -39,15 +39,17 @@
 
 ## Lecturing
 
-I only do this for unimportant topics.
+I only do this for unimportant topics, 
+as lecturing hinders learning [2].
 
-This was the only lecture in the course :-)
+Hence, this was the only lecture in the course :-)
 
 (I **do** need to tell about myself [Schwartz, 2012])
 
 ## References
 
  * [1] <https://github.com/richelbilderbeek/teaching>
+ * [2] See [Hattie, 2023], page 363, effect size is -0.26
  * [Anderson & Krathwohl, 2001] Anderson, Lorin W., and David R. Krathwohl. A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives: complete edition. Addison Wesley Longman, Inc., 2001.
  * [Bell, 2020] Bell, Mike. The fundamentals of teaching: A five-step model to put the research evidence into practice. Routledge, 2020.
  * [Hattie, 2012] Hattie, John. Visible learning for teachers: Maximizing impact on learning. Routledge, 2012.
