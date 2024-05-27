@@ -42,10 +42,10 @@ When      |What                                                      |URL
 2023-05-31|`[4]` Programming Formalisms, day 3                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_3_2.md)
 2023-05-30|`[4]` Programming Formalisms, day 2                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_2_2.md)
 
- * [1] UPPMAX
- * [2] NBIS
- * [3] HPC2N and UPPMAX
- * [4] NBIS and UPPMAX
+* [1] UPPMAX
+* [2] NBIS
+* [3] HPC2N and UPPMAX
+* [4] NBIS and UPPMAX
 
 ## Reflections I wrote
 
@@ -73,11 +73,11 @@ When      |What                                                              |UR
 2023-08-27|`[5]` Lördagskurser                                               |[here](https://github.com/uppsala-makerspace/loerdagskurser/tree/master/evaluations/reflections/20230827_richel)
 2023-06-02|`[1]` Programming Formalisms                                      |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_summer/README.md)
 
- * `[1]` UPPMAX
- * `[2]` NBIS
- * `[3]` HPC2N and UPPMAX
- * `[4]` NBIS and UPPMAX
- * `[5]` Uppsala Makerspace
+* `[1]` UPPMAX
+* `[2]` NBIS
+* `[3]` HPC2N and UPPMAX
+* `[4]` NBIS and UPPMAX
+* `[5]` Uppsala Makerspace
 
 ## Evaluations of the courses I coordinate
 
@@ -119,11 +119,11 @@ When      |What                                                              |UR
 2023-06-01|`[1]` Programming Formalisms, day 4                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day4.pdf)
 2023-05-31|`[1]` Programming Formalisms, day 3                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day3.pdf)
 
- * `[1]` UPPMAX
- * `[2]` NBIS
- * `[3]` HPC2N and UPPMAX
- * `[4]` NBIS and UPPMAX
- * `[5]` Uppsala Makerspace
+* `[1]` UPPMAX
+* `[2]` NBIS
+* `[3]` HPC2N and UPPMAX
+* `[4]` NBIS and UPPMAX
+* `[5]` Uppsala Makerspace
 
 ## Evaluations that I did in courses I did not teach
 
