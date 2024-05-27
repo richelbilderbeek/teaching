@@ -3,6 +3,12 @@ n_learners_in_time_wide <- readr::read_csv(
   "n_learners_in_time.csv"
   )
 
+# General info
+course_name <- "HPC Python"
+course_date <- "2024-04-15"
+
+
+
 # Check data
 n_measurements <- nrow(n_learners_in_time_wide)
 n_total_learners <- sum(n_learners_in_time_wide$n_new)
@@ -19,12 +25,6 @@ testthat::expect_true(
 n_learners_in_time <- tidyr::pivot_longer(n_learners_in_time_wide, cols = c(n_present, n_new, n_left))
 names(n_learners_in_time) <- c("time", "type", "amount")
 n_learners_in_time$type <- as.factor(n_learners_in_time$type)
-
-# events <- tibble::tibble(
-#   xmin = readr::parse_time(c("9:00", "10:00", "10:15", "11:00", "12:06", "14:00", "15:00", "15:30")),
-#   xmax = readr::parse_time(c("10:00","10:15", "10:35", "11:15", "13:00", "14:15", "15:15", "16:00")),
-#   event =                 c("orange", "blue", "orange", "blue",  "blue", "blue",  "blue",   "orange")
-# )
 
 events <- tibble::tribble(
   ~xmin, ~xmax, ~event,
@@ -59,7 +59,7 @@ ggplot2::ggplot(
   ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust=1)) +
   ggplot2::labs(
     title = "Number of learners in time",
-    caption = paste0("HPC Python, 2024-04-15, blue = break\nnumber of learners: ", n_total_learners)
+    caption = paste0(course_name, ", ", course_date, ", blue = break\nnumber of learners: ", n_total_learners)
   ) + ggplot2::geom_rect(
     data = events,
     inherit.aes = FALSE, 
@@ -71,7 +71,12 @@ ggplot2::ggplot(
     ),
     fill = ggplot2::alpha(events$event, 0.5)
   )
-ggplot2::ggsave("n_learners_in_time.png", width = 7, height = 7)
+
+png_filename <- stringr::str_replace_all(
+  paste0(course_date, "_n_learners_in_time.png"),
+  "-", "_"
+)
+ggplot2::ggsave(png_filename, width = 7, height = 7)
 
 
 # Percentage present and percentage left in time
@@ -109,7 +114,10 @@ ggplot2::ggplot(
   ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust=1)) +
   ggplot2::labs(
     title = "Cumulative percentages of learners in time",
-    caption = paste0("HPC Python, 2024-04-15, blue = break\nnumber of learners: ", n_total_learners)
+    caption = paste0(
+      course_name, ", ", course_date, ", blue = break",
+      "\nnumber of learners: ", n_total_learners
+    )
   ) + ggplot2::geom_rect(
     data = events,
     inherit.aes = FALSE, 
@@ -122,4 +130,8 @@ ggplot2::ggplot(
     fill = ggplot2::alpha(events$event, 0.5)
   ) + ggplot2::theme(legend.position = "bottom")
 
-ggplot2::ggsave("f_cumulative_learners_in_time.png", width = 7, height = 7)
+png_filename <- stringr::str_replace_all(
+  paste0(course_date, "_f_cumulative_learners_in_time.png"),
+  "-", "_"
+)
+ggplot2::ggsave(png_filename, width = 7, height = 7)
