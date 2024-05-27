@@ -3,7 +3,7 @@
 Overview of my English teaching activities.
 
 For an overview of my past Dutch teaching activities,
-go to [https://github.com/richelbilderbeek/lesgeven](https://github.com/richelbilderbeek/lesgeven).
+go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
 
 ## Courses I teach
 
@@ -132,7 +132,7 @@ When      |Observee|Observer|Material|What
 
 ## Teaching material
 
-### Artices, blog posts, books
+### Articles, blog posts, books
 
 * [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
    a book about the Boost.Graph library
@@ -141,7 +141,7 @@ When      |Observee|Observer|Material|What
    a guest blog post on [Simplify C++](https://arne-mertz.de/)
 * [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
 * 'Raising Your Code to Professional Standards'
-  was a free (that is, it can be read without paying) article for the -now termimated- 'SDJournal'.
+  was a free (that is, it can be read without paying) article for the -now terminated- 'SDJournal'.
   It is still available at
   [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
 * [R coding standard](https://github.com/richelbilderbeek/R-CodingStandard)
