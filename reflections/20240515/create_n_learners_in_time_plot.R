@@ -6,6 +6,7 @@ n_learners_in_time_wide <- readr::read_csv(
 # General info
 course_name <- "HPC Python"
 course_date <- "2024-04-15"
+course_date_str <- stringr::str_replace_all(course_date, "-", "")
 
 
 
@@ -72,10 +73,7 @@ ggplot2::ggplot(
     fill = ggplot2::alpha(events$event, 0.5)
   )
 
-png_filename <- stringr::str_replace_all(
-  paste0(course_date, "_n_learners_in_time.png"),
-  "-", "_"
-)
+png_filename <- paste0(course_date_str, "_n_learners_in_time.png")
 ggplot2::ggsave(png_filename, width = 7, height = 7)
 
 
@@ -130,8 +128,5 @@ ggplot2::ggplot(
     fill = ggplot2::alpha(events$event, 0.5)
   ) + ggplot2::theme(legend.position = "bottom")
 
-png_filename <- stringr::str_replace_all(
-  paste0(course_date, "_f_cumulative_learners_in_time.png"),
-  "-", "_"
-)
+png_filename <- paste0(course_date_str, "_f_cumulative_learners_in_time.png")
 ggplot2::ggsave(png_filename, width = 7, height = 7)
