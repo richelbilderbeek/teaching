@@ -167,6 +167,16 @@ When      |Observee|Observer|Material|What
  * Physics, secondary school program
  * Stagecraft, secondary school program
 
+## Files used by continuous integration scripts
+
+Filename                              |Descriptions
+--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
+[mlc_config.json](mlc_config.json)    |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
+[.spellcheck.yml](.spellcheck.yml)    |Configuration of the spell checker, use `pyspelling -c .spellcheck.yml` to do spellcheck locally
+[.wordlist.txt](.wordlist.txt)        |Whitelisted words for the spell checker, use `pyspelling -c .spellcheck.yml` to do spellcheck locally
+[.markdownlint.jsonc](.markdownlint.jsonc)|Configuration of the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
+[.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
+
 ### Misc
 
  * [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
@@ -178,3 +188,4 @@ When      |Observee|Observer|Material|What
 
  * [Bell, 2020] Bell, Mike. The fundamentals of teaching: A five-step model to put the research evidence into practice. Routledge, 2020.
  * [Hattie, 2012] Hattie, John. Visible learning for teachers: Maximizing impact on learning. Routledge, 2012.
+
