@@ -40,4 +40,4 @@ flowchart TD
 
 ## Social
 
- * [Pair programming](https://youtu.be/_DDRWjOfPu4?si=I84veWw9c7Mnq83p)
+- [Pair programming](https://youtu.be/_DDRWjOfPu4?si=I84veWw9c7Mnq83p)

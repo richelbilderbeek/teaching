@@ -27,7 +27,6 @@ flowchart TD
   committed --> |Upload\ngit push| github  
 ```
 
-
 ## git workflow with branches
 
 ```mermaid

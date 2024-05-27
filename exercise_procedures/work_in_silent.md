@@ -1,6 +1,5 @@
 # Work in silent
 
-
 ```mermaid
 flowchart TD
   start[Do exercise in silence\nTip: keep camera on]
