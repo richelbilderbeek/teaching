@@ -14,6 +14,7 @@ go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
   a course by NBIS and UPPMAX
 * [R, Python and Julia for HPC](https://github.com/UPPMAX/R-python-julia-HPC),
   a course by HPC2N and UPPMAX
+* [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
 
 ## Lesson plans I wrote
 
