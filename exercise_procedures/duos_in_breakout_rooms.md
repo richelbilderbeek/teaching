@@ -11,7 +11,8 @@
 
     This assures everyone learns effectively: pairs are optimal.
 
-    > Ideally, all do the exercises on their computer, yet derive at a shared answer
+    > Ideally, all do the exercises on their computer,
+    > yet derive at a shared answer
 
     This assures everyone can give a answer that is not personal.
 
@@ -23,7 +24,8 @@
 
     There is no silent room, as:
  
-    - (1) working in pairs allows 'Think, Pair, Share' to work; answering is not personal anymore, 
+    - (1) working in pairs allows 'Think, Pair, Share' to work; 
+      answering is not personal anymore, 
     - (2) getting the experienced learners to teach makes them learn too,
     - (3) this does not work well with Zoom assigning random pairs, 
     - (4) this is not designed to be a self-study course
@@ -60,7 +62,8 @@
 
     Breaks are important. 
 
-    > Take that break, either in the main room or in your breakout room. The breakout rooms will not be closed
+    > Take that break, either in the main room or in your breakout room.
+    > The breakout rooms will not be closed
 
     Do not disrupt the flow (even more) by closing the breakout rooms.
 
@@ -117,18 +120,22 @@
 - Ideally, both learners have a camera and microphone on
 - You will be put into Zoom Breakout rooms, in random pairs.
 - There is no silent room.
-- Ideally, all do the exercises on their own computer, yet derive at a shared answer
+- Ideally, all do the exercises on their own computer,
+  yet derive at a shared answer
 - One should commonly share screens
 - Stuck? You can (1) wait for a teacher to come by,
   (2) click on the Zoom option 'Ask for help', or
   (3) go to the main room
 - When done with the exercises, go back to the main room
-- Learners that are done will be asked to try to help the remaining working learners,
+- Learners that are done will be asked to try to help
+  the remaining working learners,
   by joining their breakout rooms
 - When two-thirds of the learners are in the main room, all break-out rooms
-  will be closed ruthlessly. It still takes 1 minute before the room closes though :-)
+  will be closed ruthlessly.
+  It may take 1 minute before the room closes though :-)
 - Breaks are always on the scheduled time. You will be reminded in that chat
-- Take that break, either in the main room or in your breakout room. The breakout rooms will not be closed
+- Take that break, either in the main room or in your breakout room.
+  The breakout rooms will not be closed
 - In the main room, random learners will be asked questions
   regarding those exercises.
   Say the answer you agreed upon as a group (i.e. not your personal answer!)
@@ -212,7 +219,8 @@ flowchart TD
 
     - Wait
     - Ask questions
-    - Read the next session. Turn of your camera to indicate you need to concentrate
+    - Read the next session. 
+      Turn of your camera to indicate you need to concentrate
 
 - I am alone in my Zoom breakout room. What do I do?
 
