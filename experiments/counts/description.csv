@@ -1,6 +1,6 @@
-date,a,b,c,d
-20240515,1,7,1,4
-20240822,10,4,1,4
-20240823,10,4,3,4
-20240827,10,10,10,10
-20240828,6,8,1,8
+date,description
+20240515,HPC Python Umeaa
+20240822,Awk Day 1 classic
+20240823,Awk Day 2
+20240827,Intro to UPPMAX Day 1
+20240828,Intro to UPPMAX Day 2
