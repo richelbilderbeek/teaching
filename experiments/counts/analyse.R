@@ -70,6 +70,7 @@ for (i in seq_along(descriptions$date)) {
   t$f_total <- t$n_total / t$n_max
   t$f_on <- t$n_cam_on / t$n_max
   t$f_off <- t$n_cam_off / t$n_max
+  t$most_have_cam_on <- mean(t$f_on) > 0.5
   tables[[i]] <- t
 }
 counts <- dplyr::bind_rows(tables)
@@ -125,3 +126,21 @@ ggplot2::ggplot(counts, ggplot2::aes(x = f_time, y = f_total)) +
   )
 
 ggplot2::ggsave("f_learners_per_f_time_per_f_on.png", width = 7, height = 4)
+
+# Determine if half has camera on
+ggplot2::ggplot(counts, ggplot2::aes(x = f_time, y = f_total, color = most_have_cam_on)) + 
+  ggplot2::geom_point() + 
+  ggplot2::geom_smooth() +
+  ggplot2::labs(
+    title = "Fraction of learners present in time under lesson time",
+    subtitle = "For if half of the learners have camera on",
+    caption = paste0(
+      "f_total = n_learners / max(learners_of_that_day)",
+      "\nf_time = relative time of the day (0.0 = start, 1.0 = end)",
+      "\nTrendline is Loess smoothing of all data. ",
+      "Some dips can be explained by breaks"
+    )
+  ) + ggplot2::scale_fill_continuous(guide = ggplot2::guide_legend()) +
+    ggplot2::theme(legend.position = "bottom")
+
+ggplot2::ggsave("f_learners_per_f_time_per_most_on.png", width = 7, height = 4)
