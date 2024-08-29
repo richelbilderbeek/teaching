@@ -1,6 +1,6 @@
-date,description
-20240515,HPC Python Umeaa
-20240822,Awk Day 1 classic
-20240823,Awk Day 2
-20240827,Intro to UPPMAX Day 1
-20240828,Intro to UPPMAX Day 2
+date,description,t_start,t_end
+20240515,HPC Python Umeaa,9:00,16:00
+20240822,Awk Day 1 classic,9:00,16:00
+20240823,Awk Day 2,9:00,16:00
+20240827,Intro to UPPMAX Day 1,9:00,16:00
+20240828,Intro to UPPMAX Day 2,9:00,16:00
