@@ -77,7 +77,7 @@ counts <- counts[counts$f_time >= 0.0 & counts$f_time <= 1.0, ]
 counts <- counts[!is_lunch(counts$time), ]
 
 
-# Plot all in one
+# Plot all in one, color by lesson
 ggplot2::ggplot(counts, ggplot2::aes(x = f_time, y = f_total)) + 
   ggplot2::geom_point() + 
   ggplot2::geom_smooth(color = "black") +
@@ -91,6 +91,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = f_time, y = f_total)) +
   ) + 
   ggplot2::labs(
     title = "Fraction of learners present in time under lesson time",
+    subtitle = "Per course",
     caption = paste0(
       "f_total = n_learners / max(learners_of_that_day)",
       "\nf_time = relative time of the day (0.0 = start, 1.0 = end)",
@@ -99,4 +100,28 @@ ggplot2::ggplot(counts, ggplot2::aes(x = f_time, y = f_total)) +
     )
   )
 
-ggplot2::ggsave("f_learners_per_f_time.png", width = 7, height = 4)
+ggplot2::ggsave("f_learners_per_f_time_per_course.png", width = 7, height = 4)
+
+
+
+# Plot all in one, color by percentage using the camera
+ggplot2::ggplot(counts, ggplot2::aes(x = f_time, y = f_total)) + 
+  ggplot2::geom_point() + 
+  ggplot2::geom_smooth(color = "black") +
+  ggplot2::geom_point(
+    data = counts, 
+    mapping = ggplot2::aes(x = f_time, y = f_total, color = f_on),
+    inherit.aes = FALSE
+  ) + 
+  ggplot2::labs(
+    title = "Fraction of learners present in time under lesson time",
+    subtitle = "For the fraction of learners that have the camera on",
+    caption = paste0(
+      "f_total = n_learners / max(learners_of_that_day)",
+      "\nf_time = relative time of the day (0.0 = start, 1.0 = end)",
+      "\nTrendline is Loess smoothing of all data. ",
+      "Some dips can be explained by breaks"
+    )
+  )
+
+ggplot2::ggsave("f_learners_per_f_time_per_f_on.png", width = 7, height = 4)
