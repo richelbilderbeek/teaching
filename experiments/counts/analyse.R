@@ -1,4 +1,4 @@
-#!/bin/env Rstudio
+#!/bin/env Rscript
 descriptions <- readr::read_csv("description.csv")
 
 # Check all files exists
