@@ -195,6 +195,23 @@ When      |Observee|Observer|Material|What
 * Physics, secondary school program
 * Stagecraft, secondary school program
 
+### Misc
+
+- [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
+- [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
+- [git workflows](workflows/git_workflow.md)
+- [GitHub workflow](workflows/github_workflow.md)
+
+## My favorite literature
+
+- [Bell, 2020] Bell, Mike. The fundamentals of teaching:
+  A five-step model to put the research evidence into practice. Routledge, 2020.
+- [Hattie, 2012] Hattie, John. Visible learning for teachers:
+  Maximizing impact on learning. Routledge, 2012.
+- [Hattie, 2023] Hattie, John. Visible learning:
+  The sequel: A synthesis of over 2,100 meta-analyses relating to achievement.
+  Routledge, 2023.
+
 ## Files used by continuous integration scripts
 
 Filename                              |Descriptions
@@ -205,14 +222,3 @@ Filename                              |Descriptions
 [.markdownlint.jsonc](.markdownlint.jsonc)|Configuration of the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 [.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 
-### Misc
-
-* [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
-* [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
-* [git workflows](workflows/git_workflow.md)
-* [GitHub workflow](workflows/github_workflow.md)
-
-## My favorite literature
-
-* [Bell, 2020] Bell, Mike. The fundamentals of teaching: A five-step model to put the research evidence into practice. Routledge, 2020.
-* [Hattie, 2012] Hattie, John. Visible learning for teachers: Maximizing impact on learning. Routledge, 2012.
