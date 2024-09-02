@@ -12,7 +12,7 @@ go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
 * [Bianca workshop](https://github.com/UPPMAX/bianca_workshop/), an UPPMAX course
 * [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms),
   a course by NBIS and UPPMAX
-* [R, Python and Julia for HPC](https://github.com/UPPMAX/R-python-julia-HPC),
+* [R, Python, Julia and Matlab for HPC](https://github.com/UPPMAX/R-python-julia-matlab-HPC),
   a course by HPC2N and UPPMAX
 * [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
 
