@@ -43,7 +43,13 @@ A main finding is:
 Note the motivation and -especially- engagement:
 this will be lacking in a monologue.
 
+There is no evidence that live coding is effective for learning,
+although it has been recommended by other literature,
+as those papers mostly judged live coding from the learners'
+perspective, instead of actual learning effectiveness `[Selvaraj et al., 2021]`.
+
 ## References
 
-- `[Vihavainen et al., 2014]` Vihavainen, Arto, Jonne Airaksinen, and Christopher Watson. "A systematic review of approaches for teaching introductory programming and their influence on success." Proceedings of the tenth annual conference on International computing education research. 2014.
 - `[Medeiros et al., 2018]` Medeiros, Rodrigo Pessoa, Geber Lisboa Ramalho, and Taciana Pontual Falcão. "A systematic literature review on teaching and learning introductory programming in higher education." IEEE Transactions on Education 62.2 (2018): 77-90.
+- `[Selvaraj et al., 2021]` Selvaraj, Ana, et al. "Live coding: A review of the literature." Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1. 2021.
+- `[Vihavainen et al., 2014]` Vihavainen, Arto, Jonne Airaksinen, and Christopher Watson. "A systematic review of approaches for teaching introductory programming and their influence on success." Proceedings of the tenth annual conference on International computing education research. 2014.
