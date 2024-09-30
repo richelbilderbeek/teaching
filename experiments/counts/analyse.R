@@ -1,6 +1,9 @@
 #!/bin/env Rscript
 descriptions <- readr::read_csv("description.csv", show_col_types = FALSE)
 
+# Minimal amount of measurements to be put in
+min_n_measurements <- 4
+
 # Check all files exists
 for (date in descriptions$date) {
   filename <- paste0(date, "_counts.csv")
@@ -62,6 +65,7 @@ for (i in seq_along(descriptions$date)) {
   filename <- paste0(date, "_counts.csv")
   testthat::expect_true(file.exists(filename))
   t <- readr::read_csv(filename, show_col_types = FALSE)
+  if (nrow(t) < min_n_measurements) next
   t$f_time <- get_f_time(t$time, t_start, t_end)
   t$date <- as.Date(str_to_date(date))
   t$description <- descriptions$description[i]
@@ -103,6 +107,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total)) +
     subtitle = "Per course",
     caption = paste0(
       "f_total = n_learners / max(learners_of_that_day)",
+      "min_n_measurements: ", min_n_measurements,
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
@@ -126,6 +131,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total)) +
     subtitle = "For the fraction of learners that have the camera on",
     caption = paste0(
       "f_total = n_learners / max(learners_of_that_day)",
+      "min_n_measurements: ", min_n_measurements,
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
@@ -142,6 +148,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total, color = most_have_ca
     subtitle = "For if half of the learners have camera on",
     caption = paste0(
       "f_total = n_learners / max(learners_of_that_day)",
+      "min_n_measurements: ", min_n_measurements,
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
@@ -171,6 +178,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total, fill = session)) +
     subtitle = "Per course",
     caption = paste0(
       "f_total = n_learners / max(learners_of_that_day)",
+      "min_n_measurements: ", min_n_measurements,
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
@@ -194,6 +202,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total, fill = session)) +
     subtitle = "For the fraction of learners that have the camera on",
     caption = paste0(
       "f_total = n_learners / max(learners_of_that_day)",
+      "min_n_measurements: ", min_n_measurements,
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
@@ -210,6 +219,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total, color = most_have_ca
     subtitle = "For if half of the learners have camera on",
     caption = paste0(
       "f_total = n_learners / max(learners_of_that_day)",
+      "min_n_measurements: ", min_n_measurements,
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
