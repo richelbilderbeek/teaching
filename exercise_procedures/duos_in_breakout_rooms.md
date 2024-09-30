@@ -91,7 +91,7 @@
     flowchart TD
       question_asked[Learners ask a question?]
       maybe_answer[Reply, maybe answer the question]
-      how_many_cameras[How many camaras are on?]
+      how_many_cameras[How many cameras are on?]
       concentrated[Do the learners appear concentrated?]
       discussion[Are the learners having a useful discussion?]
       arguing[Are the learners arguing?]
