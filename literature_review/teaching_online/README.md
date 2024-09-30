@@ -4,12 +4,12 @@ Media computation, group work and CS0 have the highest average pass rate:
 
 ![Vihavainen et al., 2014, figure 2](vihavainen_et_al_2014_fig_2.png)
 
-> Table 2 from `[Vihavainen et al., 2014]`: 
+> Table 2 from `[Vihavainen et al., 2014]`:
 > 'Ten most common intervention tags and
 > the overall intervention effects of the studies in
-> which they appeared in. 
+> which they appeared in.
 > Number of studies including the intervention denoted as n,
-> realized pass rates reported using minimum, maximum, median, 
+> realized pass rates reported using minimum, maximum, median,
 > average and standard deviation (σ) in percentages'.
 
 Here are the definitions given in that paper:
@@ -21,7 +21,7 @@ Here are the definitions given in that paper:
   commitment such as team-based learning and cooperative
   learning'
 - 'media computation: activities explicitly declaring the
-  use of media computation (e.g. the book)'. The paper elaborates with: 
+  use of media computation (e.g. the book)'. The paper elaborates with:
   'each article that was coded with the tag media computation, tags content:
   media, contextualization, context: media, were added to de-
   scribe that the content (material) of the course was updated
@@ -35,9 +35,9 @@ programming, with a big heterogeneity in how experiments are performed.
 A main finding is:
 
 > The most frequently cited skills necessary for
-> learning programming were related to problem solving and mathematical ability. 
+> learning programming were related to problem solving and mathematical ability.
 > Problem solving was also cited as a learning
-> challenge, followed by motivation and engagement, 
+> challenge, followed by motivation and engagement,
 > and difficulties in learning the syntax of programming languages
 
 Note the motivation and -especially- engagement:
