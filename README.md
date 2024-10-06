@@ -23,6 +23,7 @@ Most recent at the top.
 
 When      |What                                                      |URL
 ----------|----------------------------------------------------------|-----
+2024-09-25|`[1]` Bianca workshop, Basic                              |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20240925/20240925_richel.md)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                       |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240830/README.md)
 2024-08-27|`[1]` Intro to UPPMAX Day 1                               |[here](https://github.com/UPPMAX/uppmax_intro_day_1/blob/main/lesson_plans/20240827/20240827_richel.md)
 2024-05-24|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20240524/20240524_richel.md)
@@ -57,6 +58,7 @@ Most recent at the top.
 
 When      |What                                                              |URL
 ----------|------------------------------------------------------------------|-----
+2024-09-25|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20240925/20240925_richel.md)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                               |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/reflections/20240830/README.md)
 2024-08-27|`[1]` Intro to UPPMAX Day 1                                       |[here](https://github.com/UPPMAX/uppmax_intro_day_1/blob/main/reflections/20240827/README.md)
 2024-05-24|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20240524/20240524_richel.md)
@@ -106,6 +108,7 @@ Most recent at the top.
 
 When      |What                                                              |URL
 ----------|------------------------------------------------------------------|----------------------------------------
+2024-09-25|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20240925)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                               |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/20240830/README.md)
 2024-08-27|`[1]` Intro to UPPMAX Day 1                                       |[here](https://github.com/UPPMAX/uppmax_intro_day_1/blob/main/evaluations/20240827/README.md)
 2024-05-24|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20240524)
@@ -160,6 +163,9 @@ When      |Observee|Observer|Material|What
 
 ### Articles, blog posts, books
 
+* [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
+  a book about developing games using the Rust gaming engine called 'Bevy',
+  using test-driven development
 * [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
    a book about the Boost.Graph library
 * [C++ presentations](https://github.com/richelbilderbeek/CppPresentations)
