@@ -33,11 +33,11 @@ When      |What                                                      |URL
 2024-08-27|`[1]` Intro to UPPMAX Day 1                               |[here](https://github.com/UPPMAX/uppmax_intro_day_1/blob/main/lesson_plans/20240827/20240827_richel.md)
 2024-05-24|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20240524/20240524_richel.md)
 2024-04-19|`[1]` Bianca workshop, Basic                              |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20240419/20240419_richel.md)
-2024-04-16|`[1]` Intro to mermaid                                    |[here](https://github.com/UPPMAX/lesson_mermaid/blob/main/lesson_plans/20240416/README.md)
+2024-04-16|`[1]` Intro to mermaid                                    |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/main/lesson_plans/20240416/README.md)
 2024-03-14|`[3]` R, Python and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/lesson_plans/20240314_richel/README.md)
 2024-03-12|`[3]` R, Python and Julia in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/lesson_plans/20240312_richel/README.md)
 2024-01-22|`[1]` AWK course day 1                                    |[here](https://github.com/richelbilderbeek/awk_course/blob/master/lesson_plans/20240122/README.md)
-2024-01-18|`[1]` Intro to Python                                     |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240118/README.md)
+2024-01-18|`[5]` Intro to Python                                     |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240118/README.md)
 2023-12-14|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20231214/20231214_richel.md)
 2023-12-11|`[1]` Bianca workshop, Basic                              |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20231211/20231211_richel.md)
 2023-12-01|`[4]` Programming Formalisms, day 5                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_autumn/day_5_lesson_plan.md)
@@ -52,10 +52,11 @@ When      |What                                                      |URL
 2023-05-31|`[4]` Programming Formalisms, day 3                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_3_2.md)
 2023-05-30|`[4]` Programming Formalisms, day 2                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_2_2.md)
 
-* [1] UPPMAX
-* [2] NBIS
-* [3] HPC2N and UPPMAX
-* [4] NBIS and UPPMAX
+- `[1]` UPPMAX
+- `[2]` NBIS
+- `[3]` HPC2N and UPPMAX
+- `[4]` NBIS and UPPMAX
+- `[5]` KTH
 
 ## Reflections I wrote
 
@@ -69,7 +70,7 @@ When      |What                                                              |UR
 2024-08-27|`[1]` Intro to UPPMAX Day 1                                       |[here](https://github.com/UPPMAX/uppmax_intro_day_1/blob/main/reflections/20240827/README.md)
 2024-05-24|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20240524/20240524_richel.md)
 2024-04-19|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20240419/20240419_richel.md)
-2024-04-16|`[1]` Intro to mermaid                                           |[here](https://github.com/UPPMAX/lesson_mermaid/blob/main/reflections/20240416/README.md)
+2024-04-16|`[6]` Intro to mermaid                                           |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/main/reflections/20240416/README.md)
 2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/reflections/20240314_richel/README.md)
 2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/reflections/20240312_richel/README.md)
 2024-01-22|`[1]` AWK course day 1                                            |[here](https://github.com/richelbilderbeek/awk_course/blob/master/reflections/20240122/README.md)
@@ -87,11 +88,12 @@ When      |What                                                              |UR
 2023-08-27|`[5]` Lördagskurser                                               |[here](https://github.com/uppsala-makerspace/loerdagskurser/tree/master/evaluations/reflections/20230827_richel)
 2023-06-02|`[1]` Programming Formalisms                                      |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_summer/README.md)
 
-* `[1]` UPPMAX
-* `[2]` NBIS
-* `[3]` HPC2N and UPPMAX
-* `[4]` NBIS and UPPMAX
-* `[5]` Uppsala Makerspace
+- `[1]` UPPMAX
+- `[2]` NBIS
+- `[3]` HPC2N and UPPMAX
+- `[4]` NBIS and UPPMAX
+- `[5]` Uppsala Makerspace
+- `[6]` KTH
 
 ## Evaluations of the courses I coordinate
 
@@ -120,6 +122,7 @@ When      |What                                                              |UR
 2024-08-27|`[1]` Intro to UPPMAX Day 1                                       |[here](https://github.com/UPPMAX/uppmax_intro_day_1/blob/main/evaluations/20240827/README.md)
 2024-05-24|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20240524)
 2024-04-19|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20240419)
+2024-04-16|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/main/evaluations/20240416/README.md)
 2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-HPC/raw/main/evaluations/20240314/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%203%20(R)%20(1-13).xlsx)
 2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-HPC/raw/main/evaluations/20240312/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%201%20(Python)(1-25).xlsx)
 2024-01-22|`[1]` AWK course day 1                                            |[here](https://github.com/richelbilderbeek/awk_course/blob/master/evaluations/20240122/README.md)
@@ -136,11 +139,12 @@ When      |What                                                              |UR
 2023-06-01|`[1]` Programming Formalisms, day 4                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day4.pdf)
 2023-05-31|`[1]` Programming Formalisms, day 3                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day3.pdf)
 
-* `[1]` UPPMAX
-* `[2]` NBIS
-* `[3]` HPC2N and UPPMAX
-* `[4]` NBIS and UPPMAX
-* `[5]` Uppsala Makerspace
+- `[1]` UPPMAX
+- `[2]` NBIS
+- `[3]` HPC2N and UPPMAX
+- `[4]` NBIS and UPPMAX
+- `[5]` Uppsala Makerspace
+- `[6]` KTH
 
 ## Evaluations that I did in courses I did not teach
 
@@ -170,58 +174,58 @@ When      |Observee|Observer|Material|What
 
 ### Articles, blog posts, books
 
-* [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
+- [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
   a book about developing games using the Rust gaming engine called 'Bevy',
   using test-driven development
-* [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
+- [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
    a book about the Boost.Graph library
-* [C++ presentations](https://github.com/richelbilderbeek/CppPresentations)
-* [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
+- [C++ presentations](https://github.com/richelbilderbeek/CppPresentations)
+- [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
    a guest blog post on [Simplify C++](https://arne-mertz.de/)
-* [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
-* 'Raising Your Code to Professional Standards'
+- [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
+- 'Raising Your Code to Professional Standards'
   was a free (that is, it can be read without paying) article for the -now terminated- 'SDJournal'.
   It is still available at
   [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
-* [R coding standard](https://github.com/richelbilderbeek/R-CodingStandard)
-* [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
+- [R coding standard](https://github.com/richelbilderbeek/R-CodingStandard)
+- [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
 
 ### Simulations, tools, programs
 
-* [Hometrainer](https://github.com/richelbilderbeek/hometrainer): self-testing suite
-* [LearyCircumplex](https://github.com/richelbilderbeek/LearyCircumplex): tool to draw a Leary circumplex
-* [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulation,
+- [Hometrainer](https://github.com/richelbilderbeek/hometrainer): self-testing suite
+- [LearyCircumplex](https://github.com/richelbilderbeek/LearyCircumplex): tool to draw a Leary circumplex
+- [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulation,
    in which the user must do all steps of the immune response
-* [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulation in which the
+- [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulation in which the
    user must connect and use the equipment used in a theatre
-* [SoaSim](https://github.com/richelbilderbeek/SoaSim): visual simulation of the transmission
+- [SoaSim](https://github.com/richelbilderbeek/SoaSim): visual simulation of the transmission
    of Sexually Transmitted Diseases.
 
 ## Courses I taught
 
-* Biology, secondary school program
-* C++ for Biologists: a C++ course aimed at biology students in their MSc studies, teaching material is lost
-* [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course, obsoleted
-* [Dojo](https://github.com/djog/dojo.git)
-* [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
-* [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
-* Physics, secondary school program
-* Stagecraft, secondary school program
+- Biology, secondary school program
+- C++ for Biologists: a C++ course aimed at biology students in their MSc studies, teaching material is lost
+- [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course, obsoleted
+- [Dojo](https://github.com/djog/dojo.git)
+- [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
+- [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
+- Physics, secondary school program
+- Stagecraft, secondary school program
 
 ### Misc
 
-* [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
-* [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
-* [git workflows](workflows/git_workflow.md)
-* [GitHub workflow](workflows/github_workflow.md)
+- [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
+- [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
+- [git workflows](workflows/git_workflow.md)
+- [GitHub workflow](workflows/github_workflow.md)
 
 ## My favorite literature
 
-* [Bell, 2020] Bell, Mike. The fundamentals of teaching:
+- [Bell, 2020] Bell, Mike. The fundamentals of teaching:
   A five-step model to put the research evidence into practice. Routledge, 2020.
-* [Hattie, 2012] Hattie, John. Visible learning for teachers:
+- [Hattie, 2012] Hattie, John. Visible learning for teachers:
   Maximizing impact on learning. Routledge, 2012.
-* [Hattie, 2023] Hattie, John. Visible learning:
+- [Hattie, 2023] Hattie, John. Visible learning:
   The sequel: A synthesis of over 2,100 meta-analyses relating to achievement.
   Routledge, 2023.
 
