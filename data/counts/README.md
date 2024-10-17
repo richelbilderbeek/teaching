@@ -12,7 +12,6 @@ Filename           |Description
 `description.csv`  |The course descriptions
 `[date]_counts.csv`|Date the data was collected, where `[date]` is in `YYYYMMDD` format
 
-
 `description.csv` field|Description
 -----------------------|-------------------------------------------
 `date`                 |Date of the the course in `YYYYMMDD` format
