@@ -28,6 +28,8 @@ Most recent at the top.
 
 When      |What                                                      |URL
 ----------|----------------------------------------------------------|-----
+2024-10-24|`[3]` R, Python, Julia and MATLAB in HPC, R day           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20241024_richel/README.md)
+2024-10-22|`[3]` R, Python, Julia and MATLAB in HPC, Python day      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20241022_richel/README.md)
 2024-10-17|`[1]` Intro to mermaid                                    |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/lesson_plans/20241017/README.md)
 2024-09-25|`[1]` Bianca workshop, Basic                              |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20240925/20240925_richel.md)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                       |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240830/README.md)
@@ -35,8 +37,8 @@ When      |What                                                      |URL
 2024-05-24|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20240524/20240524_richel.md)
 2024-04-19|`[1]` Bianca workshop, Basic                              |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20240419/20240419_richel.md)
 2024-04-16|`[1]` Intro to mermaid                                    |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/lesson_plans/20240416/README.md)
-2024-03-14|`[3]` R, Python and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/lesson_plans/20240314_richel/README.md)
-2024-03-12|`[3]` R, Python and Julia in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/lesson_plans/20240312_richel/README.md)
+2024-03-14|`[3]` R, Python and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20240314_richel/README.md)
+2024-03-12|`[3]` R, Python and Julia in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20240312_richel/README.md)
 2024-01-22|`[1]` AWK course day 1                                    |[here](https://github.com/richelbilderbeek/awk_course/blob/master/lesson_plans/20240122/README.md)
 2024-01-18|`[5]` Intro to Python                                     |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240118/README.md)
 2023-12-14|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20231214/20231214_richel.md)
@@ -66,6 +68,9 @@ Most recent at the top.
 
 When      |What                                                              |URL
 ----------|------------------------------------------------------------------|-----
+2024-10-25|`[3]` R, Python, Julia and MATLAB in HPC, course as a whole       |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20241025_richel/README.md)
+2024-10-24|`[3]` R, Python, Julia and MATLAB in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20241024_richel/README.md)
+2024-10-22|`[3]` R, Python, Julia and MATLAB in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20241022_richel/README.md)
 2024-10-17|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/reflections/20241017/README.md)
 2024-09-25|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20240925/20240925_richel.md)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                               |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/reflections/20240830/README.md)
@@ -73,8 +78,8 @@ When      |What                                                              |UR
 2024-05-24|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20240524/20240524_richel.md)
 2024-04-19|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20240419/20240419_richel.md)
 2024-04-16|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/reflections/20240416/README.md)
-2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/reflections/20240314_richel/README.md)
-2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-HPC/tree/main/reflections/20240312_richel/README.md)
+2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20240314_richel/README.md)
+2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20240312_richel/README.md)
 2024-01-22|`[1]` AWK course day 1                                            |[here](https://github.com/richelbilderbeek/awk_course/blob/master/reflections/20240122/README.md)
 2024-01-18|`[1]` Intro to Python                                             |[here](https://github.com/UPPMAX/uppmax_intro_python/tree/main/reflections/20240118/README.md)
 2023-12-14|`[1]` Bianca workshop: intro                                      |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20231214/20231214_richel.md)
@@ -83,7 +88,7 @@ When      |What                                                              |UR
 2023-12-01|`[1]` Programming Formalisms, course                              |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_autumn/course_reflection.md)
 2023-11-30|`[1]` Programming Formalisms, day 4                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_autumn/day_4_reflection.md)
 2023-11-29|`[1]` Programming Formalisms, day 3                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/reflections/2023_autumn/day_3_reflection.md)
-2023-10-17|`[3]` Introduction to running R, Python, and Julia in HPC, Python |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/reflections/20231017/README.md)
+2023-10-17|`[3]` Introduction to running R, Python, and Julia in HPC, Python |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/blob/main/reflections/20231017/README.md)
 2023-10-13|`[2]` Introduction to Python for Bioinformaticians, day 5         |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_reflection.md)
 2023-10-10|`[2]` NBIS Introduction to Python for Bioinformaticians, day 3    |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_reflection.md)
 2023-09-11|`[1]` Bianca workshop: intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/reflections/20230911/20230911_richel.md)
@@ -119,6 +124,8 @@ Most recent at the top.
 
 When      |What                                                              |URL
 ----------|------------------------------------------------------------------|----------------------------------------
+2024-10-24|`[3]` R, Python, Julia and MATLAB in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/evaluations/20241024)
+2024-10-22|`[3]` R, Python, Julia and MATLAB in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/evaluations/20241022)
 2024-10-17|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/evaluations/20241017/README.md)
 2024-09-25|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20240925)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                               |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/20240830/README.md)
@@ -126,8 +133,8 @@ When      |What                                                              |UR
 2024-05-24|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20240524)
 2024-04-19|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20240419)
 2024-04-16|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/evaluations/20240416/README.md)
-2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-HPC/raw/main/evaluations/20240314/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%203%20(R)%20(1-13).xlsx)
-2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-HPC/raw/main/evaluations/20240312/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%201%20(Python)(1-25).xlsx)
+2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/raw/main/evaluations/20240314/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%203%20(R)%20(1-13).xlsx)
+2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/raw/main/evaluations/20240312/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%201%20(Python)(1-25).xlsx)
 2024-01-22|`[1]` AWK course day 1                                            |[here](https://github.com/richelbilderbeek/awk_course/blob/master/evaluations/20240122/README.md)
 2024-01-18|`[1]` Intro to Python                                             |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/2024_01/README.md)
 2023-12-01|`[1]` Programming Formalisms, day 5                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_5.md)
@@ -135,7 +142,7 @@ When      |What                                                              |UR
 2023-11-30|`[1]` Programming Formalisms, day 4                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_4.md)
 2023-11-29|`[1]` Programming Formalisms, day 3                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_3.md)
 2023-11-28|`[1]` Programming Formalisms, day 2                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_autumn/retrospective_results_day_2.md)
-2023-10-17|`[3]` Introduction to running R, Python, and Julia in HPC, Python |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20231017/README.md)
+2023-10-17|`[3]` Introduction to running R, Python, and Julia in HPC, Python |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/blob/main/evaluations/20231017/README.md)
 2023-10-13|`[2]` NBIS Introduction to Python for Bioinformaticians           |[here](https://github.com/NBISweden/workshop-python/blob/ht23/evaluation/Intro%20to%20Python%202023%20evaluation.csv)
 2023-09-11|`[1]` Bianca workshop                                             |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20230911/README.md)
 2023-06-02|`[1]` Programming Formalisms, day 5                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/retrospectives/2023_summer/retro-day5.pdf)
@@ -156,8 +163,8 @@ Most recent at the top.
 
 When      |What                                                       |URL
 ----------|-----------------------------------------------------------|-----
-2023-10-19|Introduction to running R, Python, and Julia in HPC, R     |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20231019/README.md)
-2023-10-18|Introduction to running R, Python, and Julia in HPC, Julia |[here](https://github.com/UPPMAX/R-python-julia-HPC/blob/main/evaluations/20231018/README.md)
+2023-10-19|Introduction to running R, Python, and Julia in HPC, R     |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/blob/main/evaluations/20231019/README.md)
+2023-10-18|Introduction to running R, Python, and Julia in HPC, Julia |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/blob/main/evaluations/20231018/README.md)
 
 ## Conferences I visited
 
