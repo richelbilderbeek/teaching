@@ -5,21 +5,9 @@ Overview of my English teaching activities.
 For an overview of my past Dutch teaching activities,
 go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
 
-## Courses I teach
+## Activities
 
-- [Intro to AWK](https://github.com/UPPMAX/awk_course), an UPPMAX course
-- [Intro to Python](https://github.com/UPPMAX/uppmax_intro_python), an UPPMAX course
-- [Bianca workshop](https://github.com/UPPMAX/bianca_workshop/), an UPPMAX course
-- [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms),
-  a course by NBIS and UPPMAX
-- [R, Python, Julia and Matlab for HPC](https://github.com/UPPMAX/R-python-julia-matlab-HPC),
-  a course by HPC2N and UPPMAX
-- [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
-
-## Other teaching-related activities
-
-- I am one of the organizer of the
-  [NBIS Teaching Literature Club](https://nbisweden.github.io/teaching_literature_club/)
+See [my activities](activities.md)
 
 ## Lesson plans I wrote
 
@@ -33,63 +21,11 @@ See [my reflections](reflections.md)
 
 See [my evaluations](evaluations.md)
 
-## Conferences I visited
-
-When      |Title
-----------|---------------------------------------------------------------------
-2023-10-19|[Konferensen i universitetspedagogisk utveckling](20231019_konferensen_i_universitetspedagogisk_utveckling.pdf)
-
-## Colleague peer observations
-
-Most I plan on paper, but hey, sometimes I do use a computer :-)
-
-When      |Observee|Observer|Material|What
-----------|--------|--------|--------|------------------------------------
-2023-08-24|Eli     |Me      |Paper   |Architecture technical drawing rules
-
 ## Teaching material
 
-### Articles, blog posts, books
+See [my teaching material](teaching_material.md)
 
-- [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
-  a book about developing games using the Rust gaming engine called 'Bevy',
-  using test-driven development
-- [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
-   a book about the Boost.Graph library
-- [C++ presentations](https://github.com/richelbilderbeek/CppPresentations)
-- [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
-   a guest blog post on [Simplify C++](https://arne-mertz.de/)
-- [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
-- 'Raising Your Code to Professional Standards'
-  was a free (that is, it can be read without paying) article for the -now terminated- 'SDJournal'.
-  It is still available at
-  [https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards](https://github.com/richelbilderbeek/sdj_raising_your_code_to_professional_standards)
-- [R coding standard](https://github.com/richelbilderbeek/R-CodingStandard)
-- [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
-
-### Simulations, tools, programs
-
-- [Hometrainer](https://github.com/richelbilderbeek/hometrainer): self-testing suite
-- [LearyCircumplex](https://github.com/richelbilderbeek/LearyCircumplex): tool to draw a Leary circumplex
-- [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulation,
-   in which the user must do all steps of the immune response
-- [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulation in which the
-   user must connect and use the equipment used in a theatre
-- [SoaSim](https://github.com/richelbilderbeek/SoaSim): visual simulation of the transmission
-   of Sexually Transmitted Diseases.
-
-## Courses I taught
-
-- Biology, secondary school program
-- C++ for Biologists: a C++ course aimed at biology students in their MSc studies, teaching material is lost
-- [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course, obsoleted
-- [Dojo](https://github.com/djog/dojo.git)
-- [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
-- [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
-- Physics, secondary school program
-- Stagecraft, secondary school program
-
-### Misc
+## Misc
 
 - [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
 - [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
