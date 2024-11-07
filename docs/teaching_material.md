@@ -1,55 +1,8 @@
-# Welcome to Richèl Teaching
+# Teaching material
 
-Overview of my English teaching activities.
+My teaching material.
 
-For an overview of my past Dutch teaching activities,
-go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
-
-## Courses I teach
-
-- [Intro to AWK](https://github.com/UPPMAX/awk_course), an UPPMAX course
-- [Intro to Python](https://github.com/UPPMAX/uppmax_intro_python), an UPPMAX course
-- [Bianca workshop](https://github.com/UPPMAX/bianca_workshop/), an UPPMAX course
-- [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms),
-  a course by NBIS and UPPMAX
-- [R, Python, Julia and Matlab for HPC](https://github.com/UPPMAX/R-python-julia-matlab-HPC),
-  a course by HPC2N and UPPMAX
-- [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
-
-## Other teaching-related activities
-
-- I am one of the organizer of the
-  [NBIS Teaching Literature Club](https://nbisweden.github.io/teaching_literature_club/)
-
-## Lesson plans I wrote
-
-See [my lesson plans](lesson_plans.md)
-
-## Reflections I wrote
-
-See [my reflections](reflections.md)
-
-## Evaluations
-
-See [my evaluations](evaluations.md)
-
-## Conferences I visited
-
-When      |Title
-----------|---------------------------------------------------------------------
-2023-10-19|[Konferensen i universitetspedagogisk utveckling](20231019_konferensen_i_universitetspedagogisk_utveckling.pdf)
-
-## Colleague peer observations
-
-Most I plan on paper, but hey, sometimes I do use a computer :-)
-
-When      |Observee|Observer|Material|What
-----------|--------|--------|--------|------------------------------------
-2023-08-24|Eli     |Me      |Paper   |Architecture technical drawing rules
-
-## Teaching material
-
-### Articles, blog posts, books
+## Articles, blog posts, books
 
 - [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
   a book about developing games using the Rust gaming engine called 'Bevy',
@@ -67,7 +20,7 @@ When      |Observee|Observer|Material|What
 - [R coding standard](https://github.com/richelbilderbeek/R-CodingStandard)
 - [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
 
-### Simulations, tools, programs
+## Simulations, tools, programs
 
 - [Hometrainer](https://github.com/richelbilderbeek/hometrainer): self-testing suite
 - [LearyCircumplex](https://github.com/richelbilderbeek/LearyCircumplex): tool to draw a Leary circumplex
@@ -77,17 +30,6 @@ When      |Observee|Observer|Material|What
    user must connect and use the equipment used in a theatre
 - [SoaSim](https://github.com/richelbilderbeek/SoaSim): visual simulation of the transmission
    of Sexually Transmitted Diseases.
-
-## Courses I taught
-
-- Biology, secondary school program
-- C++ for Biologists: a C++ course aimed at biology students in their MSc studies, teaching material is lost
-- [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course, obsoleted
-- [Dojo](https://github.com/djog/dojo.git)
-- [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
-- [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
-- Physics, secondary school program
-- Stagecraft, secondary school program
 
 ### Misc
 

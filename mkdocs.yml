@@ -5,6 +5,8 @@ repo_url: https://github.com/richelbilderbeek/teaching
 nav:
   - Home: index.md
   - Content:
+    - Activities: activities.md
+    - Teaching material: teaching_material.md
     - Lesson plans: lesson_plans.md
     - Reflections: reflections.md
     - Evaluations: evaluations.md
