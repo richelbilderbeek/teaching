@@ -6,6 +6,8 @@ nav:
   - Home: index.md
   - Content:
     - Lesson plans: lesson_plans.md
+    - Reflections: reflections.md
+    - Evaluations: evaluations.md
 
 theme:
   name: material
