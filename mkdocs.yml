@@ -4,8 +4,8 @@ repo_url: https://github.com/richelbilderbeek/teaching
 
 nav:
   - Home: index.md
-  - Overviews:
-    - Schedule: overviews/schedule.md
+  - Content:
+    - Lesson plans: lesson_plans.md
 
 theme:
   name: material

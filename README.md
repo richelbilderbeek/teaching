@@ -2,8 +2,8 @@
 
 Overview of my English teaching activities.
 
-For an overview of my past Dutch teaching activities,
-go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
+- [Rendered page here](https://richelbilderbeek.github.io/teaching/)
+- For an overview of my past Dutch teaching activities, go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
 
 ## Files used by continuous integration scripts
 
