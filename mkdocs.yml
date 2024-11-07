@@ -1,0 +1,62 @@
+site_name: Richèl's Teaching
+
+repo_url: https://github.com/richelbilderbeek/teaching
+
+nav:
+  - Home: index.md
+  - Overviews:
+    - Schedule: overviews/schedule.md
+
+theme:
+  name: material
+  greetings: Welcome to Richèl's Teaching
+  font:
+    text: Lato
+    code: JetBrains Mono
+
+  logo: assets/r_written.png
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.expand
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    
+extra_css:
+  - stylesheets/extra.css
+      
+markdown_extensions:
+  - toc:
+      toc_depth: 2
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+  - admonition
+  - tables
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
