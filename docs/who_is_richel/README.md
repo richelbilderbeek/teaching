@@ -90,3 +90,13 @@ Hence, this was the only lecture in the course :-)
 - [Schwartz, 2012] Schwartz, Beth M., and Regan AR Gurung.
   Evidence-based teaching for higher education.
   American Psychological Association, 2012.
+
+## My favorite literature
+
+- [Bell, 2020] Bell, Mike. The fundamentals of teaching:
+  A five-step model to put the research evidence into practice. Routledge, 2020.
+- [Hattie, 2012] Hattie, John. Visible learning for teachers:
+  Maximizing impact on learning. Routledge, 2012.
+- [Hattie, 2023] Hattie, John. Visible learning:
+  The sequel: A synthesis of over 2,100 meta-analyses relating to achievement.
+  Routledge, 2023.
