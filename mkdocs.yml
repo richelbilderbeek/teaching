@@ -10,6 +10,7 @@ nav:
     - Lesson plans: lesson_plans.md
     - Reflections: reflections.md
     - Evaluations: evaluations.md
+    - Who is Richèl: who_is_richel/README.md
 
 theme:
   name: material
