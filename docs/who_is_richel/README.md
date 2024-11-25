@@ -51,7 +51,9 @@ flowchart TD
 - Every learner needs to be active
 - Follows the pace of learners that need more time
 - Fast learners learn by helping
-- Asks learners randomly `[Bell, 2020]`
+- Asks learners randomly, as he should `[Bell, 2020]`
+    - Some really like it `[3]`
+    - Some really don't `[4]`
 - Dare to try out new things (and fail in plain sight) `[Bell, 2020]`
 
 ## Lecturing
@@ -71,6 +73,8 @@ Hence, this was the only lecture in the course :-)
   and is based on 3 meta analyses using 273 studies using 27,296 people,
   measuring for 614 effects with a standard error of 0.08.
   One example open access study is [Knight & Wood, 2005].
+- `[3]` [Programming Formalisms 2024 autumn evaluation](https://github.com/UPPMAX/programming_formalisms/blob/main/evaluations/2024_autumn/teacher_comments.csv)
+- `[4]` [R-Python-Julia-MATLAB course, Python day](https://github.com/UPPMAX/R-python-julia-matlab-HPC/blob/main/evaluations/20241022/20241022_python.csv)
 - [Anderson & Krathwohl, 2001] Anderson, Lorin W., and David R. Krathwohl.
   A taxonomy for learning, teaching, and assessing:
   A revision of Bloom's taxonomy of educational objectives: complete edition.
