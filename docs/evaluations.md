@@ -22,11 +22,11 @@ Most recent at the top.
 
 When      |What                                                              |URL
 ----------|------------------------------------------------------------------|----------------------------------------
-2023-11-22|`[1]` Programming Formalisms, day 5                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/evaluations/2024_autumn/20241122.md)
-2023-11-21|`[1]` Programming Formalisms, day 4                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/evaluations/2024_autumn/20241121.md)
-2023-11-20|`[1]` Programming Formalisms, day 3                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/evaluations/2024_autumn/20241120.md)
-2023-11-19|`[1]` Programming Formalisms, day 2                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/evaluations/2024_autumn/20241119.md)
-2023-11-18|`[1]` Programming Formalisms, day 1                               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/evaluations/2024_autumn/20241118.md)
+2023-11-22|`[1]` Programming Formalisms, day 5                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_autumn/20241122/)
+2023-11-21|`[1]` Programming Formalisms, day 4                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_autumn/20241121/)
+2023-11-20|`[1]` Programming Formalisms, day 3                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_autumn/20241120/)
+2023-11-19|`[1]` Programming Formalisms, day 2                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_autumn/20241119/)
+2023-11-18|`[1]` Programming Formalisms, day 1                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_autumn/20241118/)
 2024-11-11|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshop/tree/main/evaluations/20241111)
 2024-10-24|`[3]` R, Python, Julia and MATLAB in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/evaluations/20241024)
 2024-10-22|`[3]` R, Python, Julia and MATLAB in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/evaluations/20241022)
