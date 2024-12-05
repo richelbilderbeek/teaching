@@ -104,5 +104,3 @@ Hence, this was the only lecture in the course :-)
 - `[Hattie, 2023]` Hattie, John. Visible learning:
   The sequel: A synthesis of over 2,100 meta-analyses relating to achievement.
   Routledge, 2023.
-
-
