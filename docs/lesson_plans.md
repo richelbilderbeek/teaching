@@ -5,11 +5,11 @@ Most recent at the top.
 
 When      |What                                                      |URL
 ----------|----------------------------------------------------------|-----
-2024-11-22|`[4]` Programming Formalisms, day 5                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2024_autumn/20241122_richel.md)
-2024-11-21|`[4]` Programming Formalisms, day 4                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2024_autumn/20241121_richel.md)
-2024-11-20|`[4]` Programming Formalisms, day 3                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2024_autumn/20241120_richel.md)
-2024-11-19|`[4]` Programming Formalisms, day 2                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2024_autumn/20241119_richel.md)
-2024-11-18|`[4]` Programming Formalisms, day 1                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2024_autumn/20241118_richel.md)
+2024-11-22|`[4]` Programming Formalisms, day 5                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241122_richel.md)
+2024-11-21|`[4]` Programming Formalisms, day 4                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241121_richel.md)
+2024-11-20|`[4]` Programming Formalisms, day 3                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241120_richel.md)
+2024-11-19|`[4]` Programming Formalisms, day 2                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241119_richel.md)
+2024-11-18|`[4]` Programming Formalisms, day 1                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241118_richel.md)
 2024-11-11|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20241111/20241111_richel.md)
 2024-10-24|`[3]` R, Python, Julia and MATLAB in HPC, R day           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20241024_richel/README.md)
 2024-10-22|`[3]` R, Python, Julia and MATLAB in HPC, Python day      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20241022_richel/README.md)
@@ -27,17 +27,17 @@ When      |What                                                      |URL
 2024-01-18|`[5]` Intro to Python                                     |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/lesson_plans/20240118/README.md)
 2023-12-14|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20231214/20231214_richel.md)
 2023-12-11|`[1]` Bianca workshop, Basic                              |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20231211/20231211_richel.md)
-2023-12-01|`[4]` Programming Formalisms, day 5                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_autumn/day_5_lesson_plan.md)
-2023-11-30|`[4]` Programming Formalisms, day 4                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_autumn/day_4_lesson_plan.md)
-2023-11-29|`[4]` Programming Formalisms, day 3                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_autumn/day_3_lesson_plan.md)
+2023-12-01|`[4]` Programming Formalisms, day 5                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_autumn/day_5_lesson_plan.md)
+2023-11-30|`[4]` Programming Formalisms, day 4                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_autumn/day_4_lesson_plan.md)
+2023-11-29|`[4]` Programming Formalisms, day 3                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_autumn/day_3_lesson_plan.md)
 2023-11-13|`[2]` Introduction to Python for Bioinformaticians, day 5 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_5/20231113_richel.md)
 2023-11-10|`[2]` Introduction to Python for Bioinformaticians, day 3 |[here](https://github.com/NBISweden/workshop-python/blob/ht23/lesson_plans/day_3/20231110_richel.md)
 2023-09-11|`[1]` Bianca workshop, Intermediate                       |[here](https://github.com/UPPMAX/bianca_workshop/blob/main/lesson_plans/20230911/20230911_richel.md)
-2023-06-02|`[4]` Programming Formalisms, day 5                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_5_2.md)
-2023-06-01|`[4]` Programming Formalisms, day 4 morning               |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_1.md)
-2023-06-01|`[4]` Programming Formalisms, day 4 afternoon             |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_4_2.md)
-2023-05-31|`[4]` Programming Formalisms, day 3                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_3_2.md)
-2023-05-30|`[4]` Programming Formalisms, day 2                       |[here](https://github.com/UPPMAX/programming_formalisms/blob/main/lesson_plans/2023_summer/day_2_2.md)
+2023-06-02|`[4]` Programming Formalisms, day 5                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_summer/day_5_2.md)
+2023-06-01|`[4]` Programming Formalisms, day 4 morning               |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_summer/day_4_1.md)
+2023-06-01|`[4]` Programming Formalisms, day 4 afternoon             |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_summer/day_4_2.md)
+2023-05-31|`[4]` Programming Formalisms, day 3                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_summer/day_3_2.md)
+2023-05-30|`[4]` Programming Formalisms, day 2                       |[here]https://uppmax.github.io/programming_formalisms/lesson_plans/2023_summer/day_2_2.md)
 
 - `[1]` UPPMAX
 - `[2]` NBIS
