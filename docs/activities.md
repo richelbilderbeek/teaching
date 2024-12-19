@@ -6,7 +6,7 @@ My current and former activities.
 
 - [Intro to AWK](https://github.com/UPPMAX/awk_course), an UPPMAX course
 - [Intro to Python](https://github.com/UPPMAX/uppmax_intro_python), an UPPMAX course
-- [Bianca workshop](https://github.com/UPPMAX/bianca_workshop/), an UPPMAX course
+- [Bianca workshop](https://github.com/UPPMAX/bianca_workshops/), an UPPMAX course
 - [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms),
   a course by NBIS and UPPMAX
 - [R, Python, Julia and Matlab for HPC](https://github.com/UPPMAX/R-python-julia-matlab-HPC),
