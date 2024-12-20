@@ -36,7 +36,7 @@ When      |What                                                              |UR
 2024-10-17|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/evaluations/20241017/README.md)
 2024-09-25|`[1]` Bianca workshop, Basic                                      |[here](https://github.com/UPPMAX/bianca_workshops/tree/main/evaluations/20240925)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                               |[here](https://github.com/UPPMAX/uppmax_intro_python/blob/main/evaluations/20240830/README.md)
-2024-08-27|`[1]` Intro to UPPMAX Day 1                                       |[here](https://github.com/UPPMAX/uppmax_intro_day_1/blob/main/evaluations/20240827/README.md)
+2024-08-27|`[1]` Intro to UPPMAX Day 1                                       |[here](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20240827/)
 2024-05-24|`[1]` Bianca workshop, Intermediate                               |[here](https://github.com/UPPMAX/bianca_workshops/tree/main/evaluations/20240524)
 2024-04-26|`[1]` Programming Formalisms, day 5                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_summer/20240426/)
 2024-04-25|`[1]` Programming Formalisms, day 4                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_summer/20240425/)
