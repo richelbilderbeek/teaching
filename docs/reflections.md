@@ -31,7 +31,7 @@ When      |What                                                              |UR
 2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20240314_richel/README.md)
 2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20240312_richel/README.md)
 2024-01-22|`[1]` AWK course day 1                                            |[here](https://github.com/richelbilderbeek/awk_course/blob/master/reflections/20240122/README.md)
-2024-01-18|`[1]` Intro to Python                                             |[here](https://github.com/UPPMAX/uppmax_intro_python/tree/main/reflections/20240118/README.md)
+2024-01-18|`[1]` Intro to Python                                             |[here](https://uppmax.github.io/uppmax_intro_python/reflections/20240118)
 2023-12-14|`[1]` Bianca workshop: intro                                      |[here](https://uppmax.github.io/bianca_workshops/reflections/20231214/20231214_richel)
 2023-12-11|`[1]` Bianca workshop                                             |[here](https://uppmax.github.io/bianca_workshops/reflections/20231211/20231211_richel)
 2023-12-09|`[5]` Lördagskurser                                               |[here](https://uppsala-makerspace.github.io/loerdagskurser/reflektioner/20231209_richel/)
