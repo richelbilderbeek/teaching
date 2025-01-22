@@ -45,9 +45,9 @@ Use the following questions to test your rule:
     - no
 - How do you rate the pre-course information given?
     - 1. Very unsatisfactory/Not useful
-    - 2. 
-    - 3. 
-    - 4. 
+    - 2.
+    - 3.
+    - 4.
     - 5. Very good/Very useful
 - Please rate teacher X on a scale from 1 (poor) to 10 (excellent)
 - Please rate your satisfaction per session on a scale from 1 (poor) to 10 (excellent)
@@ -84,37 +84,39 @@ Maybe they meant, from [Balsyte, Erika, et al. "Assessing the performance and im
 > Botzki, Alexander; et.al., PLoS Comput Biol 16(7): e1007976, 2020
 
 There, the metrics ELIXIR wants to conform to can ultimately be found
-at https://training-metrics-dev.elixir-europe.org/all-reports in
+at <https://training-metrics-dev.elixir-europe.org/all-reports> in
 
 > These metrics were developed out of those already collected by ELIXIR
 > training providers, as well as from discussions with stakeholders,
 > external training providers, and literature review [6,7].
 
 I think this is a useful evaluation using learning objectives:
-- https://uppmax.github.io/bianca_workshops/evaluations/20241111/
+
+- <https://uppmax.github.io/bianca_workshops/evaluations/20241111/>
 
 I think this is a useful evaluation for improving as a teacher:
-- https://uppmax.github.io/programming_formalisms/reflections/2024_autumn/20241122_richel/
+
+- <https://uppmax.github.io/programming_formalisms/reflections/2024_autumn/20241122_richel/>
 
 Here is an example of how useful questions can be determined:
 
-- https://github.com/UPPMAX/R-python-julia-matlab-HPC/blob/main/reflections/20241024_richel/README.md#evaluation-results
-- https://uppmax.github.io/programming_formalisms/reflections/2024_autumn/20241122_richel/
+- <https://github.com/UPPMAX/R-python-julia-matlab-HPC/blob/main/reflections/20241024_richel/README.md#evaluation-results>
+- <https://uppmax.github.io/programming_formalisms/reflections/2024_autumn/20241122_richel/>
 
 > A professor is faced with a stark dilemma: teach to the SET and be promoted and tenured, or teach to prepare students for the next course, graduation and future careers, and be terminated
 >
 > [Uttl et al., 2017]
 
-From [Martin, Corinne S., et al. "Demonstrating public value to funders and other stakeholders—the journey of ELIXIR, a virtual and distributed research infrastructure for life science data." Annals of Public and Cooperative Economics 92.3 (2021): 497-510.]: 
+From [Martin, Corinne S., et al. "Demonstrating public value to funders and other stakeholders—the journey of ELIXIR, a virtual and distributed research infrastructure for life science data." Annals of Public and Cooperative Economics 92.3 (2021): 497-510.]:
 
 > ELIXIR's main impact areas were not arrived at following a systematic
 > approach. Rather, they have naturally emerged as a result of reviewing
 > existing classifications, and carrying out informal discussions and
-> consultations across ELIXIR and beyond. 
+> consultations across ELIXIR and beyond.
 
 ## References
 
-- `[Stroebe, 2020]` Stroebe, W. (2020). Student Evaluations of Teaching Encourages Poor Teaching and Contributes to Grade Inflation: A Theoretical and Empirical Analysis. Basic and Applied Social Psychology, 42(4), 276–294. https://doi.org/10.1080/01973533.2020.1756817
+- `[Stroebe, 2020]` Stroebe, W. (2020). Student Evaluations of Teaching Encourages Poor Teaching and Contributes to Grade Inflation: A Theoretical and Empirical Analysis. Basic and Applied Social Psychology, 42(4), 276–294. <https://doi.org/10.1080/01973533.2020.1756817>
 
 - `[Melo et al., 2022]` Melo, Ana MP, et al. "Making European performance and impact assessment frameworks for research infrastructures global." F1000Research 11 (2022).
 

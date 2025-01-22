@@ -13,6 +13,4 @@ The goal of this exercise is to evaluate the ELIXIR evaluation.
 
 - [Phase 1](phase_1.md): collect ideal evaluation questions
 - Phase 2: Add the NBIS questions to the results. Then per question: comment
-- Phase 3: Collect the comments per question. Then per question: grade (-5 to +5) 
-
-
+- Phase 3: Collect the comments per question. Then per question: grade (-5 to +5)
