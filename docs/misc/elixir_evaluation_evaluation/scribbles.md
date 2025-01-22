@@ -116,6 +116,6 @@ From [Martin, Corinne S., et al. "Demonstrating public value to funders and othe
 
 - `[Stroebe, 2020]` Stroebe, W. (2020). Student Evaluations of Teaching Encourages Poor Teaching and Contributes to Grade Inflation: A Theoretical and Empirical Analysis. Basic and Applied Social Psychology, 42(4), 276–294. https://doi.org/10.1080/01973533.2020.1756817
 
-- `[Melo et al., 2022]` Melo, Ana MP, et al. "Making European performance and impact assessment frameworks for research infrastructures glocal." F1000Research 11 (2022).
+- `[Melo et al., 2022]` Melo, Ana MP, et al. "Making European performance and impact assessment frameworks for research infrastructures global." F1000Research 11 (2022).
 
 - `[Uttl et al., 2017]` Uttl, Bob, Carmela A. White, and Daniela Wong Gonzalez. "Meta-analysis of faculty's teaching effectiveness: Student evaluation of teaching ratings and student learning are not related." Studies in Educational Evaluation 54 (2017): 22-42.
