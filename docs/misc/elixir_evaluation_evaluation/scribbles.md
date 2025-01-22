@@ -44,11 +44,11 @@ Use the following questions to test your rule:
     - yes
     - no
 - How do you rate the pre-course information given?
-    - 1. Very unsatisfactory/Not useful
-    - 2.
-    - 3.
-    - 4.
-    - 5. Very good/Very useful
+    - `1. Very unsatisfactory/Not useful`
+    - `2.`
+    - `3.`
+    - `4.`
+    - `5. Very good/Very useful`
 - Please rate teacher X on a scale from 1 (poor) to 10 (excellent)
 - Please rate your satisfaction per session on a scale from 1 (poor) to 10 (excellent)
 
