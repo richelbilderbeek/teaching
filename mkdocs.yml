@@ -4,19 +4,14 @@ repo_url: https://github.com/richelbilderbeek/teaching
 
 nav:
   - Home: index.md
-  - Teaching:
-    - Activities: activities.md
-    - Teaching material: teaching_material.md
-    - Lesson plans: lesson_plans.md
-    - Reflections: reflections.md
-    - Evaluations: evaluations.md
-  - Exercise procedure:
-    - Duo's in breakout rooms: exercise_procedures/duos_in_breakout_rooms.md
-    - Work in silence: exercise_procedures/work_in_silent.md
-  - Workflows:
-    - git: workflows/git_workflow.md
-    - GitHub: workflows/github_workflow.md
+  - Activities: activities.md
+  - Teaching material: teaching_material.md
+  - Lesson plans: lesson_plans.md
+  - Reflections: reflections.md
+  - Evaluations: evaluations.md
   - Misc:
+    - ELIXIR evaluation evaluation: misc/elixir_evaluation_evaluation/README.md
+    - Exercise procedure: exercise_procedures/README.md
     - Who is Richèl: who_is_richel/README.md
 
 theme:
