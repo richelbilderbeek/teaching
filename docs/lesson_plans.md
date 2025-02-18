@@ -5,7 +5,7 @@ Most recent at the top.
 
 When      |What                                                      |URL
 ----------|----------------------------------------------------------|-----
-2025-02-10|`[1]` Intro to UPPMAX Day 1                               |[here](https://uppmax.github.io/uppmax_intro_day_1/lesson_plans/20250210/20250210_richel/)
+2025-02-10|`[1]` Intro to UPPMAX Day 1                               |[here](https://uppmax.github.io/uppmax_intro_day_1/lesson_plans/20250210/)
 2024-11-22|`[4]` Programming Formalisms, day 5                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241122_richel/)
 2024-11-21|`[4]` Programming Formalisms, day 4                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241121_richel/)
 2024-11-20|`[4]` Programming Formalisms, day 3                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241120_richel/)
