@@ -13,3 +13,4 @@ go to [my `lesgeven` repository](https://github.com/richelbilderbeek/lesgeven).
 [![Create website](https://github.com/richelbilderbeek/teaching/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/teaching/actions/workflows/create_website.yaml)
 
 <!-- markdownlint-enable MD013 -->
+
