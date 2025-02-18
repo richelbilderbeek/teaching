@@ -3,6 +3,8 @@
 Most I plan on paper, but hey, sometimes I do use a computer :-)
 Most recent at the top.
 
+## Future
+
 When      |What                                                      |URL
 ----------|----------------------------------------------------------|------
 2025-05-23|`[1]` Bianca workshop, Intermediate                       |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20250523/20250523_richel)
@@ -17,6 +19,11 @@ When      |What                                                      |URL
 2025-03-24|`[6]` R, MATLAB and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-matlab-julia-HPC/blob/main/lesson_plans/20250324_richel/README.md)
 2025-03-19|`[1]` Bianca workshop, Basic                              |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20250319/20250319_richel/)
 2025-03-07|`[7]` Transferring Files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250307/)
+
+## Past
+
+When      |What                                                      |URL
+----------|----------------------------------------------------------|------
 2025-02-10|`[1]` Intro to UPPMAX Day 1                               |[here](https://uppmax.github.io/uppmax_intro_day_1/lesson_plans/20250210/)
 2024-11-22|`[4]` Programming Formalisms, day 5                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241122_richel/)
 2024-11-21|`[4]` Programming Formalisms, day 4                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241121_richel/)
