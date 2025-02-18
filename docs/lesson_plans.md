@@ -4,7 +4,9 @@ Most I plan on paper, but hey, sometimes I do use a computer :-)
 Most recent at the top.
 
 When      |What                                                      |URL
-----------|----------------------------------------------------------|-----
+----------|----------------------------------------------------------|------
+2025-05-23|`[1]` Bianca workshop, Intermediate                       |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20250523/20250523_richel)
+2025-05-16|`[7]` Transferring Files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250516/)
 2025-05-09|`[4]` Programming Formalisms, day 5                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250509_richel/)
 2025-05-08|`[4]` Programming Formalisms, day 4                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250508_richel/)
 2025-05-07|`[4]` Programming Formalisms, day 3                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250507_richel/)
