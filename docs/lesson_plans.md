@@ -5,9 +5,16 @@ Most recent at the top.
 
 When      |What                                                      |URL
 ----------|----------------------------------------------------------|-----
-2025-04-24|`[6]` HPC Python                                          |[here](https://github.com/UPPMAX/HPC-python/blob/main/docs/lesson_plans/20250424/README.md)
-2025-04-23|`[6]` HPC Python                                          |[here](https://github.com/UPPMAX/HPC-python/blob/main/docs/lesson_plans/20250423/README.md)
+2025-05-09|`[4]` Programming Formalisms, day 5                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250509_richel/)
+2025-05-08|`[4]` Programming Formalisms, day 4                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250508_richel/)
+2025-05-07|`[4]` Programming Formalisms, day 3                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250507_richel/)
+2025-05-06|`[4]` Programming Formalisms, day 2                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250506_richel/)
+2025-05-05|`[4]` Programming Formalisms, day 1                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_spring/20250505_richel/)
+2025-04-24|`[6]` HPC Python Day 2                                    |[here](https://github.com/UPPMAX/HPC-python/blob/main/docs/lesson_plans/20250424/README.md)
+2025-04-23|`[6]` HPC Python Day 1                                    |[here](https://github.com/UPPMAX/HPC-python/blob/main/docs/lesson_plans/20250423/README.md)
 2025-03-24|`[6]` R, MATLAB and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-matlab-julia-HPC/blob/main/lesson_plans/20250324_richel/README.md)
+2025-03-19|`[1]` Bianca workshop, Basic                              |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20250319/20250319_richel/)
+2025-03-07|`[7]` Transferring Files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250307/)
 2025-02-10|`[1]` Intro to UPPMAX Day 1                               |[here](https://uppmax.github.io/uppmax_intro_day_1/lesson_plans/20250210/)
 2024-11-22|`[4]` Programming Formalisms, day 5                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241122_richel/)
 2024-11-21|`[4]` Programming Formalisms, day 4                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_autumn/20241121_richel/)
@@ -49,3 +56,4 @@ When      |What                                                      |URL
 - `[4]` NBIS and UPPMAX
 - `[5]` KI
 - `[6]` HPC2N and UPPMAX and LUNARC
+- `[7]` NAISS
