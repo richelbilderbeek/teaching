@@ -24,14 +24,6 @@ When      |Title
 ----------|---------------------------------------------------------------------
 2023-10-19|[Konferensen i universitetspedagogisk utveckling](20231019_konferensen_i_universitetspedagogisk_utveckling.pdf)
 
-## Colleague peer observations
-
-Most I plan on paper, but hey, sometimes I do use a computer :-)
-
-When      |Observee|Observer|Material|What
-----------|--------|--------|--------|------------------------------------
-2023-08-24|Eli     |Me      |Paper   |Architecture technical drawing rules
-
 ## Courses I taught
 
 - Biology, secondary school program
