@@ -8,7 +8,7 @@ Most recent at the top.
 When      |What                                                      |URL
 ----------|----------------------------------------------------------|------
 2025-05-23|`[1]` Bianca workshop, Intermediate                       |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20250523/20250523_richel)
-2025-05-16|`[7]` Transferring Files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250516/)
+2025-05-16|`[7]` Transferring files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250516/)
 2025-05-09|`[4]` Programming Formalisms, day 5                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_summer/20250509_richel/)
 2025-05-08|`[4]` Programming Formalisms, day 4                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_summer/20250508_richel/)
 2025-05-07|`[4]` Programming Formalisms, day 3                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2025_summer/20250507_richel/)
@@ -18,7 +18,7 @@ When      |What                                                      |URL
 2025-04-23|`[6]` HPC Python Day 1                                    |[here](https://github.com/UPPMAX/HPC-python/blob/main/docs/lesson_plans/20250423/README.md)
 2025-03-24|`[6]` R, MATLAB and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-matlab-julia-HPC/blob/main/lesson_plans/20250324_richel/README.md)
 2025-03-19|`[1]` Bianca workshop, Basic                              |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20250319/20250319_richel/)
-2025-03-07|`[7]` Transferring Files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250307/)
+2025-03-07|`[7]` Transferring files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250307/)
 2025-03-04|`[7]` Introduction to Python                              |[here](https://uppmax.github.io/uppmax_intro_python/lesson_plans/20250304/)
 
 ## Past
