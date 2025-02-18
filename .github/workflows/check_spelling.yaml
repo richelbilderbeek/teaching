@@ -5,7 +5,15 @@ name: Check spelling
 # 21st as the first letter of this repo is the 21st letter in the alphabet.
 on:
   push:
+    paths:
+      - .github/workflows/check_spelling.yaml
+      - 'docs/**'
+      - .wordlist.txt
   pull_request:
+    paths:
+      - .github/workflows/check_spelling.yaml
+      - 'docs/**'
+      - .wordlist.txt
   schedule:
   - cron: "0 0 21 * *"
 

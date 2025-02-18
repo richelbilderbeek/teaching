@@ -1,6 +1,6 @@
 site_name: Richèl's Teaching
-
 repo_url: https://github.com/richelbilderbeek/teaching
+edit_uri: blob/main/docs/
 
 nav:
   - Home: index.md
