@@ -17,6 +17,7 @@ My current and former activities.
 
 - I am one of the organizer of the
   [NBIS Teaching Literature Club](https://nbisweden.github.io/teaching_literature_club/)
+- [2025-03-06: Women-only workshop](https://github.com/richelbilderbeek/workshop_20250306)
 
 ## Conferences I visited
 
