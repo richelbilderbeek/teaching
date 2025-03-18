@@ -1,6 +1,8 @@
 # Scribbles
 
-!!! warning "Draft"
+!!! warning "These are just scribbles"
+
+    The actual academic paper can be found [here](https://nbisweden.github.io/elixir_evaluation_evaluation/)
 
     This is just a collection of scribbles
 
