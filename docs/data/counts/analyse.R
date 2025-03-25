@@ -128,7 +128,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total)) +
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
-  )
+  ) + ggplot2::theme(legend.position = "none")
 
 ggplot2::ggsave("f_learners_per_f_time_per_course.png", width = 7, height = 4)
 
@@ -199,7 +199,7 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total, fill = session)) +
       "\nTrendline is Loess smoothing of all data. ",
       "Some dips can be explained by breaks"
     )
-  )
+  )  + ggplot2::theme(legend.position = "none")
 
 ggplot2::ggsave("f_learners_per_f_time_per_course_per_session.png", width = 7, height = 4)
 
