@@ -11,6 +11,23 @@ for (date in descriptions$date) {
     stop("File with name '", filename, "' does not exist")
   }
 }
+# Check that all files have descriptions
+count_filenames <- list.files(pattern = "_counts")
+for (count_filename in count_filenames) {
+  count_filename_date <- stringr::str_sub(count_filename, 1, 8)
+  if (!count_filename_date %in% descriptions$date) {
+    stop(
+      paste0(
+        "File '",
+        count_filename,
+        "' does not have a description. ",
+        "Please add it to 'descriptions.csv'."
+      )
+    )
+  }
+}
+
+
 
 # Check that all files have the same col_names
 first_filename <- paste0(descriptions$date[1], "_counts.csv")
