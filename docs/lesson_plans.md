@@ -19,7 +19,7 @@ When      |What                                                      |URL
 2025-03-24|`[6]` R, MATLAB and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-matlab-julia-HPC/blob/main/lesson_plans/20250324_richel/README.md)
 2025-03-19|`[1]` Bianca workshop, Basic                              |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20250319/20250319_richel/)
 2025-03-07|`[7]` Transferring files to/from HPC Clusters             |[here](https://uppmax.github.io/naiss_file_transfer_course/lesson_plans/20250307/)
-2025-03-04|`[7]` Introduction to Python                              |[here](https://uppmax.github.io/uppmax_intro_python/lesson_plans/20250304/)
+2025-03-04|`[7]` Introduction to Python                              |[here](https://uppmax.github.io/naiss_intro_python/lesson_plans/20250304/)
 
 ## Past
 
@@ -36,7 +36,7 @@ When      |What                                                      |URL
 2024-10-22|`[3]` R, Python, Julia and MATLAB in HPC, Python day      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20241022_richel/README.md)
 2024-10-17|`[1]` Intro to mermaid                                    |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/lesson_plans/20241017/README.md)
 2024-09-25|`[1]` Bianca workshop, Basic                              |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20240925/20240925_richel)
-2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                       |[here](https://uppmax.github.io/uppmax_intro_python/lesson_plans/20240830)
+2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                       |[here](https://uppmax.github.io/naiss_intro_python/lesson_plans/20240830)
 2024-08-27|`[1]` Intro to UPPMAX Day 1                               |[here](https://uppmax.github.io/uppmax_intro_day_1/lesson_plans/20240827/20240827_richel/)
 2024-05-24|`[1]` Bianca workshop, Intermediate                       |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20240524/20240524_richel)
 2024-04-22|`[4]` Programming Formalisms, all days                    |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2024_summer/richel/)
@@ -45,7 +45,7 @@ When      |What                                                      |URL
 2024-03-14|`[3]` R, Python and Julia in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20240314_richel/README.md)
 2024-03-12|`[3]` R, Python and Julia in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/lesson_plans/20240312_richel/README.md)
 2024-01-22|`[1]` AWK course day 1                                    |[here](https://github.com/richelbilderbeek/awk_course/blob/master/lesson_plans/20240122/README.md)
-2024-01-18|`[5]` Intro to Python                                     |[here](https://uppmax.github.io/uppmax_intro_python/lesson_plans/20240118)
+2024-01-18|`[5]` Intro to Python                                     |[here](https://uppmax.github.io/naiss_intro_python/lesson_plans/20240118)
 2023-12-14|`[1]` Bianca workshop, Intermediate                       |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20231214/20231214_richel)
 2023-12-11|`[1]` Bianca workshop, Basic                              |[here](https://uppmax.github.io/bianca_workshops/lesson_plans/20231211/20231211_richel)
 2023-12-01|`[4]` Programming Formalisms, day 5                       |[here](https://uppmax.github.io/programming_formalisms/lesson_plans/2023_autumn/day_5_lesson_plan/)
