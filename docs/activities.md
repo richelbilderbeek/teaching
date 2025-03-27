@@ -19,6 +19,16 @@ My current and former activities.
   [NBIS Teaching Literature Club](https://nbisweden.github.io/teaching_literature_club/)
 - [2025-03-06: Women-only workshop](https://github.com/richelbilderbeek/workshop_20250306)
 
+- I supervise interns from the gymnasium for a so-called PRAO:
+
+Who     |When      |Report
+--------|----------|-----------------------------------------------------------------
+Felix   |2024-04-17|[here](https://github.com/richelbilderbeek/prao_felix_20240417)
+Emil    |2024-06-03|[here](https://github.com/richelbilderbeek/prao_emil_20240603)
+Frans   |2024-11-14|[here](https://github.com/richelbilderbeek/prao_frans_20241114)
+Jonathan|2024-11-26|[here](https://github.com/richelbilderbeek/prao_jonatan_20241126)
+Noah    |2025-04-09|[here](https://github.com/richelbilderbeek/prao_noah_20250409)
+
 ## Conferences I visited
 
 When      |Title
@@ -35,3 +45,4 @@ When      |Title
 - [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
 - Physics, secondary school program
 - Stagecraft, secondary school program
+
