@@ -31,8 +31,16 @@ When      |What                                                     |URL
 These are courses I am not a coordinator of.
 Most recent at the top.
 
+
+
 When      |What                                                              |URL
 ----------|------------------------------------------------------------------|----------------------------------------
+2025-04-10|`[6]` Intro to Mermaid                                            |[here](https://richelbilderbeek.github.io/lesson_mermaid/evaluations/20250410/
+2025-04-04|`[6]` Intro to R                                                  |[here](https://richelbilderbeek.github.io/intro_r_course/evaluations/20250404/)
+2025-03-24|`[7]` R, MATLAB and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/evaluations/20250324)
+2025-03-19|`[1]` Bianca workshop, Basic                                      |[here](https://uppmax.github.io/bianca_workshops/evaluations/20250319)
+2025-03-07|`[8]` Transferring files to/from HPC clusters                     |[here](https://uppmax.github.io/naiss_file_transfer_course/evaluations/20250307/)
+2025-03-04|`[8]` Introduction to Python                                      |[here](https://uppmax.github.io/naiss_intro_python/evaluations/20250304/)
 2025-02-10|`[1]` Intro to UPPMAX Day 1                                       |[here](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20250210/)
 2024-11-22|`[1]` Programming Formalisms, day 5                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_autumn/20241122/)
 2024-11-21|`[1]` Programming Formalisms, day 4                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_autumn/20241121/)
@@ -42,7 +50,7 @@ When      |What                                                              |UR
 2024-11-11|`[1]` Bianca workshop, Intermediate                               |[here](https://uppmax.github.io/bianca_workshops/evaluations/20241111)
 2024-10-24|`[3]` R, Python, Julia and MATLAB in HPC, R day                   |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/evaluations/20241024)
 2024-10-22|`[3]` R, Python, Julia and MATLAB in HPC, Python day              |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/evaluations/20241022)
-2024-10-17|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/evaluations/20241017/README.md)
+2024-10-17|`[6]` Intro to Mermaid                                            |[here](https://richelbilderbeek.github.io/lesson_mermaid/evaluations/20241017/)
 2024-09-25|`[1]` Bianca workshop, Basic                                      |[here](https://uppmax.github.io/bianca_workshops/evaluations/20240925)
 2024-08-30|`[1]` Intro to UPPMAX Day 4: Python                               |[here](https://uppmax.github.io/naiss_intro_python/evaluations/20240830)
 2024-08-27|`[1]` Intro to UPPMAX Day 1                                       |[here](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20240827/)
@@ -53,7 +61,7 @@ When      |What                                                              |UR
 2024-04-23|`[1]` Programming Formalisms, day 2                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_summer/20240423/)
 2024-04-22|`[1]` Programming Formalisms, day 1                               |[here](https://uppmax.github.io/programming_formalisms/evaluations/2024_summer/20240422/)
 2024-04-19|`[1]` Bianca workshop, Basic                                      |[here](https://uppmax.github.io/bianca_workshops/evaluations/20240419)
-2024-04-16|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/evaluations/20240416/README.md)
+2024-04-16|`[6]` Intro to Mermaid                                            |[here](https://richelbilderbeek.github.io/lesson_mermaid/evaluations/20240416/)
 2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/raw/main/evaluations/20240314/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%203%20(R)%20(1-13).xlsx)
 2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/raw/main/evaluations/20240312/Introduction%20to%20running%20R,%20Python,%20and%20Julia%20in%20HPC,%2012-14%20March%202024%20-%20DAY%201%20(Python)(1-25).xlsx)
 2024-01-22|`[1]` AWK course day 1                                            |[here](https://github.com/richelbilderbeek/awk_course/blob/master/evaluations/20240122/README.md)
@@ -75,7 +83,9 @@ When      |What                                                              |UR
 - `[3]` HPC2N and UPPMAX
 - `[4]` NBIS and UPPMAX
 - `[5]` Uppsala Makerspace
-- `[6]` KI
+- `[6]` KTH
+- `[7]` HPC2N and UPPMAX and LUNARC
+- `[8]` NAISS
 
 ## Evaluations that I did in courses I did not teach
 

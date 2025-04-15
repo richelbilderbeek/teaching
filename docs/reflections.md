@@ -4,7 +4,13 @@ Most I write on paper, but hey, sometimes I do use a computer :-) .
 Most recent at the top.
 
 When      |What                                                              |URL
-----------|------------------------------------------------------------------|-----
+----------|------------------------------------------------------------------|------
+2025-04-10|`[6]` Intro to Mermaid                                            |[here](https://richelbilderbeek.github.io/lesson_mermaid/reflections/20250410/
+2025-04-04|`[6]` Intro to R                                                  |[here](https://richelbilderbeek.github.io/intro_r_course/reflections/20250404/)
+2025-03-24|`[7]` R, MATLAB and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20250324)
+2025-03-19|`[1]` Bianca workshop, Basic                                      |[here](https://uppmax.github.io/bianca_workshops/reflections/20250319)
+2025-03-07|`[8]` Transferring files to/from HPC clusters                     |[here](https://uppmax.github.io/naiss_file_transfer_course/reflections/20250307/)
+2025-03-04|`[8]` Introduction to Python                                      |[here](https://uppmax.github.io/naiss_intro_python/reflections/20250304/)
 2025-02-10|`[1]` Intro to UPPMAX Day 1                                       |[here](https://uppmax.github.io/uppmax_intro_day_1/reflections/20250210/)
 2024-12-07|`[5]` Lördagskurser                                               |[here](https://uppsala-makerspace.github.io/loerdagskurser/reflektioner/20241207_richel/)
 2024-11-22|`[1]` Programming Formalisms, day 5                               |[here](https://uppmax.github.io/programming_formalisms/reflections/2024_autumn/20241122_richel/)
@@ -28,7 +34,7 @@ When      |What                                                              |UR
 2024-04-23|`[1]` Programming Formalisms, day 2                               |[here](https://uppmax.github.io/programming_formalisms/reflections/2024_summer/20240423_richel/)
 2024-04-22|`[1]` Programming Formalisms, day 1                               |[here](https://uppmax.github.io/programming_formalisms/reflections/2024_summer/20240422_richel/)
 2024-04-19|`[1]` Bianca workshop, Basic                                      |[here](https://uppmax.github.io/bianca_workshops/reflections/20240419/20240419_richel)
-2024-04-16|`[6]` Intro to mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/reflections/20240416/README.md)
+2024-04-16|`[6]` Intro to Mermaid                                            |[here](https://github.com/richelbilderbeek/lesson_mermaid/blob/master/reflections/20240416/README.md)
 2024-03-14|`[3]` R, Python and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20240314_richel/README.md)
 2024-03-12|`[3]` R, Python and Julia in HPC, Python day                      |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20240312_richel/README.md)
 2024-01-22|`[1]` AWK course day 1                                            |[here](https://github.com/richelbilderbeek/awk_course/blob/master/reflections/20240122/README.md)
@@ -56,4 +62,6 @@ When      |What                                                              |UR
 - `[3]` HPC2N and UPPMAX
 - `[4]` NBIS and UPPMAX
 - `[5]` Uppsala Makerspace
-- `[6]` KI
+- `[6]` KTH
+- `[7]` HPC2N and UPPMAX and LUNARC
+- `[8]` NAISS
