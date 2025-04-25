@@ -27,4 +27,3 @@ Filename                              |Descriptions
 [.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 
 <!-- markdownlint-enable MD013 -->
-

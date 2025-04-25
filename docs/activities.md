@@ -45,4 +45,3 @@ When      |Title
 - [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
 - Physics, secondary school program
 - Stagecraft, secondary school program
-
