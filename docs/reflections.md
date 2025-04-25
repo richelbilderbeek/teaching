@@ -7,7 +7,7 @@ When      |What                                                              |UR
 ----------|------------------------------------------------------------------|------
 2025-04-10|`[6]` Intro to Mermaid                                            |[here](https://richelbilderbeek.github.io/lesson_mermaid/reflections/20250410/
 2025-04-04|`[6]` Intro to R                                                  |[here](https://richelbilderbeek.github.io/intro_r_course/reflections/20250404/)
-2025-03-24|`[7]` R, MATLAB and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-python-julia-matlab-HPC/tree/main/reflections/20250324)
+2025-03-24|`[7]` R, MATLAB and Julia in HPC, R day                           |[here](https://github.com/UPPMAX/R-matlab-julia-HPC/blob/main/reflections/20250324_richel/README.md)
 2025-03-19|`[1]` Bianca workshop, Basic                                      |[here](https://uppmax.github.io/bianca_workshops/reflections/20250319)
 2025-03-07|`[8]` Transferring files to/from HPC clusters                     |[here](https://uppmax.github.io/naiss_file_transfer_course/reflections/20250307/)
 2025-03-04|`[8]` Introduction to Python                                      |[here](https://uppmax.github.io/naiss_intro_python/reflections/20250304/)
