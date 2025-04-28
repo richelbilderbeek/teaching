@@ -1,13 +1,5 @@
 # Evaluations
 
-???- question "Where can I find the lesson plans for these evaluations?"
-
-    At [lesson plans](lesson_plans.md)
-
-???- question "Where can I find the reflections on these evaluations?"
-
-    At [reflections](reflections.md)
-
 ## Evaluations that I did in courses I did not teach
 
 This is for comparison.
