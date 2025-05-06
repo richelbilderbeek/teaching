@@ -30,22 +30,6 @@
 - Student-centered
 - Transparent `[1]`
 
-```mermaid
-flowchart TD
-  prior_knowledge[Prior knowledge]
-  present[Present]
-  challenge[Challenge]
-  feedback[Feedback]
-  repeat[Repeat]
-  prior_knowledge --> present
-  present --> challenge
-  challenge --> feedback
-  feedback --> repeat
-  repeat --> prior_knowledge
-```
-
-> Evidence-based teaching cycle, from `[Bell, 2020]`
-
 ## Features
 
 - Every learner needs to be active
@@ -64,6 +48,24 @@ as lecturing hinders learning `[2]`.
 Hence, this was the only lecture in the course :-)
 
 (I **do** need to tell about myself `[Schwartz, 2012]`)
+
+## My favorite teaching cycle
+
+```mermaid
+flowchart TD
+  prior_knowledge[Prior knowledge]
+  present[Present]
+  challenge[Challenge]
+  feedback[Feedback]
+  repeat[Repeat]
+  prior_knowledge --> present
+  present --> challenge
+  challenge --> feedback
+  feedback --> repeat
+  repeat --> prior_knowledge
+```
+
+> Evidence-based teaching cycle, from `[Bell, 2020]`
 
 ## References
 
