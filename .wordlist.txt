@@ -11,6 +11,7 @@ mlc
 txt
 wordlist
 yml
+Lördagskurserna
 NBIS
 SoaSim
 Dojo
