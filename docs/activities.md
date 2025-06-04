@@ -4,21 +4,27 @@ My current and former activities.
 
 ## Courses I teach
 
-- [Intro to AWK](https://github.com/UPPMAX/awk_course), an UPPMAX course
-- [Intro to Python](https://github.com/UPPMAX/uppmax_intro_python), an UPPMAX course
-- [Bianca workshop](https://github.com/UPPMAX/bianca_workshops/), an UPPMAX course
+- [Intro to R](https://richelbilderbeek.github.io/intro_r_course/)
+- [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+- [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
+- [NAISS Intro to Python for HPC](https://uppmax.github.io/naiss_intro_python/)
+- [NAISS File Transfer](https://uppmax.github.io/naiss_file_transfer_course/)
+- [NAISS Command Line 201](https://uppmax.github.io/naiss_intermediate_bash_linux)
+- [NAISS Python for HPC](https://uppmax.github.io/HPC-python/)
+- [NAISS Bianca workshop](https://uppmax.github.io/bianca_workshops/)
 - [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms),
   a course by NBIS and UPPMAX
-- [R, Python, Julia and Matlab for HPC](https://github.com/UPPMAX/R-python-julia-matlab-HPC),
+- [R, MATLAB and Julia for HPC](https://github.com/UPPMAX/R-matlab-julia-HPC),
   a course by HPC2N and UPPMAX
-- [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
+- [UPPMAX Intro to AWK](https://uppmax.github.io/awk_course/)
 
 ## Other teaching-related activities
 
 - I am one of the organizer of the
   [NBIS Teaching Literature Club](https://nbisweden.github.io/teaching_literature_club/)
-- [2025-03-06: Women-only workshop](https://github.com/richelbilderbeek/workshop_20250306)
-
+- I am one of the organizer of the
+  [female-only programming workshops](https://richelbilderbeek.github.io/female_only_programming_workshops/)
+  in Uppsala
 - I supervise interns from the gymnasium for a so-called PRAO:
 
 Who     |When      |Report
