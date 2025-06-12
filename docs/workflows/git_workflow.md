@@ -1,6 +1,6 @@
-# git
+# Git
 
-## git basic workflow
+## Git basic workflow
 
 ```mermaid
 flowchart TD
@@ -27,7 +27,7 @@ flowchart TD
   committed --> |Upload\ngit push| github
 ```
 
-## git workflow with branches
+## Git workflow with branches
 
 ```mermaid
 flowchart TD

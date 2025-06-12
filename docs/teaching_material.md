@@ -35,7 +35,7 @@ My teaching material.
 
 - [Who is Richèl](who_is_richel/README.md): introduces me and my teaching style
 - [Exercise procedure: duos in breakout rooms](exercise_procedures/duos_in_breakout_rooms.md)
-- [git workflows](workflows/git_workflow.md)
+- [Git workflows](workflows/git_workflow.md)
 - [GitHub workflow](workflows/github_workflow.md)
 
 ## My favorite literature

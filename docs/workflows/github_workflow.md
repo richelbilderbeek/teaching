@@ -15,16 +15,16 @@ flowchart TD
   issue --> topic
 ```
 
-- [Overview of the git branches](https://youtu.be/trLafZpD1Tg?si=ZliLdIQ8KXDW7xjq)
-- [Working with this git branching model](https://youtu.be/pM520_JLR6w?si=1pvh5uUjXFJPPqGZ)
+- [Overview of the Git branches](https://youtu.be/trLafZpD1Tg?si=ZliLdIQ8KXDW7xjq)
+- [Working with this Git branching model](https://youtu.be/pM520_JLR6w?si=1pvh5uUjXFJPPqGZ)
 - [Merge topic branch to develop with a code review](https://youtu.be/VexyXysb-BM?si=uCOuqCVuZ_ylsUtI)
 
 ## More basic GitHub workflows
 
-1. [Modify README on main branch using GitHub web interface](https://youtu.be/xBH2xZoKof4?si=ohdG6-y8lzarSqIa)
-1. [Modify README on topic branch using GitHub web interface](https://youtu.be/vPyHWsnbXw8?si=XjD6a3WDY44I97Se)
-1. [Modify README on main branch using git](https://youtu.be/A85wZTiCMTc?si=oUyrg_53gVlqEanb)
-1. [Modify README on topic branch using git](https://youtu.be/ZkfjAfu9Wo4?si=myBTkJ179n9fXHrS)
+1. [Modify `README.md` on main branch using GitHub web interface](https://youtu.be/xBH2xZoKof4?si=ohdG6-y8lzarSqIa)
+1. [Modify `README.md` on topic branch using GitHub web interface](https://youtu.be/vPyHWsnbXw8?si=XjD6a3WDY44I97Se)
+1. [Modify `README.md` on main branch using Git](https://youtu.be/A85wZTiCMTc?si=oUyrg_53gVlqEanb)
+1. [Modify `README.md` on topic branch using Git](https://youtu.be/ZkfjAfu9Wo4?si=myBTkJ179n9fXHrS)
 1. [Merge topic branch to develop yourself](https://youtu.be/1fKdU1m3Uug?si=qox0K-EdZ-tDpcRY)
 
 ## Project workflows
