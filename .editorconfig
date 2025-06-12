@@ -6,6 +6,8 @@
 # That Prettier has a different default is the error of Prettier.
 [*.md]
 indent_size = 4
+indent_style = space
 
 [*.sh]
 indent_size = 4
+indent_style = space
