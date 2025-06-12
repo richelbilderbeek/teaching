@@ -3,12 +3,12 @@
 ## How to pronounce my name
 
 | Language  | Pronunciation |
-|-----------|----------------|
-| **Dutch** | 'Rie-sjel'     |
-| English   | 'Rea-shell'    |
-| French    | 'Richèl'       |
-| German    | 'Ri-shäll'     |
-| Swedish   | 'Ri-kjell'     |
+| --------- | ------------- |
+| **Dutch** | 'Rie-sjel'    |
+| English   | 'Rea-shell'   |
+| French    | 'Richèl'      |
+| German    | 'Ri-shäll'    |
+| Swedish   | 'Ri-kjell'    |
 
 ## Teaching
 

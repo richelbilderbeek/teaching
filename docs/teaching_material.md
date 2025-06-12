@@ -8,10 +8,10 @@ My teaching material.
   a book about developing games using the Rust gaming engine called 'Bevy',
   using test-driven development
 - [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
-   a book about the Boost.Graph library
+  a book about the Boost.Graph library
 - [C++ presentations](https://github.com/richelbilderbeek/CppPresentations)
 - [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
-   a guest blog post on [Simplify C++](https://arne-mertz.de/)
+  a guest blog post on [Simplify C++](https://arne-mertz.de/)
 - [How to add a custom tree prior to BEAST2](https://github.com/BEAST2-Dev/beast-docs/blob/master/CreateNewTreePrior/CreateNewTreePrior.md)
 - 'Raising Your Code to Professional Standards'
   was a free (that is, it can be read without paying) article for the -now terminated- 'SDJournal'.
@@ -25,11 +25,11 @@ My teaching material.
 - [Hometrainer](https://github.com/richelbilderbeek/hometrainer): self-testing suite
 - [LearyCircumplex](https://github.com/richelbilderbeek/LearyCircumplex): tool to draw a Leary circumplex
 - [SimImmuneResponse](https://github.com/richelbilderbeek/SimImmuneResponse): human immune response simulation,
-   in which the user must do all steps of the immune response
+  in which the user must do all steps of the immune response
 - [SimStagecraft](https://github.com/richelbilderbeek/SimStagecraft): stagecraft simulation in which the
-   user must connect and use the equipment used in a theatre
+  user must connect and use the equipment used in a theatre
 - [SoaSim](https://github.com/richelbilderbeek/SoaSim): visual simulation of the transmission
-   of Sexually Transmitted Diseases.
+  of Sexually Transmitted Diseases.
 
 ### Misc
 

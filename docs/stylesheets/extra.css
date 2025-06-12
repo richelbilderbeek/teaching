@@ -2,7 +2,7 @@
 /* https://github.com/squidfunk/mkdocs-material/blob/6b5035f5580f97532d664e3d1babf5f320e88ee9/src/assets/stylesheets/main/_colors.scss */
 /* https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors */
 :root > * {
-  --md-primary-fg-color: #E6E6E6;
+  --md-primary-fg-color: #e6e6e6;
   --md-primary-bg-color: #1d1d20;
 
   --md-default-fg-color: #1d1d20;
@@ -15,13 +15,11 @@
   --md-admonition-fg-color: #1d1d20;
 
   --md-typeset-color: #1d1d20;
-  --md-typeset-a-color: #0645AD;
+  --md-typeset-a-color: #0645ad;
 
-  --md-footer-bg-color: #E6E6E6;
+  --md-footer-bg-color: #e6e6e6;
   --md-footer-fg-color: #000000;
-
 }
-
 
 /* https://github.com/squidfunk/mkdocs-material/issues/4832#issuecomment-1374891676 */
 .md-nav__link[for] {
@@ -38,10 +36,9 @@
   text-align: initial;
 }
 
-  .md-typeset a {
+.md-typeset a {
   text-decoration: underline;
 }
-
 
 /* Markdown Header */
 /* https://github.com/squidfunk/mkdocs-material/blob/dcab57dd1cced4b77875c1aa1b53467c62709d31/src/assets/stylesheets/main/_typeset.scss */

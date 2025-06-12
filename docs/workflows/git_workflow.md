@@ -24,7 +24,7 @@ flowchart TD
   changed --> |Stage files\ngit add .|staged
   staged --> |Commit staged files\ngit commit -m my_commit_description| committed
   committed ---> |Upload\ngit push| clean
-  committed --> |Upload\ngit push| github  
+  committed --> |Upload\ngit push| github
 ```
 
 ## git workflow with branches
@@ -34,7 +34,7 @@ flowchart TD
   your_branch[The branch you work on]
   another_branch[Another branch]
   new_branch[A new branch]
-  
+
   your_branch --> |Switch branch\ngit checkout other_branch|another_branch
   another_branch --> |Merge\ngit merge other_branch| your_branch
   new_branch --> |Create on GitHub|another_branch

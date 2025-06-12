@@ -27,19 +27,19 @@ My current and former activities.
   in Uppsala
 - I supervise interns from the gymnasium for a so-called PRAO:
 
-Who     |When      |Report
---------|----------|-----------------------------------------------------------------
-Felix   |2024-04-17|[Report](https://github.com/richelbilderbeek/prao_felix_20240417)
-Emil    |2024-06-03|[Report](https://github.com/richelbilderbeek/prao_emil_20240603)
-Frans   |2024-11-14|[Report](https://github.com/richelbilderbeek/prao_frans_20241114)
-Jonathan|2024-11-26|[Report](https://github.com/richelbilderbeek/prao_jonatan_20241126)
-Noah    |2025-04-09|[Report](https://github.com/richelbilderbeek/prao_noah_20250409)
+| Who      | When       | Report                                                              |
+| -------- | ---------- | ------------------------------------------------------------------- |
+| Felix    | 2024-04-17 | [Report](https://github.com/richelbilderbeek/prao_felix_20240417)   |
+| Emil     | 2024-06-03 | [Report](https://github.com/richelbilderbeek/prao_emil_20240603)    |
+| Frans    | 2024-11-14 | [Report](https://github.com/richelbilderbeek/prao_frans_20241114)   |
+| Jonathan | 2024-11-26 | [Report](https://github.com/richelbilderbeek/prao_jonatan_20241126) |
+| Noah     | 2025-04-09 | [Report](https://github.com/richelbilderbeek/prao_noah_20250409)    |
 
 ## Conferences I visited
 
-When      |Title
-----------|---------------------------------------------------------------------
-2023-10-19|[Konferensen i universitetspedagogisk utveckling](20231019_konferensen_i_universitetspedagogisk_utveckling.pdf)
+| When       | Title                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| 2023-10-19 | [Konferensen i universitetspedagogisk utveckling](20231019_konferensen_i_universitetspedagogisk_utveckling.pdf) |
 
 ## Courses I taught
 
