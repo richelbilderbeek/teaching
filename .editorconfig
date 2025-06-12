@@ -1,0 +1,8 @@
+# EditorConfig is awesome: https://editorconfig.org
+
+# MkDocs assumes 4 spaces for indentation.
+# Markdown assumes 4 spaces for indentation.
+# That markdownlint has a different default is the error of markdownlint.
+# That Prettier has a different default is the error of Prettier.
+[*.md]
+indent_size = 4
