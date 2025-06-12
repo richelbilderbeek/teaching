@@ -7,6 +7,7 @@
 # Here all indented text is unindented
 # https://github.com/UPPMAX/UPPMAX-documentation/issues/114
 #
+
 for filename in $(find . | grep .md)
 do
     sed -i 's/^    //g' "${filename}"
