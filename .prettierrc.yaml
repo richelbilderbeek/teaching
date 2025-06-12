@@ -1,0 +1,11 @@
+# MkDocs assumes 4 spaces for indentation.
+# Markdown assumes 4 spaces for indentation.
+# That markdownlint has a different default is the error of markdownlint
+# That Prettier has a different default is the error of Prettier
+overrides:
+  - files: "**/*.md"
+    options:
+      tabWidth: 4
+  - files: "*.md"
+    options:
+      tabWidth: 4
