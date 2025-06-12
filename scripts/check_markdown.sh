@@ -4,7 +4,7 @@
 #
 # Usage:
 #
-#     ./scripts/check_markdown.sh
+# ./scripts/check_markdown.sh
 
 if [[ "$PWD" =~ scripts$ ]]; then
     echo "FATAL ERROR."
