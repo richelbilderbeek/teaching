@@ -17,6 +17,7 @@ My current and former activities.
 - [R, MATLAB and Julia for HPC](https://github.com/UPPMAX/R-matlab-julia-HPC),
   a course by HPC2N and UPPMAX
 - [UPPMAX Intro to AWK](https://uppmax.github.io/awk_course/)
+- [UPPMAX Intro to UPPMAX](https://uppmax.github.io/uppmax_intro_day_1/)
 
 ## Other teaching-related activities
 
