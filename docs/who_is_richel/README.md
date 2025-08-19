@@ -35,7 +35,7 @@
 - Every learner needs to be active
 - Follows the pace of learners that need more time
 - Fast learners learn by helping
-- Asks learners randomly, as he should `[Bell, 2020]`
+- Asks learners randomly, as he should `[Bell, 2020][Eddy et al, 2015]`
     - Some really like it `[3]`
     - Some really don't `[4]`
 - Dare to try out new things (and fail in plain sight) `[Bell, 2020]`
@@ -83,6 +83,11 @@ flowchart TD
   Addison Wesley Longman, Inc., 2001.
 - `[Bell, 2020]` Bell, Mike. The fundamentals of teaching:
   A five-step model to put the research evidence into practice. Routledge, 2020.
+- `[Eddy et al, 2015]`
+  Eddy, Sarah L., Mercedes Converse, and Mary Pat Wenderoth.
+  "PORTAAL: A classroom observation tool assessing evidence-based teaching
+  practices for active learning in large science, technology, engineering,
+  and mathematics classes." CBE—Life Sciences Education 14.2 (2015): ar23.
 - `[Knight & Wood, 2005]` Knight, Jennifer K., and William B. Wood.
   "Teaching more by lecturing less." Cell biology education 4.4 (2005): 298-310.
   [paper](https://www.lifescied.org/doi/full/10.1187/05-06-0082)
@@ -106,3 +111,5 @@ flowchart TD
 - `[Hattie, 2023]` Hattie, John. Visible learning:
   The sequel: A synthesis of over 2,100 meta-analyses relating to achievement.
   Routledge, 2023.
+
+
