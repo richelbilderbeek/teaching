@@ -16,7 +16,7 @@
 - Oct 2008-Aug 2010: 0.6 FTE teacher and team leader, 12-18 yo
 - Jan 2014-Jan 2021: coordinator of multiple courses, as volunteer, 8-18 yo
 - Sep 2019-Mar 2024: team leader of programming team, 13-38 yo
-- Sep 2022-now: coordinator of multiple courses, as volunteer, 8-18 yo
+- Sep 2022-now: coordinator of multiple courses, as volunteer, 8-88 yo
 - Mar 2023-now: teacher at UPPMAX, 18-88 yo
 
 ## Teaching style
