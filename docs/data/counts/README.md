@@ -3,6 +3,15 @@
 Goal of this experiment is to see how important camera usage is for
 keeping learners in an online course.
 
+!!! warning "Draft paper" 
+
+    This paper is only a draft.
+    Especially references to the literature are missing
+    (although that will be easy to do).
+
+    People are encouraged to submit data:
+    this paper intends to remain a living document.
+
 ## Introduction
 
 At both NBIS and NAISS we report the number of learners in our courses.
