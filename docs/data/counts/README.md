@@ -78,6 +78,12 @@ These results are for all courses that start at 9:00 and end at 16:00:
 > Number of learners during the day
 > separating by the majority having camera on/off.
 
+![The difference in the number of learners during the day](f_diff_learners_per_f_time.png)
+
+> Figure 4:
+> The difference in the number of learners during the day
+> between the majority of the learners having a camera on or off
+
 ## Conclusions
 
 The progression of the number of learners over a day is as follows:
@@ -92,8 +98,10 @@ there are consistently more learners remaining during the day when
 cameras are on.
 See figure 3 for the exact numbers.
 
-This difference increases during the day.
-<!-- plot difference -->
+This difference increases during the day,
+with the biggest differences at the start of the course,
+directly after lunch and at the end of the day.
+See figure 4 for the exact differences.
 
 There is already an effect of learners showing up on time
 when a course is announced to require cameras,
@@ -113,7 +121,7 @@ applied to the data: one before and one after lunch.
 However, as the reasoning of such as argument
 has been unconvicing to the author so far,
 these are not included as a main result.
-These figure, figures 4-6, however, can be found in the appendix.
+These figure, figures A1-A3, however, can be found in the appendix.
 
 An unexpected finding is that more learners show up on time
 when a course is announced to require cameras.
@@ -136,6 +144,14 @@ and the courses they pick to teach.
 **In an ideal study design, a course is given by multiple teachers twice**.
 Again, the aim of this study was to sketch a baseline expectation
 for further research.
+
+Additionally, the observations were done at irregular intervals,
+(as is shown in figure A4), which is, when the number of learners
+change.
+<!--
+this may be cause of trouble! if more learners drop out,
+there will be more changes, hence more weight given to the lines
+-->
 
 Given the big amount of learners lost during a day,
 with already 25% of all learners having left at lunch,
@@ -215,19 +231,26 @@ The data consists out of the files
 
 ![Learners per time per course per sessions](f_learners_per_f_time_per_course_per_session.png)
 
-> Figure 4:
+> Figure A1:
 > Number of learners during the day per course.
 > One trendline per half-day
 
 ![Learners per time per course per sessions per fraction of camera on](f_learners_per_f_time_per_f_on_per_session.png)
 
-> Figure 5: Number of learners during the day,
+> Figure A2: Number of learners during the day,
 > showing the factions of learners that have a camera on.
 > One trendline per half-day
 
 ![Learners per time per course per sessions per most having camera on](f_learners_per_f_time_per_most_on_per_session.png)
 
-> Figure 6:
+> Figure A3:
 > Number of learners during the day
 > separating by the majority having camera on/off.
 > One trendline per half-day
+
+## A4. Observations in time
+
+![The number of observations per time](n_observations_per_time.png)
+
+> Figure A4:
+> The number of observations during the day.

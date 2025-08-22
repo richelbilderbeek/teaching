@@ -24,6 +24,7 @@ check_all_counts_files_exist()
 
 #' Check that all files have descriptions
 check_all_count_have_a_description <- function() {
+  descriptions <- get_descriptions()
   count_filenames <- list.files(pattern = "_counts")
   for (count_filename in count_filenames) {
     count_filename_date <- stringr::str_sub(count_filename, 1, 8)
@@ -131,17 +132,23 @@ ggplot2::ggplot(data = t, ggplot2::aes(x = f_time)) +
     caption = "All data"
   )
 
+
+
 t_strict <- t |>
   dplyr::filter(t_start == readr::parse_time("9:00")) |>
   dplyr::filter(t_end == readr::parse_time("16:00"))
 
 ggplot2::ggplot(
   t_strict,
-  ggplot2::aes(x = f_time)) +
-  ggplot2::geom_histogram() +
+  ggplot2::aes(x = time)) +
+  ggplot2::geom_histogram(binwidth = 60 * 15) +
+  ggplot2::scale_x_time("Time of the day") +
+  ggplot2::scale_y_continuous("Number of observations") +
   ggplot2::labs(
-    caption = "All data from exactly 9:00-16:00"
+    caption = "All data from exactly 9:00-16:00, bin width is 15 minutes"
   )
+ggplot2::ggsave("n_observations_per_time.png", width = 7, height = 4)
+
 
 # Plot all in one, color by lesson
 counts <- t_strict
@@ -283,3 +290,61 @@ ggplot2::ggplot(counts, ggplot2::aes(x = time, y = f_total, color = most_have_ca
 
 ggplot2::ggsave("f_learners_per_f_time_per_most_on_per_session.png", width = 7, height = 4)
 
+
+names(counts)
+counts_on <- counts |> dplyr::select(f_time, f_total, most_have_cam_on) |> dplyr::filter(most_have_cam_on == TRUE) |> dplyr::select(f_time, f_total)
+counts_off <- counts |> dplyr::select(f_time, f_total, most_have_cam_on) |> dplyr::filter(most_have_cam_on == FALSE) |> dplyr::select(f_time, f_total)
+m_on <- mgcv::gam(
+  f_total ~  s(f_time),
+  data = counts_on,
+  method = "REML"
+)
+m_off <- mgcv::gam(
+  f_total ~  s(f_time),
+  data = counts_off,
+  method = "REML"
+)
+
+names(t)
+t_interpolation_on <- expand.grid(f_time = seq(0.0, 1.0, length = 1000))
+t_interpolation_off <- expand.grid(f_time = seq(0.0, 1.0, length = 1000))
+
+t_interpolation_on$f_total <- predict(m_on, newdata = t_interpolation_on)
+t_interpolation_off$f_total <- predict(m_off, newdata = t_interpolation_off)
+ggplot2::ggplot(t_interpolation_on, ggplot2::aes(x = f_time, y = f_total)) +
+  ggplot2::geom_line()
+ggplot2::ggplot(t_interpolation_off, ggplot2::aes(x = f_time, y = f_total)) +
+  ggplot2::geom_line()
+
+
+
+t_interpolation_diff <- t_interpolation_off
+t_interpolation_diff$f_total <- t_interpolation_on$f_total - t_interpolation_diff$f_total
+ggplot2::ggplot(t_interpolation_diff, ggplot2::aes(x = f_time, y = f_total)) +
+  ggplot2::geom_line()
+
+
+t_interpolation_on$type <- "On"
+t_interpolation_off$type <- "Off"
+t_interpolation_diff$type <- "Difference"
+
+t_interpolation_on$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_on)))
+t_interpolation_off$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_off)))
+t_interpolation_diff$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_diff)))
+
+
+t <- dplyr::bind_rows(
+  t_interpolation_on,
+  t_interpolation_off,
+  t_interpolation_diff
+)
+
+ggplot2::ggplot(
+  t, ggplot2::aes(x = time, y = f_total, color = type)) +
+  ggplot2::geom_line(size = 2) +
+  ggplot2::labs(
+  title = "Difference"
+)
+
+
+ggplot2::ggsave("f_diff_learners_per_f_time.png", width = 7, height = 4)
