@@ -29,7 +29,7 @@ the learners having their cameras on or off.
 
 ## Hypothesis
 
-- H1: What is the progression of the number of learners over a day 
+- H1: What is the progression of the number of learners over a day
   during a day-long online course?
 
 - H2: What is the effect of having cameras on/off on learners being present
@@ -154,12 +154,11 @@ The data consists out of the files
 | `n_cam_on`                | Number of learners with the camera on. This excludes teacher(s) and assistants |
 | `n_cam_off`               | Number of learners with the camera on. This excludes teacher(s) and assistants |
 
-
 ## Do trendline per day
 
 ![Learners per time per course](f_learners_per_f_time_per_course.png)
 
-> Figure 1: 
+> Figure 1:
 > Number of learners during the day per course.
 > One trendline per day
 
@@ -171,7 +170,7 @@ The data consists out of the files
 
 ![Learners per time per course per most having camera on](f_learners_per_f_time_per_most_on.png)
 
-> Figure 3: 
+> Figure 3:
 > Number of learners during the day
 > separating by the majority having camera on/off.
 > One trendline per day
@@ -180,7 +179,7 @@ The data consists out of the files
 
 ![Learners per time per course per sessions](f_learners_per_f_time_per_course_per_session.png)
 
-> Figure 4: 
+> Figure 4:
 > Number of learners during the day per course.
 > One trendline per half-day
 
@@ -192,7 +191,7 @@ The data consists out of the files
 
 ![Learners per time per course per sessions per most having camera on](f_learners_per_f_time_per_most_on_per_session.png)
 
-> Figure 6: 
+> Figure 6:
 > Number of learners during the day
 > separating by the majority having camera on/off.
 > One trendline per half-day
