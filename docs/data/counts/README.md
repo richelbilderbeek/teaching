@@ -46,18 +46,21 @@ the learners having their cameras on or off.
 
 ## Methods
 
-During a full-day online course, regularily write down the number of
-learners, as well as the number of (those) learners that have a
+During a full-day online course, 
+the number of learners was written down at multiple times,
+as well as the number of (those) learners that have a
 camera on.
 
 To allow comparison between courses with different amount
 of learners, the amount of learners is normalized
 to a scale from 0.0 (all learners gone) to 1.0 (the maximum amount
-of learners at that day is present). 
+of learners at that day is present).
 
 Use a LOESS trendline to get a reasonable running average.
 
 ## Results
+
+These results are for all courses that start at 9:00 and end at 16:00:
 
 ![Learners per time per course](f_learners_per_f_time_per_course.png)
 
