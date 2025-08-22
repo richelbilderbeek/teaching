@@ -9,6 +9,7 @@ nav:
   - Teaching overview: teaching_overview.md
   - Peer observations: peer_observations.md
   - Misc:
+      - The effect of learner camera encouragement and dropout rate: data/counts/README.md
       - ELIXIR evaluation evaluation: misc/elixir_evaluation_evaluation/README.md
       - Exercise procedure: exercise_procedures/README.md
       - Who is Richèl: who_is_richel/README.md

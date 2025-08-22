@@ -44,7 +44,38 @@ the learners having their cameras on or off.
 - H2: What is the effect of having cameras on/off on learners being present
   over a day during a day-long online course?
 
-## First conclusions
+## Methods
+
+During a full-day online course, regularily write down the number of
+learners, as well as the number of (those) learners that have a
+camera on.
+
+To allow comparison between courses with different amount
+of learners, the amount of learners is normalized
+to a scale from 0.0 (all learners gone) to 1.0 (the maximum amount
+of learners at that day is present). 
+
+Use a LOESS trendline to get a reasonable running average.
+
+## Results
+
+![Learners per time per course](f_learners_per_f_time_per_course.png)
+
+> Figure 1:
+> Number of learners during the day per course.
+
+![Learners per time per course per fraction of camera on](f_learners_per_f_time_per_f_on.png)
+
+> Figure 2: Number of learners during the day,
+> showing the factions of learners that have a camera on.
+
+![Learners per time per course per most having camera on](f_learners_per_f_time_per_most_on.png)
+
+> Figure 3:
+> Number of learners during the day
+> separating by the majority having camera on/off.
+
+## Conclusions
 
 The progression of the number of learners over a day is as follows:
 Around 80% of all learners are present at course start,
@@ -67,8 +98,19 @@ as can be shown for the 9:00-9:30 data points in figure 3.
 
 ## Discussion
 
-There is no investigation of the mechanism that causes learners to leave
+There is **no investigation of the mechanism**
+that causes learners to leave
 a course earlier.
+
+In the methods, it was chosen to apply
+**one LOESS fit**
+as a reasonable running average.
+It may be argued that there should be two LOESS fits
+applied to the data: one before and one after lunch.
+However, as the reasoning of such as argument
+has been unconvicing to the author so far,
+these are not included as a main result.
+These figure, figures 4-6, however, can be found in the appendix.
 
 An unexpected finding is that more learners show up on time
 when a course is announced to require cameras.
@@ -108,7 +150,9 @@ for having a camera on or off,
 teachers may feel more
 **encouraged to ask their learners to turn on their cameras**.
 
-## File overview
+## Appendix
+
+## A1. File overview
 
 - [analyse.R](analyse.R): the analysis
 - [description.csv](description.csv): description of the `counts` files
@@ -141,7 +185,7 @@ teachers may feel more
 - [20250319_counts.csv](20250319_counts.csv)
 - [20250324_counts.csv](20250324_counts.csv)
 
-## Data description
+## A2. Data description
 
 The data consists out of the files
 
@@ -163,28 +207,8 @@ The data consists out of the files
 | `n_cam_on`                | Number of learners with the camera on. This excludes teacher(s) and assistants |
 | `n_cam_off`               | Number of learners with the camera on. This excludes teacher(s) and assistants |
 
-## Do trendline per day
 
-![Learners per time per course](f_learners_per_f_time_per_course.png)
-
-> Figure 1:
-> Number of learners during the day per course.
-> One trendline per day
-
-![Learners per time per course per fraction of camera on](f_learners_per_f_time_per_f_on.png)
-
-> Figure 2: Number of learners during the day,
-> showing the factions of learners that have a camera on.
-> One trendline per day
-
-![Learners per time per course per most having camera on](f_learners_per_f_time_per_most_on.png)
-
-> Figure 3:
-> Number of learners during the day
-> separating by the majority having camera on/off.
-> One trendline per day
-
-## Do trendline per session
+## A3. Results with a trendline per session
 
 ![Learners per time per course per sessions](f_learners_per_f_time_per_course_per_session.png)
 
