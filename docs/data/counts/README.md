@@ -3,7 +3,7 @@
 Goal of this experiment is to see how important camera usage is for
 keeping learners in an online course.
 
-!!! warning "Draft paper" 
+!!! warning "Draft paper"
 
     This paper is only a draft.
     Especially references to the literature are missing
