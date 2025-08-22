@@ -46,7 +46,7 @@ the learners having their cameras on or off.
 
 ## Methods
 
-During a full-day online course, 
+During a full-day online course,
 the number of learners was written down at multiple times,
 as well as the number of (those) learners that have a
 camera on.
@@ -225,7 +225,6 @@ The data consists out of the files
 | `time`                    | Time                                                                           |
 | `n_cam_on`                | Number of learners with the camera on. This excludes teacher(s) and assistants |
 | `n_cam_off`               | Number of learners with the camera on. This excludes teacher(s) and assistants |
-
 
 ## A3. Results with a trendline per session
 
