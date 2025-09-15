@@ -27,7 +27,7 @@
 - Active learning
 - Learning community
 - Well-prepared `[1]`
-- Student-centered
+- Learner-centered
 - Transparent `[1]`
 
 ## Features
@@ -35,7 +35,7 @@
 - Every learner needs to be active
 - Follows the pace of learners that need more time
 - Fast learners learn by helping
-- Asks learners randomly, as he should `[Bell, 2020][Eddy et al, 2015]`
+- Asks learners randomly ('cold calling'), as he should `[Bell, 2020][Eddy et al, 2015]`
     - Some really like it `[3]`
     - Some really don't `[4]`
 - Dare to try out new things (and fail in plain sight) `[Bell, 2020]`
