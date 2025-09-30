@@ -117,3 +117,8 @@ PORTAAL
 Wenderoth
 ar
 csv
+analyse
+Tidyverse
+LOESS
+dataset
+analyse
