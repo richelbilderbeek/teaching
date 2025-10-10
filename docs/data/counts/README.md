@@ -89,7 +89,7 @@ These results are for all courses that start at 9:00 and end at 16:00:
 The progression of the number of learners over a day is as follows:
 Around 80% of all learners are present at course start,
 after which the amount increases.
-At 10:30, the heighest amount of learners during the day are present,
+At 10:30, the highest amount of learners during the day are present,
 after which this number decreases.
 See figure 2 for the exact numbers.
 
@@ -119,7 +119,7 @@ as a reasonable running average.
 It may be argued that there should be two LOESS fits
 applied to the data: one before and one after lunch.
 However, as the reasoning of such as argument
-has been unconvicing to the author so far,
+has been unconvincing to the author so far,
 these are not included as a main result.
 These figure, figures A1-A3, however, can be found in the appendix.
 
