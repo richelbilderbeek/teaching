@@ -21,51 +21,58 @@
 
 ## Teaching style
 
-- Literate `[1]`
-- Evidence-based,
-  e.g. `[Bell, 2020][Hattie, 2012][Hattie, 2023][Schwartz, 2012]`
-- Active learning
-- Learning community
-- Well-prepared `[1]`
-- Learner-centered
-- Transparent `[1]`
+Style             |Example of how this looks like
+------------------|--------------------------------------
+Literate          |Follows a formal teaching cycle
+Evidence-based    |Does 'cold calling'
+Active learning   |Short lectures
+Learner-centered  |Follows the pace of the learners
+Learning community|Fast learners learn by helping
+Well-prepared     |Lesson plans, answers, videos
+Transparent       |Publishing evaluations and reflections
 
-## Features
+???- question "What is a teaching cycle?"
 
-- Every learner needs to be active
-- Follows the pace of learners that need more time
-- Fast learners learn by helping
-- Asks learners randomly ('cold calling'), as he should `[Bell, 2020][Eddy et al, 2015]`
-    - Some really like it `[3]`
-    - Some really don't `[4]`
-- Dare to try out new things (and fail in plain sight) `[Bell, 2020]`
+    It is a formalized form of teaching that combines all evidence-based
+    best practices in a workflow. My favorite teaching cycle:
 
-## Lecturing
+    ```mermaid
+    flowchart TD
+      prior_knowledge[Prior knowledge]
+      present[Present]
+      challenge[Challenge]
+      feedback[Feedback]
+      repeat[Repeat]
+      prior_knowledge --> present
+      present --> challenge
+      challenge --> feedback
+      feedback --> repeat
+      repeat --> prior_knowledge
+    ```
 
-I only do this for unimportant topics,
-as lecturing hinders learning `[2]`.
+    > Evidence-based teaching cycle, from `[Bell, 2020]`
 
-Hence, this was the only lecture in the course :-)
+???- question "What is 'cold calling'?"
 
-(I **do** need to tell about myself `[Schwartz, 2012]`)
+    Cold calling is, after asking a plenary question and giving
+    all learners time to think, to as a random learner for the answer.
 
-## My favorite teaching cycle
+    The goal of this is to get an idea of the full classroom's knowledge.
 
-```mermaid
-flowchart TD
-  prior_knowledge[Prior knowledge]
-  present[Present]
-  challenge[Challenge]
-  feedback[Feedback]
-  repeat[Repeat]
-  prior_knowledge --> present
-  present --> challenge
-  challenge --> feedback
-  feedback --> repeat
-  repeat --> prior_knowledge
-```
+???- question "Why do 'cold calling'?"
 
-> Evidence-based teaching cycle, from `[Bell, 2020]`
+    Because it ensures the whole class is active (and not just the ones
+    that are used to raising their hands) `[Bell, 2020][Eddy et al, 2015]`.
+
+    Some learners really like it `[3]` and some really don't `[4]`.
+
+???- question "Why are lectures short?"
+
+    Because lecturing **hinders** learning `[2]`.
+
+???- question "Why do you tell about yourself?"
+
+    Because I should  `[Schwartz, 2012]`.
 
 ## References
 
