@@ -30,6 +30,7 @@ Learner-centered  |Follows the pace of the learners
 Learning community|Fast learners learn by helping
 Well-prepared     |Lesson plans, answers, videos
 Transparent       |Publishing evaluations and reflections
+Energetic         |Enthusiastic, sometimes talks too fast
 
 ???- question "What is a teaching cycle?"
 
