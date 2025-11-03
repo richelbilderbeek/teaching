@@ -2,6 +2,21 @@
 
 Here you can find my lesson plans, evaluations and reflections.
 
+???- hint "Dates scheduled with pencil"
+
+    ```text
+    2026-02-16               Intro to UPPMAX Day 1, UPPMAX
+    2026-03-03               HPC Python 1 day course
+    2026-03-06               NAISS file transfer course
+    2026-03-18               Bianca workshop, beginner
+    2026-03-23 to 2026-03-26 "R, MATLAB and Julia in HPC" 4 day course
+    2026-04-21 to 2026-04-27 HPC Python 4 day course
+    2026-05-04 to 2026-05-09 Programming Formalisms
+    2026-05-15               NAISS file transfer course
+    2026-05-22               Bianca workshop, intermediate
+    2026-06-01 to 2026-06-02 Command Line 201
+    ```
+
 Most recent at the top.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
