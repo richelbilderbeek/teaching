@@ -35,6 +35,10 @@ My current and former activities.
 | Frans    | 2024-11-14 | [Report](https://github.com/richelbilderbeek/prao_frans_20241114)   |
 | Jonathan | 2024-11-26 | [Report](https://github.com/richelbilderbeek/prao_jonatan_20241126) |
 | Noah     | 2025-04-09 | [Report](https://github.com/richelbilderbeek/prao_noah_20250409)    |
+| Johannes | 2025-11-07 | [Report](https://github.com/richelbilderbeek/prao_johannes_20251107)|
+| Signe    | 2025-11-07 | [Report](https://github.com/richelbilderbeek/prao_signe_20251107)   |
+| Olle     | 2025-11-12 | [Report](https://github.com/richelbilderbeek/prao_olle_20251112)    |
+| Max      | 2025-11-21 | [Report](https://github.com/richelbilderbeek/prao_max_20251121)     |
 
 ## Conferences I visited
 
