@@ -4,18 +4,24 @@ Here you can find my lesson plans, evaluations and reflections.
 
 ???- hint "Dates scheduled with pencil"
 
-    ```text
-    2026-02-16               Intro to UPPMAX Day 1, UPPMAX
-    2026-03-03               HPC Python 1 day course
-    2026-03-06               NAISS file transfer course
-    2026-03-18               Bianca workshop, beginner
-    2026-03-23 to 2026-03-26 "R, MATLAB and Julia in HPC" 4 day course
-    2026-04-21 to 2026-04-27 HPC Python 4 day course
-    2026-05-04 to 2026-05-09 Programming Formalisms
-    2026-05-15               NAISS file transfer course
-    2026-05-22               Bianca workshop, intermediate
-    2026-06-01 to 2026-06-02 Command Line 201
-    ```
+    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+
+    Date range              |Course                                   |Notes
+    ------------------------|-----------------------------------------|--------------------------------------------------------------------------
+    2026-01-19              |Intro to UPPMAX Day 1, UPPMAX            |Done: DS and DI confirmed
+    2026-02-09              |NAISS file transfer course               |Done: BC confirmed
+    2026-02-13              |Bianca workshop, beginner                |Done: Day 5 of the NAISS intro week
+    2026-03-03              |HPC Python 1 day course                  |Done
+    .                       |R, MATLAB and Julia in HPC 4 day course  |Cancelled for this season
+    2026-04-20              |HPC Python 4 day course, Day 1           |Done
+    2026-04-22 to 2026-04-24|HPC Python 4 day course, Day 2-4         |Done: unsure if I teach
+    2026-05-04 to 2026-05-08|Programming Formalisms                   |In NAISS schedule, need agree from BC and LE
+    2026-05-12              |NAISS file transfer course               |Done: BC confirmed
+    2026-05-22              |Bianca workshop, intermediate            |Done
+    2026-06-01 to 2026-06-02|Command Line 201                         |Done: confirmed by BB
+
+    <!-- markdownlint-enable MD013 -->
 
 Most recent at the top.
 
