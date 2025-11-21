@@ -6,7 +6,6 @@ Here you can find my lesson plans, evaluations and reflections.
 
     <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-
     Date range              |Course                                   |Notes
     ------------------------|-----------------------------------------|--------------------------------------------------------------------------
     2026-01-19              |Intro to UPPMAX Day 1, UPPMAX            |Done: DS and DI confirmed
