@@ -5,12 +5,42 @@ to get better at teaching.
 
 My favorite peer observation model is the 'peer review model' `[Gosling, 2002]`,
 that has the goal 'engagement in discussion about teaching; self and mutual
-reflection'.
+reflection'. Here are the characteristics:
+
+**Characteristic**                   | **Peer Review Model** `[Gosling, 2002]`
+-------------------------------------|---------------------------------------------------------------
+Who does it & to whom?               | teachers observe each other
+Purpose                              | Analysis, discussion, wider experience of teaching methods
+Outcome                              | Non-judgemental, constructive feedback
+Status of evidence                   | peer shared perception
+Relationship of observer to observed | equality/mutuality
+Confidentiality                      | Between observer and the observed - shared within learning set
+Inclusion                            | all
+Judgement                            | Non-judgemental, constructive feedback
+What is observed?                    | Teaching performance, class, learning materials
+Who benefits?                        | Mutual between peers
+Conditions for success               | Teaching is valued, discussed
+Risks                                | Complacency, conservatism, unfocused
 
 My favorite way to do peer observation is based on the tips from
 `[Siddiqui et al., 2007]`, with the most important practical
 one is to **schedule a session before and after the observation
 to discuss, for a duration of 45 minutes each**.
+
+Tip|Title, from `[Siddiqui et al., 2007]`
+---|---------------------------------------------------------
+1  |Choose the observer carefully.
+2  |Set aside time for the peer observation.
+3  |Clarify expectations.
+4  |Familiarise yourself with the course
+5  |Select the instrument wisely
+6  |Include students.
+7  |Be objective
+8  |Resist the urge to compare with your own teaching style
+9  |Do not intervene
+10 |Follow the general principles for feedback
+11 |Respect confidentiality.
+12 |Make it a learning experience
 
 ## Peer observations overview
 
@@ -86,6 +116,21 @@ Starting from the two most useful papers:
 
 The most relevant here is the 'peer review model', as its
 purpose is 'engagement in discussion about teaching; self and mutual reflection'
+
+Characteristic                       | Evaluation Model                                                                                  | Development Model                                                                                                                    | Peer Review Model
+-------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+Who does it & to whom?               | Senior staff observe other staff                                                                  | Educational developers observe practitioners; or expert teachers observe others in department                                        | teachers observe each other
+Purpose                              | Identify underperformance, confirm probation, appraisal, promotion, quality assurance, assessment | Demonstrate competency/improve teaching competencies; assessment engagement in discussion about teaching; self and mutual reflection | Analysis, discussion, wider experience of teaching methods
+Outcome                              | Report/judgement report/action plan; pass/fail PGCert                                             | Report/action plan; pass/fail                                                                                                        | Non-judgemental, constructive feedback
+Status of evidence                   | authority                                                                                         | expert diagnosis                                                                                                                     | peer shared perception
+Relationship of observer to observed | power                                                                                             | expertise                                                                                                                            | equality/mutuality
+Confidentiality                      | Between manager, observer and staff observed                                                      | Between observer and the observed, examiner                                                                                          | Between observer and the observed - shared within learning set
+Inclusion                            | Selected staff                                                                                    | Selected/sample                                                                                                                      | all
+Judgement                            | Pass/fail, score, quality assessment, worthy/unworthy                                             | How to improve; pass/fail                                                                                                            | Non-judgemental, constructive feedback
+What is observed?                    | Teaching performance                                                                              | Teaching performance, class, learning materials                                                                                      | Teaching performance, class, learning materials
+Who benefits?                        | Institution                                                                                       | The observed                                                                                                                         | Mutual between peers
+Conditions for success               | Embedded management processes                                                                     | Effective central unit                                                                                                               | Teaching is valued, discussed
+Risks                                | Alienation, lack of cooperation, opposition                                                       | No shared ownership, lack of impact                                                                                                  | Complacency, conservatism, unfocused
 
 I think this is good enough for now,
 with `[Siddiqui et al., 2007]`

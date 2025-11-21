@@ -7,7 +7,7 @@ nav:
   - Activities: activities.md
   - Teaching material: teaching_material.md
   - Teaching overview: teaching_overview.md
-  - Peer observations: peer_observations.md
+  - Peer observations: peer_observations/README.md
   - Misc:
       - The effect of learner camera encouragement and dropout rate: data/counts/README.md
       - ELIXIR evaluation evaluation: misc/elixir_evaluation_evaluation/README.md
