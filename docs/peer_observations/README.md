@@ -148,7 +148,7 @@ being a perfect starting point.
 - `[Sullivan et al., 2012]` Sullivan, Peter B., et al. "Peer observation of teaching as a faculty development tool." BMC medical education 12.1 (2012): 26.
 - `[Yiend et al., 2014]` Yiend, Jenny, Saranne Weller, and Ian Kinchin. "Peer observation of teaching: The interaction between peer review and developmental models of practice." Journal of Further and Higher Education 38.4 (2014): 465-484.
 - `[Kohut et al., 2007]` Kohut, Gary F., Charles Burnap, and Maria G. Yon. "Peer observation of teaching: Perceptions of the observer and the observed." College teaching 55.1 (2007): 19-25.
-- `[Carroll and O'Loughlin, 2014]` Carroll, Conor, and Deirdre O’Loughlin. "Peer observation of teaching: enhancing academic engagement for new participants." Innovations in education and teaching international 51.4 (2014): 446-456.
+- `[Carroll and O'Loughlin, 2014]` Carroll, Conor, and Deirdre O'Loughlin. "Peer observation of teaching: enhancing academic engagement for new participants." Innovations in education and teaching international 51.4 (2014): 446-456.
 - `[Bell and Cooper, 2013]` Bell, Maureen, and Paul Cooper. "Peer observation of teaching in university departments: A framework for implementation." International Journal for Academic Development 18.1 (2013): 60-73.
 
 <!-- markdownlint-enable MD013 -->
