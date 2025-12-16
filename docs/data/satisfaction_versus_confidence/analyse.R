@@ -52,7 +52,11 @@ testthat::expect_true(all(file.exists(get_all_csv_filenames())))
 
 #' Check that a file has a column related to the rating
 has_confidence <- function(csv_filename) {
-  t <- readr::read_csv(csv_filename, show_col_types = FALSE)
+  tryCatch(
+    t <- readr::read_csv(csv_filename, show_col_types = FALSE, name_repair = "unique_quiet"),
+    error = function(e) { return(FALSE) },
+    warning = function(e) { return(FALSE) }
+  )
   col_names <- names(t)
   sum(stringr::str_count(col_names, "I can")) != 0
 }
@@ -62,9 +66,15 @@ have_confidences <- function(csv_filenames) {
   as.logical(Vectorize(has_confidence)(csv_filenames))
 }
 
+
 #' Check that a file has a column related to the rating
 has_satisfaction <- function(csv_filename) {
-  t <- readr::read_csv(csv_filename, show_col_types = FALSE)
+  tryCatch(
+    t <- readr::read_csv(csv_filename, show_col_types = FALSE, name_repair = "unique_quiet"),
+    error = function(e) { return(FALSE) },
+    warning = function(e) { return(FALSE) }
+  )
+
   col_names <- names(t)
   sum(stringr::str_count(col_names, "how would you rate this training event")) != 0
 }
@@ -138,7 +148,7 @@ get_average_confidence <- function(csv_filename) {
   average_confidence
 }
 for (csv_filename in csv_filename) {
-  message(csv_filename, ": ", paste(get_average_confidence(csv_filename), collapse = " "))
+  message(csv_filename, ": ", paste(round(get_average_confidence(csv_filename), digits = 2), collapse = " "))
   testthat::expect_true(all(get_average_confidence(csv_filename) >= 1.0))
   testthat::expect_true(all(get_average_confidence(csv_filename) <= 10.0))
 }
@@ -146,19 +156,20 @@ for (csv_filename in csv_filename) {
 list_of_tables <- list()
 for (i in seq_len(length(csv_filenames))) {
   csv_filename <- csv_filenames[i]
-  message(csv_filename)
+  # message(csv_filename)
   satisfactions <- get_satisfactions(csv_filename)
   average_confidences <- get_average_confidence(csv_filename)
   testthat::expect_equal(length(satisfactions), length(average_confidences))
   t <- tibble::tibble(
     satisfaction = satisfactions,
-    average_confidence = average_confidences
+    average_confidence = average_confidences,
+    csv_filename = stringr::str_remove(csv_filename, "/home/richel/GitHubs/")
   )
-  message(are_correlated(t))
+  # message(are_correlated(t))
   list_of_tables[[i]] <- t
 }
 t <- dplyr::bind_rows(list_of_tables)
-
+readr::write_csv(t, "satisfaction_versus_average_confidence.csv")
 
 results <- correlation::correlation(t)
 p_value <- results$p
