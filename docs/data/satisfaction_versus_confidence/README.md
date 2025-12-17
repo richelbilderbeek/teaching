@@ -96,10 +96,7 @@ Methods
 - They are correlated
 - 21.4% of the variance is explained by the correlation
 
-
 ![Confidence and satisfaction](correlation.png)
-
-
 
 - `[Clayson, 2009]` Clayson, Dennis E. "Student evaluations of teaching:
   Are they related to what students learn?
