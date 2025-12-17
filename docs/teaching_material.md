@@ -1,3 +1,8 @@
+---
+tags:
+  - teaching material
+---
+
 # Teaching material
 
 My teaching material.

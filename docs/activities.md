@@ -1,3 +1,8 @@
+---
+tags:
+  - activities
+---
+
 # Activities
 
 My current and former activities.

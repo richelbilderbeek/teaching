@@ -1,3 +1,11 @@
+---
+tags:
+  - who is
+  - richel
+  - Richèl
+  - about
+---
+
 # Richèl
 
 ## How to pronounce my name

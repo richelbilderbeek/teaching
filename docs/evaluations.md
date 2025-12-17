@@ -1,3 +1,8 @@
+---
+tags:
+  - evaluations
+---
+
 # Evaluations
 
 ## Evaluations that I did in courses I did not teach
