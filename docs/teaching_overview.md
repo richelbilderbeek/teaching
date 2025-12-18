@@ -19,7 +19,7 @@ Here you can find my lesson plans, evaluations and reflections.
     ------------------------|-----------------------------------------|--------------------------------------------------------------------------
     2026-01-19              |Intro to UPPMAX Day 1, UPPMAX            |DONE
     2026-02-02              |NAISS file transfer course               |DONE
-    2026-02-13 -> 2026-02-06|Bianca workshop, beginner                |Done: Day 5 of the NAISS intro week
+    2026-02-13 -> 2026-02-06|Bianca workshop, beginner                |DONE
     2026-03-03              |HPC Python 1 day course                  |Done
     .                       |R, MATLAB and Julia in HPC 4 day course  |Cancelled for this season
     2026-04-20              |HPC Python 4 day course, Day 1           |Done
