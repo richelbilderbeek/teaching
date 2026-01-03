@@ -70,8 +70,16 @@ Energetic         |Enthusiastic, sometimes talks too fast
 
 ???- question "Why do 'cold calling'?"
 
-    Because it ensures the whole class is active (and not just the ones
-    that are used to raising their hands) `[Bell, 2020][Eddy et al, 2015]`.
+    There are multiple reasons:
+
+    - **Active teaching**: Cold calling ensures the whole class is active
+      (and not just the ones that are used to raising their hands) 
+      `[Bell, 2020][Eddy et al, 2015]`
+    - **Inclusivity**: Even in classes with around 50% women,
+      only around 13% of all learner-to-teacher interactions
+      are started by women `[Ballen et al, 2018]`. To include half of the
+      learners, the teacher has no other option that to take the initiative
+      here
 
     Some learners really like it `[3]` and some really don't `[4]`.
 
@@ -117,6 +125,9 @@ Energetic         |Enthusiastic, sometimes talks too fast
 - `[Schwartz, 2012]` Schwartz, Beth M., and Regan AR Gurung.
   Evidence-based teaching for higher education.
   American Psychological Association, 2012.
+- `[Ballen et al, 2018]` Ballen, Cissy J., et al.
+  "Politics a “chilly” environment for undergraduate women in Norway."
+  PS: Political Science & Politics 51.3 (2018): 653-658.
 
 ## My favorite literature
 
