@@ -65,7 +65,6 @@ bioinformatics training center called ELIXIR [Gurwitz et al., 2020].
 
 ### Survey question: Say something positive, say something that can be improved
 
-
 ### Survey question: Any feedback?
 
 ###
@@ -77,6 +76,9 @@ of teaching (teaching competence demonstrated and motivational skills)
 (see `[Marsh, 1984]` for a paper where 9 dimensions of teacher quality
 are used):
 
+<!-- markdownlint-disable MD013 --><!-- Will not split verbatim code over lines, hence will break 80 characters per line -->
+
+```bash
 15. Explains the content of each subject coherently
 17. Explains clearly
 22. Comparative mark for the teacher as against others (same year)
@@ -127,6 +129,9 @@ are used):
 2 Shawe interest in the concerme of eachsn 
 2. Shows interest in the concerns of each student.
 8 Takes shidents' valuable ideas into consid
+```
+
+<!-- markdownlint-enable MD013 -->
 
 ### Questionaires have no effect
 
@@ -142,16 +147,31 @@ See `[Martínez-Gómez, 2011]`.
   "Course recommendation as a construct in student evaluations:
   will students recommend your course?." Studies in Higher Education 43.6
   (2018): 944-959.
-- `[Clayson, 2009]` Clayson, Dennis E. "Student evaluations of teaching: Are they related to what students learn? A meta-analysis and review of the literature." Journal of marketing education 31.1 (2009): 16-30.
-- `[Gurwitz et al., 2020]` Gurwitz, Kim T., et al. "A framework to assess the quality and impact of bioinformatics training across ELIXIR." PLoS computational biology 16.7 (2020): e1007976. website
-- `[Liaw et al., 2012]` Liaw, Sok Ying, et al. "Assessment for simulation learning outcomes: a comparison of knowledge and self-reported confidence with observed clinical performance." Nurse education today 32.6 (2012): e35-e39.
-- `[Uttl et al., 2017]` Uttl, Bob, Carmela A. White, and Daniela Wong Gonzalez. "Meta-analysis of faculty's teaching effectiveness: Student evaluation of teaching ratings and student learning are not related." Studies in Educational Evaluation 54 (2017): 22-42.
-
-- `[Fernandez and Mateo, 1992]` Fernandez, Juan, and Miguel A. Mateo. "Student evaluation of university teaching quality: Analysis of a questionnaire for a sample of university students in Spain." Educational and Psychological Measurement 52.3 (1992): 675-686.
-
-- `[Marsh, 1984]` Marsh, Herbert W. "Students' evaluations of university teaching: Dimensionality, reliability, validity, potential baises, and utility." Journal of educational psychology 76.5 (1984): 707.
-
-- `[Martínez-Gómez, 2011]` Martínez-Gómez, Mónica, et al. "A multivariate method for analyzing and improving the use of student evaluation of teaching questionnaires: A case study." Quality & Quantity 45.6 (2011): 1415-1427.
-
-
-- `[Spooren et al., 2013]` Spooren, Pieter, Bert Brockx, and Dimitri Mortelmans. "On the validity of student evaluation of teaching: The state of the art." Review of Educational Research 83.4 (2013): 598-642.
+- `[Clayson, 2009]` Clayson, Dennis E.
+  "Student evaluations of teaching: Are they related to what students learn?
+  A meta-analysis and review of the literature."
+  Journal of marketing education 31.1 (2009): 16-30.
+- `[Gurwitz et al., 2020]` Gurwitz, Kim T., et al.
+  "A framework to assess the quality and impact of bioinformatics training
+  across ELIXIR." PLoS computational biology 16.7 (2020): e1007976. website
+- `[Liaw et al., 2012]` Liaw, Sok Ying, et al.
+  "Assessment for simulation learning outcomes: a comparison of knowledge and
+  self-reported confidence with observed clinical performance."
+  Nurse education today 32.6 (2012): e35-e39.
+- `[Uttl et al., 2017]` Uttl, Bob, Carmela A. White, and Daniela Wong Gonzalez.
+  "Meta-analysis of faculty's teaching effectiveness: Student evaluation of
+  teaching ratings and student learning are not related."
+  Studies in Educational Evaluation 54 (2017): 22-42.
+- `[Fernandez and Mateo, 1992]` Fernandez, Juan, and Miguel A. Mateo.
+  "Student evaluation of university teaching quality: Analysis of a
+  questionnaire for a sample of university students in Spain."
+  Educational and Psychological Measurement 52.3 (1992): 675-686.
+- `[Marsh, 1984]` Marsh, Herbert W.
+  "Students' evaluations of university teaching: Dimensionality, reliability,
+  validity, potential baises, and utility." Journal of educational psychology 76.5 (1984): 707.
+- `[Martínez-Gómez, 2011]` Martínez-Gómez, Mónica, et al.
+  "A multivariate method for analyzing and improving the use of student
+  evaluation of teaching questionnaires: A case study." Quality & Quantity 45.6 (2011): 1415-1427.
+- `[Spooren et al., 2013]` Spooren, Pieter, Bert Brockx, and Dimitri Mortelmans.
+  "On the validity of student evaluation of teaching: The state of the art."
+  Review of Educational Research 83.4 (2013): 598-642.
