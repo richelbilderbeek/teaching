@@ -76,62 +76,31 @@ of teaching (teaching competence demonstrated and motivational skills)
 (see `[Marsh, 1984]` for a paper where 9 dimensions of teacher quality
 are used):
 
-<!-- markdownlint-disable MD013 --><!-- Will not split verbatim code over lines, hence will break 80 characters per line -->
-
-```bash
-15. Explains the content of each subject coherently
-17. Explains clearly
-22. Comparative mark for the teacher as against others (same year)
-14. His/her explanations held my attention in class
-14. Fis/ner expianations neid my atte 
-1. His/her way of teaching helps in the understanding of the subject matter. 
-20 Shows him/herself competent in the content of the course given.
-10. Reflects the usefulness of the class content explained.
-21. Shows adequate previous preparation for the class.
-12. Thanks to what I have learned I feel a greater interest for this area.
-9. Establishes an adequate interrelation between the different subjects.
-4. Arouses students' interest in the subject.
-19. I would like to follow another course again with this teacher.
-13. Answers questions accurately. 
-13. Alswers quesions accuatery.
-6. Secures students' attention for the subject matter explained
-11. Shows enthusiasm for the class content explained.
-7. Alludes to the implications of different viewpoints.
-6. Encourages the expression of the students' own ideas.
-5. Shows him/herself accesible in his/her relationship win students. with students.
-3. Motivates students to ask about any doubts.
-18. Stimulates student participation in class.
-2. Shows interest in the concerms of each studer
-2. Shows interest in the concerns of each student.
-8. Takes students' valuable ideas into consideration.
-
-
-15. Explains the content of each subject coherently. clearly
-22. Comparative mark for the teacher as against others (same year).
-14. His/her explanations held my attention in class.
-1. His/her way of teaching helps in the understanding
-20. Shows him/herself competent in the content of the course given.
-10. Reflects the usefulness of the class content explained
-21. Shows adequate previous preparation for the class.
-12. Thanks to what I have learned I feel a greater interest for this area.
-9. Establishes an adequate interrelation between the different subjects.
-4. Arouses students' interest in the subject. 
-19. I would like to follow another course again with this teacher
-13. Answers questions accurately.
-16. Secures students' attention for the subject matter explained.
-11. Shows enthusiasm for the class content explained.
-7. Alludes to the implications of different viewpoints.
-6. Encourages the expression of the students' own ideas.
-5. Shows him/herself accesible in his/her relationship with students. Motivates shident 
-3. Motivates students to ask about any doubts.
-18 Simulator cdant articinaton in clae
-18. Stimulates student participation in class.
-2 Shawe interest in the concerme of eachsn 
-2. Shows interest in the concerns of each student.
-8 Takes shidents' valuable ideas into consid
-```
-
-<!-- markdownlint-enable MD013 -->
+- `15` Explains the content of each subject coherently
+- `17` Explains clearly
+- `22` Comparative mark for the teacher as against others (same year)
+- `14` His/her explanations held my attention in class
+- `14` Fis/ner expianations neid my atte 
+- `1` His/her way of teaching helps in the understanding of the subject matter
+- `20` Shows him/herself competent in the content of the course given.
+- `10` Reflects the usefulness of the class content explained.
+- `21` Shows adequate previous preparation for the class.
+- `12` Thanks to what I have learned I feel a greater interest for this area.
+- `9` Establishes an adequate interrelation between the different subjects.
+- `4` Arouses students' interest in the subject.
+- `19` I would like to follow another course again with this teacher.
+- `13` Answers questions accurately` 
+- `13` Alswers quesions accuatery.
+- `6` Secures students' attention for the subject matter explained
+- `11` Shows enthusiasm for the class content explained.
+- `7` Alludes to the implications of different viewpoints.
+- `6` Encourages the expression of the students' own ideas.
+- `5` Shows him/herself accesible in his/her relationship with students.
+- `3` Motivates students to ask about any doubts.
+- `18` Stimulates student participation in class.
+- `2` Shows interest in the concerms of each studer
+- `2` Shows interest in the concerns of each student.
+- `8` Takes students' valuable ideas into consideration.
 
 ### Questionaires have no effect
 
