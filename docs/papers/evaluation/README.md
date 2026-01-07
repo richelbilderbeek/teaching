@@ -75,7 +75,6 @@ of teaching (teaching competence demonstrated and motivational skills).
 The value is the rightmost value in table 2a, which is for university
 level schooling
 
-
 F1   |Description
 -----|-------------------------------------------------------------------------
 0.906|Explains the content of each subject coherently
@@ -90,7 +89,7 @@ F1   |Description
 0.826|Establishes an adequate interrelation between the different subjects.
 0.864|Arouses students' interest in the subject.
 0.804|I would like to follow another course again with this teacher.
-0.852|Answers questions accurately` 
+0.852|Answers questions accurately`
 0.848|Secures students' attention for the subject matter explained
 0.781|Shows enthusiasm for the class content explained.
 0.736|Alludes to the implications of different viewpoints.
