@@ -73,7 +73,7 @@ Energetic         |Enthusiastic, sometimes talks too fast
     There are multiple reasons:
 
     - **Active teaching**: Cold calling ensures the whole class is active
-      (and not just the ones that are used to raising their hands) 
+      (and not just the ones that are used to raising their hands)
       `[Bell, 2020][Eddy et al, 2015]`
     - **Inclusivity**: Even in classes with around 50% women,
       only around 13% of all learner-to-teacher interactions
