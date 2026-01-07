@@ -71,36 +71,45 @@ bioinformatics training center called ELIXIR [Gurwitz et al., 2020].
 
 `[Fernandez and Mateo, 1992]` checked many survey questions
 and how these questions correlated to two dimensions
-of teaching (teaching competence demonstrated and motivational skills)
+of teaching (teaching competence demonstrated and motivational skills).
+The value is the rightmost value in table 2a, which is for university
+level schooling
 
-(see `[Marsh, 1984]` for a paper where 9 dimensions of teacher quality
-are used):
 
-- `15` Explains the content of each subject coherently
-- `17` Explains clearly
-- `22` Comparative mark for the teacher as against others (same year)
-- `14` His/her explanations held my attention in class
-- `14` Fis/ner expianations neid my atte 
-- `1` His/her way of teaching helps in the understanding of the subject matter
-- `20` Shows him/herself competent in the content of the course given.
-- `10` Reflects the usefulness of the class content explained.
-- `21` Shows adequate previous preparation for the class.
-- `12` Thanks to what I have learned I feel a greater interest for this area.
-- `9` Establishes an adequate interrelation between the different subjects.
-- `4` Arouses students' interest in the subject.
-- `19` I would like to follow another course again with this teacher.
-- `13` Answers questions accurately` 
-- `13` Alswers quesions accuatery.
-- `6` Secures students' attention for the subject matter explained
-- `11` Shows enthusiasm for the class content explained.
-- `7` Alludes to the implications of different viewpoints.
-- `6` Encourages the expression of the students' own ideas.
-- `5` Shows him/herself accesible in his/her relationship with students.
-- `3` Motivates students to ask about any doubts.
-- `18` Stimulates student participation in class.
-- `2` Shows interest in the concerms of each studer
-- `2` Shows interest in the concerns of each student.
-- `8` Takes students' valuable ideas into consideration.
+F1   |Description
+-----|-------------------------------------------------------------------------
+0.906|Explains the content of each subject coherently
+0.902|Explains clearly
+0.892|Comparative mark for the teacher as against others (same year)
+0.892|His/her explanations held my attention in class
+0.881|His/her way of teaching helps in the understanding of the subject matter
+0.831|Shows him/herself competent in the content of the course given.
+0.856|Reflects the usefulness of the class content explained.
+0.795|Shows adequate previous preparation for the class.
+0.846|Thanks to what I have learned I feel a greater interest for this area.
+0.826|Establishes an adequate interrelation between the different subjects.
+0.864|Arouses students' interest in the subject.
+0.804|I would like to follow another course again with this teacher.
+0.852|Answers questions accurately` 
+0.848|Secures students' attention for the subject matter explained
+0.781|Shows enthusiasm for the class content explained.
+0.736|Alludes to the implications of different viewpoints.
+
+- `F1` = teaching skill demonstrated
+
+F2   |Description
+-----|---------------------------------------------------------------------
+0.903|Encourages the expression of the students' own ideas.
+0.888|Shows him/herself accesible in his/her relationship with students
+0.872|Motivates students to ask about any doubts.
+0.835|Stimulates student participation in class.
+0.854|Shows interest in the concerns of each student.
+0.807|Takes students' valuable ideas into consideration.
+
+- `F2` = motivational skill demonstrated
+
+See `[Marsh, 1984]` for a paper where 9 dimensions of teacher quality
+are used.
 
 ### Questionaires have no effect
 
@@ -120,6 +129,10 @@ See `[Martínez-Gómez, 2011]`.
   "Student evaluations of teaching: Are they related to what students learn?
   A meta-analysis and review of the literature."
   Journal of marketing education 31.1 (2009): 16-30.
+- `[Fernandez and Mateo, 1992]` Fernandez, Juan, and Miguel A. Mateo.
+  "Student evaluation of university teaching quality: Analysis of a
+  questionnaire for a sample of university students in Spain."
+  Educational and Psychological Measurement 52.3 (1992): 675-686.
 - `[Gurwitz et al., 2020]` Gurwitz, Kim T., et al.
   "A framework to assess the quality and impact of bioinformatics training
   across ELIXIR." PLoS computational biology 16.7 (2020): e1007976. website
@@ -131,10 +144,6 @@ See `[Martínez-Gómez, 2011]`.
   "Meta-analysis of faculty's teaching effectiveness: Student evaluation of
   teaching ratings and student learning are not related."
   Studies in Educational Evaluation 54 (2017): 22-42.
-- `[Fernandez and Mateo, 1992]` Fernandez, Juan, and Miguel A. Mateo.
-  "Student evaluation of university teaching quality: Analysis of a
-  questionnaire for a sample of university students in Spain."
-  Educational and Psychological Measurement 52.3 (1992): 675-686.
 - `[Marsh, 1984]` Marsh, Herbert W.
   "Students' evaluations of university teaching: Dimensionality, reliability,
   validity, potential baises, and utility." Journal of educational psychology 76.5 (1984): 707.
