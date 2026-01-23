@@ -3,6 +3,14 @@
 - Date: 2026-01-22
 - RSE Tools, 'GitHub Actions'
 
+Already before the talk, I was disturbed:
+my pull request to the main repository had feedback.
+I did not ask for feedback. I disagreed with the feedback.
+I felt sorry for the person that was maybe asked to give feedback.
+It was a sad situation. Apparently, the group has a procedure to
+merge pull requests after the talk. This would (I would realize during
+the talk) that there was no link to the exercises I could share.
+
 Even though I think my talk was good enough and I adapted well enough,
 I was not happy with it, as I had higher expectations.
 Or: I did not fulfill my goals:
