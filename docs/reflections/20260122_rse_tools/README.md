@@ -32,8 +32,6 @@ The reality was:
   myself. I hated that.
 - Few people asking questions in a big group
 
-
-
 ## Evaluation results
 
 I am happy that there is 1 evaluation response:
