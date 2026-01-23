@@ -33,3 +33,11 @@ The reality was:
 - Few people asking questions in a big group
 
 
+
+## Evaluation results
+
+I am happy that there is 1 evaluation response:
+
+> Very nice talk, you clearly know how to teach stuff. Can you share the link to the exercise?
+
+Thanks!
