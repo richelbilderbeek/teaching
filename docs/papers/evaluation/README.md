@@ -99,7 +99,7 @@ F1   |Description
 F2   |Description
 -----|---------------------------------------------------------------------
 0.903|Encourages the expression of the students' own ideas.
-0.888|Shows him/herself accesible in his/her relationship with students
+0.888|Shows him/herself accessible in his/her relationship with students
 0.872|Motivates students to ask about any doubts.
 0.835|Stimulates student participation in class.
 0.854|Shows interest in the concerns of each student.
@@ -110,11 +110,11 @@ F2   |Description
 See `[Marsh, 1984]` for a paper where 9 dimensions of teacher quality
 are used.
 
-### Questionaires have no effect
+### Questionnaires have no effect
 
 - `[Spooren et al., 2013]`
 
-### Ways to improve questionairres
+### Ways to improve questionnairres
 
 See `[Martínez-Gómez, 2011]`.
 
@@ -145,7 +145,7 @@ See `[Martínez-Gómez, 2011]`.
   Studies in Educational Evaluation 54 (2017): 22-42.
 - `[Marsh, 1984]` Marsh, Herbert W.
   "Students' evaluations of university teaching: Dimensionality, reliability,
-  validity, potential baises, and utility." Journal of educational psychology 76.5 (1984): 707.
+  validity, potential biases, and utility." Journal of educational psychology 76.5 (1984): 707.
 - `[Martínez-Gómez, 2011]` Martínez-Gómez, Mónica, et al.
   "A multivariate method for analyzing and improving the use of student
   evaluation of teaching questionnaires: A case study." Quality & Quantity 45.6 (2011): 1415-1427.
