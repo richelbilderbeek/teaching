@@ -114,7 +114,7 @@ are used.
 
 - `[Spooren et al., 2013]`
 
-### Ways to improve questionnairres
+### Ways to improve questionnaires
 
 See `[Martínez-Gómez, 2011]`.
 
