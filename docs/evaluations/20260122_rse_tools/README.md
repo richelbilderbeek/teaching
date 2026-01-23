@@ -7,4 +7,3 @@ These are the evaluation results:
 
 > Very nice talk, you clearly know how to teach stuff.
 > Can you share the link to the exercise?
-
