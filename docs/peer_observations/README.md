@@ -119,20 +119,39 @@ Starting from the two most useful papers:
 The most relevant here is the 'peer review model', as its
 purpose is 'engagement in discussion about teaching; self and mutual reflection'
 
-Characteristic                       | Evaluation Model                                                                                  | Development Model                                                                                                                    | Peer Review Model
--------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
-Who does it & to whom?               | Senior staff observe other staff                                                                  | Educational developers observe practitioners; or expert teachers observe others in department                                        | teachers observe each other
-Purpose                              | Identify underperformance, confirm probation, appraisal, promotion, quality assurance, assessment | Demonstrate competency/improve teaching competencies; assessment engagement in discussion about teaching; self and mutual reflection | Analysis, discussion, wider experience of teaching methods
-Outcome                              | Report/judgement report/action plan; pass/fail PGCert                                             | Report/action plan; pass/fail                                                                                                        | Non-judgemental, constructive feedback
-Status of evidence                   | authority                                                                                         | expert diagnosis                                                                                                                     | peer shared perception
-Relationship of observer to observed | power                                                                                             | expertise                                                                                                                            | equality/mutuality
-Confidentiality                      | Between manager, observer and staff observed                                                      | Between observer and the observed, examiner                                                                                          | Between observer and the observed - shared within learning set
-Inclusion                            | Selected staff                                                                                    | Selected/sample                                                                                                                      | all
-Judgement                            | Pass/fail, score, quality assessment, worthy/unworthy                                             | How to improve; pass/fail                                                                                                            | Non-judgemental, constructive feedback
-What is observed?                    | Teaching performance                                                                              | Teaching performance, class, learning materials                                                                                      | Teaching performance, class, learning materials
-Who benefits?                        | Institution                                                                                       | The observed                                                                                                                         | Mutual between peers
-Conditions for success               | Embedded management processes                                                                     | Effective central unit                                                                                                               | Teaching is valued, discussed
-Risks                                | Alienation, lack of cooperation, opposition                                                       | No shared ownership, lack of impact                                                                                                  | Complacency, conservatism, unfocused
+??? question "What is the full table?"
+
+    Characteristic                       | Evaluation Model                                                                                  | Development Model                                                                                                                    | Peer Review Model
+    -------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------
+    Who does it & to whom?               | Senior staff observe other staff                                                                  | Educational developers observe practitioners; or expert teachers observe others in department                                        | teachers observe each other
+    Purpose                              | Identify underperformance, confirm probation, appraisal, promotion, quality assurance, assessment | Demonstrate competency/improve teaching competencies; assessment engagement in discussion about teaching; self and mutual reflection | Analysis, discussion, wider experience of teaching methods
+    Outcome                              | Report/judgement report/action plan; pass/fail PGCert                                             | Report/action plan; pass/fail                                                                                                        | Non-judgemental, constructive feedback
+    Status of evidence                   | authority                                                                                         | expert diagnosis                                                                                                                     | peer shared perception
+    Relationship of observer to observed | power                                                                                             | expertise                                                                                                                            | equality/mutuality
+    Confidentiality                      | Between manager, observer and staff observed                                                      | Between observer and the observed, examiner                                                                                          | Between observer and the observed - shared within learning set
+    Inclusion                            | Selected staff                                                                                    | Selected/sample                                                                                                                      | all
+    Judgement                            | Pass/fail, score, quality assessment, worthy/unworthy                                             | How to improve; pass/fail                                                                                                            | Non-judgemental, constructive feedback
+    What is observed?                    | Teaching performance                                                                              | Teaching performance, class, learning materials                                                                                      | Teaching performance, class, learning materials
+    Who benefits?                        | Institution                                                                                       | The observed                                                                                                                         | Mutual between peers
+    Conditions for success               | Embedded management processes                                                                     | Effective central unit                                                                                                               | Teaching is valued, discussed
+    Risks                                | Alienation, lack of cooperation, opposition                                                       | No shared ownership, lack of impact                                                                                                  | Complacency, conservatism, unfocused
+
+??? question "What are features of the peer review model?"
+
+    Characteristic                       | Peer Review Model
+    -------------------------------------|----------------------------------------------------------------
+    Who does it & to whom?               | teachers observe each other
+    Purpose                              | Analysis, discussion, wider experience of teaching methods
+    Outcome                              | Non-judgemental, constructive feedback
+    Status of evidence                   | peer shared perception
+    Relationship of observer to observed | equality/mutuality
+    Confidentiality                      | Between observer and the observed - shared within learning set
+    Inclusion                            | all
+    Judgement                            | Non-judgemental, constructive feedback
+    What is observed?                    | Teaching performance, class, learning materials
+    Who benefits?                        | Mutual between peers
+    Conditions for success               | Teaching is valued, discussed
+    Risks                                | Complacency, conservatism, unfocused
 
 I think this is good enough for now,
 with `[Siddiqui et al., 2007]`
