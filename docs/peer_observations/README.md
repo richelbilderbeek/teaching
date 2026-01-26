@@ -3,6 +3,23 @@
 I think peer observations are a useful learning experiences
 to get better at teaching.
 
+## Peer observations overview
+
+Here are my English peer observations
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+When       | Observee | Observer     | Observation text
+-----------|----------|--------------|----------------------------------------------------------------------------------------
+2023-08-24 | Eli      | Me           | On paper only
+2025-02-10 | Me       | Jayant Yadev | [PDF](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20250210/observation.pdf)
+2025-11-27 | Me       | Sahar        | [PDF](20251127.pdf)
+2026-01-19 | Me       | Stephan      | [Text file](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20260119/observation.txt)
+
+<!-- markdownlint-enable MD013 -->
+
+## Summary of literature
+
 My favorite peer observation model is the 'peer review model' `[Gosling, 2002]`,
 that has the goal 'engagement in discussion about teaching; self and mutual
 reflection'. Here are the characteristics:
@@ -41,21 +58,6 @@ Tip|Title, from `[Siddiqui et al., 2007]`
 10 |Follow the general principles for feedback
 11 |Respect confidentiality.
 12 |Make it a learning experience
-
-## Peer observations overview
-
-Here are my English peer observations
-
-<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
-
-When       | Observee | Observer     | Observation text
------------|----------|--------------|----------------------------------------------------------------------------------------
-2023-08-24 | Eli      | Me           | On paper only
-2025-02-10 | Me       | Jayant Yadev | [PDF](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20250210/observation.pdf)
-2025-11-27 | Me       | Sahar        | [PDF](20251127.pdf)
-2026-01-19 | Me       | Stephan      | [Text file](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20260119/observation.txt)
-
-<!-- markdownlint-enable MD013 -->
 
 ## Peer observation minor literature review
 
@@ -135,23 +137,6 @@ purpose is 'engagement in discussion about teaching; self and mutual reflection'
     Who benefits?                        | Institution                                                                                       | The observed                                                                                                                         | Mutual between peers
     Conditions for success               | Embedded management processes                                                                     | Effective central unit                                                                                                               | Teaching is valued, discussed
     Risks                                | Alienation, lack of cooperation, opposition                                                       | No shared ownership, lack of impact                                                                                                  | Complacency, conservatism, unfocused
-
-??? question "What are features of the peer review model?"
-
-    Characteristic                       | Peer Review Model
-    -------------------------------------|----------------------------------------------------------------
-    Who does it & to whom?               | teachers observe each other
-    Purpose                              | Analysis, discussion, wider experience of teaching methods
-    Outcome                              | Non-judgemental, constructive feedback
-    Status of evidence                   | peer shared perception
-    Relationship of observer to observed | equality/mutuality
-    Confidentiality                      | Between observer and the observed - shared within learning set
-    Inclusion                            | all
-    Judgement                            | Non-judgemental, constructive feedback
-    What is observed?                    | Teaching performance, class, learning materials
-    Who benefits?                        | Mutual between peers
-    Conditions for success               | Teaching is valued, discussed
-    Risks                                | Complacency, conservatism, unfocused
 
 I think this is good enough for now,
 with `[Siddiqui et al., 2007]`
