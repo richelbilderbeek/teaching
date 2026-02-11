@@ -28,7 +28,7 @@ date,description,t_start,t_end,n_registrations
 20250319,Intro to Bianca,9:00,16:00,24
 20250324,R day of R-MATLAB-Julia,9:00,16:00,33
 20260202,NAISS Command Line 101,9:00,12:00,58
-20260202,NAISS Connect and File Transfer 101,13:00,16:00,64
+20260202,NAISS Connect and File Transfer,13:00,16:00,64
 20260204,NAISS Command Line 201,9:00,16:00,64
-20260206,NAISS Working with sensitive data 201,9:00,16:00,43
+20260206,NAISS Working with sensitive data,9:00,16:00,43
 
