@@ -1,8 +1,6 @@
-# NAISS Intro Week February 2026 
+# NAISS Intro Week February 2026
 
 This is one of [my reflections](../README.md).
-
-
 
 ![Count](../../data/counts/n_learners_per_time_naiss_intro_week_202602.png)
 
