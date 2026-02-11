@@ -1,5 +1,6 @@
 # NAISS Intro Week February 2026 
 
+This is one of [my reflections](../README.md).
 
 
 

@@ -3,6 +3,8 @@
 - Date: 2026-01-22
 - RSE Tools, 'GitHub Actions'
 
+This is one of [my reflections](../README.md).
+
 Already before the talk, I was disturbed:
 my pull request to the main repository had feedback.
 I did not ask for feedback. I disagreed with the feedback.
