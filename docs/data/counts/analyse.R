@@ -326,22 +326,18 @@ ggplot2::ggplot(t_interpolation_diff, ggplot2::aes(x = f_time, y = f_total)) +
 
 
 ## Analyse NAISS Intro week
-if (1 == 2) { # It is not too interesting
-  t <- get_counts_table()
-  t <- t |> dplyr::filter(date == "2026-02-02" | date == "2026-02-04" | date == "2026-02-06")
+t <- get_counts_table()
+t <- t |> dplyr::filter(date == "2026-02-02" | date == "2026-02-04" | date == "2026-02-06")
 
 
-  ggplot2::ggplot(t, ggplot2::aes(x = time, y = n_total, color = description)) +
-    ggplot2::scale_y_continuous(limits = c(0, NA)) +
-    ggplot2::geom_point() +
-    ggplot2::geom_line() +
-    ggplot2::labs(
-      title = "Number of learners present in time under lesson time"
-    )
-  ggplot2::ggsave("n_learners_per_time_naiss_intro_week_202602.png", width = 7, height = 4)
-
-}
-
+ggplot2::ggplot(t, ggplot2::aes(x = time, y = n_total, color = description)) +
+  ggplot2::scale_y_continuous(limits = c(0, NA)) +
+  ggplot2::geom_point() +
+  ggplot2::geom_line() +
+  ggplot2::labs(
+    title = "Number of learners present in time under lesson time"
+  )
+ggplot2::ggsave("n_learners_per_time_naiss_intro_week_202602.png", width = 7, height = 4)
 
 # Does not work anymore.
 # It would show the difference between number of learners
