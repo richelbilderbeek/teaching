@@ -324,27 +324,58 @@ ggplot2::ggplot(t_interpolation_diff, ggplot2::aes(x = f_time, y = f_total)) +
   ggplot2::geom_line()
 
 
-t_interpolation_on$type <- "On"
-t_interpolation_off$type <- "Off"
-t_interpolation_diff$type <- "Difference"
 
-t_interpolation_on$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_on)))
-t_interpolation_off$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_off)))
-t_interpolation_diff$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_diff)))
+## Analyse NAISS Intro week
+if (1 == 2) { # It is not too interesting
+  t <-  get_counts_table()
+  t$is_naiss_intro_week <- t$date == "2026-02-02" | t$date == "2026-02-04" | t$date == "2026-02-06"
+
+  ggplot2::ggplot(t, ggplot2::aes(x = time, y = f_total, color = is_naiss_intro_week)) +
+    ggplot2::geom_point() +
+    ggplot2::geom_smooth() +
+    ggplot2::labs(
+      title = "Fraction of learners present in time under lesson time",
+      subtitle = "Per course",
+      caption = paste0(
+        "f_total = n_learners / max(learners_of_that_day)",
+        "min_n_measurements: ", min_n_measurements,
+        "\nTrendline is Loess smoothing of all data. ",
+        "Some dips can be explained by breaks"
+      )
+    )
+
+}
 
 
-t <- dplyr::bind_rows(
-  t_interpolation_on,
-  t_interpolation_off,
-  t_interpolation_diff
-)
+# Does not work anymore.
+# It would show the difference between number of learners
+# with and without camera
+if (1 == 2) { # hms has changed its interface
 
-ggplot2::ggplot(
-  t, ggplot2::aes(x = time, y = f_total, color = type)) +
-  ggplot2::geom_line(size = 2) +
-  ggplot2::labs(
-  title = "Difference"
-)
+  t_interpolation_on$type <- "On"
+  t_interpolation_off$type <- "Off"
+  t_interpolation_diff$type <- "Difference"
+
+  t_interpolation_on$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_on)))
+  t_interpolation_off$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_off)))
+  t_interpolation_diff$time <- hms::hms(seq(readr::parse_time("9:00"), readr::parse_time("16:00"), length.out = nrow(t_interpolation_diff)))
 
 
-ggplot2::ggsave("f_diff_learners_per_f_time.png", width = 7, height = 4)
+  t <- dplyr::bind_rows(
+    t_interpolation_on,
+    t_interpolation_off,
+    t_interpolation_diff
+  )
+
+  ggplot2::ggplot(
+    t, ggplot2::aes(x = time, y = f_total, color = type)) +
+    ggplot2::geom_line(size = 2) +
+    ggplot2::labs(
+    title = "Difference"
+  )
+
+
+  ggplot2::ggsave("f_diff_learners_per_f_time.png", width = 7, height = 4)
+
+}
+
