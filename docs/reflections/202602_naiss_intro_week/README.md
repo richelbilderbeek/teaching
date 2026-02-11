@@ -2,8 +2,6 @@
 
 This is one of [my reflections](../README.md).
 
-
-
 ## [Part of my 'Connect and File Transfer' reflection](https://uppmax.github.io/naiss_file_transfer_course/reflections/20260202/)
 
 I think the NAISS Intro Week should be a gentle and easy first week to work
