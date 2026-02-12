@@ -14,5 +14,3 @@ I was a teaching assistant in this course.
 ![Number of learners in time](20240415_n_learners_in_time.png)
 
 ![Fraction of cumulative learners in time](20240415_f_cumulative_learners_in_time.png)
-
-
