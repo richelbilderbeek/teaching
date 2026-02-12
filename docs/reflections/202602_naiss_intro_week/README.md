@@ -6,13 +6,13 @@ This is one of [my reflections](../README.md).
 
 !!! info "[Feedback from day 1](https://github.com/UPPMAX/naiss_file_transfer_course/blame/main/docs/evaluations/20260202/README.md#L115):"
 
-    Continuously take feedback like this and the NAISS Intro Week
-    will naturally get better and better over time :)
+    > Continuously take feedback like this and the NAISS Intro Week
+    > will naturally get better and better over time :)
 
 - Give teachers the time they need for the exercises
 - Introduce HPC clusters properly
 
-### Give teachers the time they need for the exercises
+## Recommendation 1: Give teachers the time they need for the exercises
 
 I think the NAISS Intro Week should be a gentle and easy first week to work
 with our HPC clusters. I would say it is more important to adapt to
@@ -85,7 +85,7 @@ In practice:
 - Make 'Connect' (of 'Connect and File Transfer') at least 2 hours
 - Make 'File Transfer' (of 'Connect and File Transfer' at least 2 hours
 
-### Introduce HPC clusters properly
+## Recommendation 2: Introduce HPC clusters properly
 
 Maybe it was only on the last day (Day 5, 'Working with sensitive data'),
 that there was enough time for exercises.
@@ -118,7 +118,6 @@ In practice:
 - Make this part of 'Connect' (of 'Connect and File Transfer')
 
 ## Appendix
-
 
 ### [Part of my 'Connect and File Transfer' reflection](https://uppmax.github.io/naiss_file_transfer_course/reflections/20260202/)
 
