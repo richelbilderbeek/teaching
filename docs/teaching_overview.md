@@ -19,6 +19,20 @@ Here you can find my lesson plans, evaluations and reflections.
     ------------------------|-----------------------------------------|--------------------------------------------------------------------------
     2026-05-22              |Bianca workshop, intermediate            |[Double-check](https://github.com/UPPMAX/bianca_workshops/issues/89)
 
+    ```text
+    2026-12-04 Command Line 201, 2 half-days
+    2026-11-27 HPC Python Day, 4 days
+    2026-11-18 Bianca workshop, Intermediate
+    2026-11-14 NAISS Connect and File Transfer course
+    2026-10-23 Programming Formalisms
+    2026-10-15 Intro to UPPMAX Day 1
+    2026-10-14 HPC Python day 1 only
+    2026-10-06 R, MATLAB and Julia in HPC
+    2026-09-15 Bianca workshop, basic
+    2026-09-05 NAISS Connect and File Transfer course
+    2026-08-25 Intro to UPPMAX Day 1
+    ```
+
     <!-- markdownlint-enable MD013 -->
 
 Most recent at the top.
