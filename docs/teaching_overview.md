@@ -19,7 +19,6 @@ Here you can find my lesson plans, evaluations and reflections.
     2026-09-..               |NAISS Connect and File Transfer course|As part of the NAISS Intro week, in 'Sept'
     2026-09-..               |Bianca workshop, basic                |As part of the NAISS Intro week, in 'Sept'
     2026-10-.. to 2026-11-.. |R, MATLAB and Julia in HPC, 4 days    |Is in NAISS schedule with date 'H2 (Oct/Nov?)
-    2026-10-.. to 2026-11-.. |Programming Formalisms                |Björn Claremar is boss here. I am unsure how often per year this is and am working on it to find out
     2026-10-..               |Intro to UPPMAX Day 1                 |Diana is boss here, I can adapt
     2026-10-..               |HPC Python day, 1 only                |Richel is boss here, he is happy with any free date around mid October
     2026-11-14               |NAISS Connect and File Transfer course|As part of the NAISS Intro week, in 'Q4'
