@@ -13,7 +13,7 @@ My current and former activities.
 - [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
 - [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
 - [NAISS Intro to Python for HPC](https://uppmax.github.io/naiss_intro_python/)
-- [NAISS File Transfer](https://uppmax.github.io/naiss_file_transfer_course/)
+- [NAISS File Transfer](https://hpc.pages.naiss.se/training/connect-transfer/)
 - [NAISS Command Line 201](https://uppmax.github.io/linux-command-line-201)
 - [NAISS Python for HPC](https://uppmax.github.io/HPC-python/)
 - [NAISS Bianca workshop](https://uppmax.github.io/bianca_workshops/)
