@@ -74,6 +74,7 @@
     This is form is described as 'Think, Pair, Share' in 'The Fundamentals
     of Teaching' by Mike Bell
 
+
 ???- info "For teachers: breakout room visit policy"
 
     The goal of visiting the breakout room,
@@ -116,6 +117,7 @@
       chatting --> |No| huh
       fix --> |Done| next
     ```
+
 
 - Ideally, both learners have a camera and microphone on
 - You will be put into Zoom Breakout rooms, in random pairs.
