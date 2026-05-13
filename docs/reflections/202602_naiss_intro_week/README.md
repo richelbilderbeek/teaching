@@ -4,7 +4,7 @@ This is one of [my reflections](../README.md).
 
 ## Recommendation
 
-!!! info "[Feedback from day 1](https://github.com/UPPMAX/naiss_file_transfer_course/blame/main/docs/evaluations/20260202/README.md#L115):"
+!!! info "[Feedback from day 1](https://gitlab.naiss.se/hpc/training/connect-transfer/blame/main/docs/evaluations/20260202/README.md#L115):"
 
     > Continuously take feedback like this and the NAISS Intro Week
     > will naturally get better and better over time :)
@@ -56,8 +56,8 @@ For 'Connect and File Transfer', however, the time was still too short.
 
     Quote                                                         |Source
     --------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------
-    Awesome course, but it would be nice to have more time        |['Connect and File Transfer' evaluation](https://github.com/UPPMAX/naiss_file_transfer_course/blame/main/docs/evaluations/20260202/README.md#L79)
-    I think I would have needed more time to figure everything out|['Connect and File Transfer' evaluation](https://github.com/UPPMAX/naiss_file_transfer_course/blame/main/docs/evaluations/20260202/README.md#L87)
+    Awesome course, but it would be nice to have more time        |['Connect and File Transfer' evaluation](https://gitlab.naiss.se/hpc/training/connect-transfer/blame/main/docs/evaluations/20260202/README.md#L79)
+    I think I would have needed more time to figure everything out|['Connect and File Transfer' evaluation](https://gitlab.naiss.se/hpc/training/connect-transfer/blame/main/docs/evaluations/20260202/README.md#L87)
 
     - The learning outcomes show it:
       this course had the lowest success score (i.e. percentage of complete confidence
@@ -99,14 +99,14 @@ For a center that provides HPC clusters, this seems like a miss to me.
 
 Other learners mentioned this earlier,
 such as
-[the 'Connect and File Transfer' feedback](https://github.com/UPPMAX/naiss_file_transfer_course/blame/main/docs/evaluations/20260202/README.md#L90):
+[the 'Connect and File Transfer' feedback](https://gitlab.naiss.se/hpc/training/connect-transfer/blame/main/docs/evaluations/20260202/README.md#L90):
 
 > I think it would have been better to start the day by explaining
 > what an HPC cluster is, then practicing logging into the cluster,
 > then having LINUX 101 and after that having the file transferring course.
 
 Another learners indicated too he/she does not understand the concept, from
-[the 'Connect and File Transfer' feedback](https://github.com/UPPMAX/naiss_file_transfer_course/blame/main/docs/evaluations/20260202/README.md#L101):
+[the 'Connect and File Transfer' feedback](https://gitlab.naiss.se/hpc/training/connect-transfer/blame/main/docs/evaluations/20260202/README.md#L101):
 
 > There are different clusters (I think this is the name?)
 
