@@ -14,7 +14,7 @@ My current and former activities.
 - [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
 - [NAISS Intro to Python for HPC](https://uppmax.github.io/naiss_intro_python/)
 - [NAISS File Transfer](https://hpc.pages.naiss.se/training/connect-transfer/)
-- [NAISS Command Line 201](https://uppmax.github.io/linux-command-line-201)
+- [NAISS Command Line 201](https://uppmax.github.io/linux-command-line-102)
 - [NAISS Python for HPC](https://uppmax.github.io/HPC-python/)
 - [NAISS Bianca workshop](https://uppmax.github.io/bianca_workshops/)
 - [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms),

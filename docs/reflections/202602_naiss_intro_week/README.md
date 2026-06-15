@@ -35,13 +35,13 @@ Our learners will state this on the evaluations.
     Too short time to try things out                                               |Selecting software modules
     more exercises would have been nice                                            |Running jobs on clusters
     Would be nice to have some more hands-on activities                            |Running jobs on clusters
-    Sometimes a little more time might have been needed for the exercises          |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-201/blame/main/docs/evaluations/20260204/README.md#L29)
-    Most of lectures were rather fast, and not much time for exercises             |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-201/blame/main/docs/evaluations/20260204/README.md#L31)
-    It was good. I didn't finish all the exercises on on the time given            |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-201/blame/main/docs/evaluations/20260204/README.md#L35)
-    Generally good pace, sometimes a bit too fast (ex. 3min to try things yourself)|['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-201/blame/main/docs/evaluations/20260204/README.md#L38)
-    The pace was ok if one have some experience, otherwise probably a bit fast     |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-201/blame/main/docs/evaluations/20260204/README.md#L41)
-    The course materials are very good, though lectures were rather fast           |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-201/blame/main/docs/evaluations/20260204/README.md#L59)
-    I would suggest more time for doing exercises                                  |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-201/blame/main/docs/evaluations/20260204/README.md#L70)
+    Sometimes a little more time might have been needed for the exercises          |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L29)
+    Most of lectures were rather fast, and not much time for exercises             |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L31)
+    It was good. I didn't finish all the exercises on on the time given            |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L35)
+    Generally good pace, sometimes a bit too fast (ex. 3min to try things yourself)|['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L38)
+    The pace was ok if one have some experience, otherwise probably a bit fast     |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L41)
+    The course materials are very good, though lectures were rather fast           |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L59)
+    I would suggest more time for doing exercises                                  |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L70)
 
 However, some sessions ('Connect and File Transfer' and
 'Working with sensitive data')
@@ -145,7 +145,7 @@ Data and scripts can be found at
 Course                     |`n_registrations`|`n_showing_up`       |`n_evaluations`                |Source
 ---------------------------|-----------------|---------------------|-------------------------------|----------------------------------------------------------------------------------------------
 Connect and File Transfer  |64               |25 (41% show-up rate)|15 (60% fill-in rate)          |[Course evaluation](https://hpc.pages.naiss.se/training/connect-transfer/evaluations/20260202/)
-Command line 201           |64               |19 (30% show-up rate)|13 (so far) (68% fill-on rate) |[Course evaluation](https://uppmax.github.io/linux-command-line-201/evaluations/20260204/)
+Command line 201           |64               |19 (30% show-up rate)|13 (so far) (68% fill-on rate) |[Course evaluation](https://uppmax.github.io/linux-command-line-102/evaluations/20260204/)
 Working with sensitive data|43               |9 (21% show-up rate) |8 (89% fill-in rate)           |[Course evaluation](https://uppmax.github.io/bianca_workshops/evaluations/20260206/)
 
 <!-- markdownlint-enable MD013 -->
@@ -157,7 +157,7 @@ Working with sensitive data|43               |9 (21% show-up rate) |8 (89% fill-
 Course                     |Learning outcomes achieved                         |Source
 ---------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------
 Connect and File Transfer  |![Connect and File Transfer](los_file_transfer.png)|[URL](https://hpc.pages.naiss.se/training/connect-transfer/evaluations/20260202/average_confidences_per_question.png)
-Command Line 201           |![Command Line 201](los_cl201.png)                 |[URL](https://uppmax.github.io/linux-command-line-201/evaluations/20260204/average_confidences_per_question.png)
+Command Line 201           |![Command Line 201](los_cl201.png)                 |[URL](https://uppmax.github.io/linux-command-line-102/evaluations/20260204/average_confidences_per_question.png)
 Working with sensitive data|![Working with sensitive data](los_sensitive.png)  |[URL](https://uppmax.github.io/bianca_workshops/evaluations/20260206/average_confidences_per_question.png)
 
 <!-- markdownlint-enable MD013 -->
@@ -169,7 +169,7 @@ Working with sensitive data|![Working with sensitive data](los_sensitive.png)  |
 **When**    | **Duration** | **What**                                                                                                                 | **Lesson plan**                                                                                                     | **Evaluation**                                                                                                                                                                                                                    | **Reflection**
 ------------|--------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------
 2025-02-06  | Full day     | [Working with sensitive data](https://uppmax.github.io/bianca_workshops/)                                                | [Lesson plan](https://uppmax.github.io/bianca_workshops/lesson_plans/20260206/20260206_richel/)                     | [Evaluation](https://uppmax.github.io/bianca_workshops/evaluations/20260206)                                                                                                                                                      | [Reflection](https://uppmax.github.io/bianca_workshops/reflections/20260206/20260206_richel/)
-2026-02-04  | Full day     | [Command Line 201](https://uppmax.github.io/linux-command-line-201/)                                                     | [Lesson plan](https://uppmax.github.io/linux-command-line-201/lesson_plans/20260204/)                               | [Evaluation](https://uppmax.github.io/linux-command-line-201/evaluations/20260204/)                                                                                                                                               | [Reflection](https://uppmax.github.io/linux-command-line-201/reflections/202602_course/)
+2026-02-04  | Full day     | [Command Line 201](https://uppmax.github.io/linux-command-line-102/)                                                     | [Lesson plan](https://uppmax.github.io/linux-command-line-102/lesson_plans/20260204/)                               | [Evaluation](https://uppmax.github.io/linux-command-line-102/evaluations/20260204/)                                                                                                                                               | [Reflection](https://uppmax.github.io/linux-command-line-102/reflections/202602_course/)
 2026-02-02  | Half day     | [NAISS Connect and File Transfer course](https://hpc.pages.naiss.se/training/connect-transfer/)                          | [Lesson plan](https://hpc.pages.naiss.se/training/connect-transfer/lesson_plans/20260202/)                          | [Evaluation](https://hpc.pages.naiss.se/training/connect-transfer/evaluations/20260202/)                                                                                                                                          | [Reflection](https://hpc.pages.naiss.se/training/connect-transfer/reflections/20260202/)
 
 <!-- markdownlint-enable MD013 -->
