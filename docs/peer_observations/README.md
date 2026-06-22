@@ -9,12 +9,15 @@ Here are my English peer observations
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-When       | Observee | Observer     | Observation text
------------|----------|--------------|----------------------------------------------------------------------------------------
-2023-08-24 | Eli      | Me           | On paper only
-2025-02-10 | Me       | Jayant Yadev | [PDF](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20250210/observation.pdf)
-2025-11-27 | Me       | Sahar        | [PDF](20251127.pdf)
-2026-01-19 | Me       | Stephan      | [Text file](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20260119/observation.txt)
+When       | Observee        | Observer     | Observation text
+-----------|-----------------|--------------|----------------------------------------------------------------------------------------
+2023-08-24 | Eli             | Me           | On paper only
+2025-02-10 | Me              | Jayant Yadev | [PDF](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20250210/observation.pdf)
+2025-11-27 | Me              | Sahar        | [PDF](20251127.pdf)
+2026-01-19 | Me              | Stephan      | [Text file](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20260119/observation.txt)
+2026-01-19 | Me              | Stephan      | [Text file](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20260119/observation.txt)
+2026-03-03 | Me              | Jill         | [Text file](20260303_jill.txt)
+2026-03-12 | Erik and Stephan| Me           | On paper only
 
 <!-- markdownlint-enable MD013 -->
 
