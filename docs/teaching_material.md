@@ -7,13 +7,36 @@ tags:
 
 My teaching material.
 
-## Articles, blog posts, books
+## Learning communities I created
 
+- 🇳🇱 [Damsterdojo](https://github.com/djog/damster_dojo) 2015-2021
+- 🇳🇱 [Dojo](https://github.com/djog/dojo) 2015-2021
+- 🇸🇪 [Lördagskurser](https://uppsala-makerspace.github.io/loerdagskurser/) 2021-present
+
+## Courses I created
+
+- 🇸🇪 [3D skrivningskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/)
+- 🇳🇱 [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
+- 🇸🇪 [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
+- 🇳🇱 [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
+- 🇬🇧 [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
+- 🇬🇧 [Laser cutter course](https://richelbilderbeek.github.io/laser_cutter_guide/)
+- 🇸🇪 [Lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
+- 🇸🇪 [OpenSCAD kurs](https://richelbilderbeek.github.io/openscad_kurs/books/)
+- 🇸🇪 [Processing för ungdomar](https://richelbilderbeek.github.io/processing_foer_ungdomar/)
+- 🇳🇱 [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+- 🇸🇪 [Vinylskärarekurs](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+
+## Books I wrote
+
+- [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
+  a book about the Boost.Graph library
 - [Developing Bevy games using TDD](https://richelbilderbeek.github.io/bevy_tdd_book/):
   a book about developing games using the Rust gaming engine called 'Bevy',
   using test-driven development
-- [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
-  a book about the Boost.Graph library
+
+## Articles and blog posts I wrote
+
 - [C++ presentations](https://github.com/richelbilderbeek/CppPresentations)
 - [Continuous integration with Travis CI](https://arne-mertz.de/2017/04/continuous-integration-travis-ci):
   a guest blog post on [Simplify C++](https://arne-mertz.de/)
@@ -25,7 +48,7 @@ My teaching material.
 - [R coding standard](https://github.com/richelbilderbeek/R-CodingStandard)
 - [Travis CI for C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
 
-## Simulations, tools, programs
+## Educational simulations, tools and programs I wrote
 
 - [Hometrainer](https://github.com/richelbilderbeek/hometrainer): self-testing suite
 - [LearyCircumplex](https://github.com/richelbilderbeek/LearyCircumplex): tool to draw a Leary circumplex
