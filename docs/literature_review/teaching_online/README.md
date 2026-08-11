@@ -48,9 +48,95 @@ although it has been recommended by other literature,
 as those papers mostly judged live coding from the learners'
 perspective, instead of actual learning effectiveness `[Selvaraj et al., 2021]`.
 
+## Indicators of quality
+
+From `[Hafeez et al., 2022]`:
+
+Sr. No|Indicators
+------|------------------------------------------------------------------------
+1     | Learners Perspectives
+2     | Learner–Instructor interaction
+3     | Prompt feedback
+4     | Learner support services
+5     | Evaluation and Assessment of Programmes
+6     | Clear Analysis of Audience
+7     | Quality assurance is ensured by a documented technology strategy.
+8     | Institutional infrastructure and institutional support
+9     | Guidelines for Course Layout
+10    | Active Learning Strategies
+11    | Respect for various modes of learning
+12    | A compelling case for online learning that is related to the institution's mission
+13    | Tools and media that are Appropriate for Learning
+14    | Reliability of Technology
+15    | Guidelines for course development are being implemented, and instructional materials are being reviewed.
+
+## Scorecard
+
+From [OLC](https://onlinelearningconsortium.org/quality/scorecards/course-review/):
+
+Essential design:
+
+- 1 Learning objectives and/or outcomes are specific, measurable, and clearly-defined.
+- 2 Course lists all required learning materials, including technology tools.
+- 3 Course provides office hours, communication preferences, and response times.
+- 4 Course provides technical support resources and help for common technical issues.
+- 5 Course includes step-by-step guides or tutorials for all required technologies.
+- 6 Course defines grading policies, academic integrity expectations, and late policies.
+- 7 Course provides an accessibility statement and steps to request accommodations.
+- 8 Course includes information for relevant learner support and other services.
+- 9 Course includes a course schedule with due dates for all assignments and activities.
+- 10 Course includes an introductory discussion and guidelines for student interactions.
+- 11 Course site navigation and layout are clear and consistent.
+- 12 Videos and other multimedia content are of appropriate quality and length.
+- 13 Course content is up-to-date, relevant, and tied to specific learning objectives.
+- 14 Course site provides an organized gradebook that includes all assessments.
+- 15 Course incorporates formative, low-stakes assessments for frequent engagement.
+- 16 Course provides a scaffolded approach for summative assessments.
+- 17 All modules, assignments, and activities include clear and detailed instructions.
+- 18 Course includes rubrics for all assignments and assessments.
+- 19 Course workload is balanced and appropriate for the discipline and course level.
+- 20 Course materials are free of broken links, spelling errors, and incorrect information.
+
+Advanced course design:
+
+- 1 Course learning objectives and/or outcomes use learner-centered language.
+- 2 Course includes a pre-course technology checklist and online readiness quiz.
+- 3 Course includes an orientation module, video, or guide to navigating the course.
+- 4 Course includes explicit guidelines for using generative AI.
+- 5 Course uses exclusively low- or no-cost materials.
+- 6 Course provides multiple pathways for learners to meet learning objectives.
+- 7 Content includes examples that represent a range of learner backgrounds.
+- 8 Course includes an online forum for muddiest points or questions about the course.
+- 9 Course incorporates adaptive learning strategies to personalize learning.
+- 10 Text materials meet accessibility and Universal Design standards.
+- 11 Videos and other multimedia content meet accessibility standards.
+- 12 Course includes ways for learners to contribute meaningfully to course content.
+- 13 Course includes model deliverables for summative assessments.
+- 14 Course includes assessments with practical, real-word applications.
+- 15 Course supports learner metacognition through periodic self-reflection activities.
+
+Course delivery:
+
+- 1 Instructor provides a personal introduction to the course.
+- 2 Instructor releases modules and content in the course site in a timely manner.
+- 3 Instructor posts regular and relevant announcements on the course site.
+- 4 Instructor contributes meaningfully to online activities and discussions.
+- 5 Instructor provides specific and targeted feedback on assignments.
+- 6 Instructor provides feedback and grades on assessments in a timely manner.
+- 7 Instructor actively engages with learners who show signs of struggle in the course.
+- 8 Instructor uses supportive language in all feedback and communications.
+- 9 Instructor encourages or incentivizes learners to participate in office hours.
+- 10 Instructor responds to student communications and inquiries in a timely manner.
+- 11 Instructor provides end-of-module summaries based upon learner contributions.
+- 12 Instructor encourages learner-to-learner engagement in online activities.
+- 13 Instructor adjusts content, assignments, and dates in response to learner needs.
+- 14 Instructor solicits learner feedback about the course at multiple points in the term.
+- 15 Instructor incorporates personal examples to supplement course content.
+
 ## Quickscans
 
-`[NSQ 2025]` has these national standards for quality online teaching:
+`[NSQ 2025]` has these national standards for quality online teaching,
+for K-12 students (i.e. around 17-18 years old):
 
 - STANDARD A: PROFESSIONAL RESPONSIBILITIES: The online teacher demonstrates professional competence by adhering to professional responsibilities.
   - A1 The online teacher meets or is working towards local and/or state/national requirements for eligibility to teach.
@@ -101,3 +187,5 @@ perspective, instead of actual learning effectiveness `[Selvaraj et al., 2021]`.
 - `[Selvaraj et al., 2021]` Selvaraj, Ana, et al. "Live coding: A review of the literature." Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1. 2021.
 - `[Vihavainen et al., 2014]` Vihavainen, Arto, Jonne Airaksinen, and Christopher Watson. "A systematic review of approaches for teaching introductory programming and their influence on success." Proceedings of the tenth annual conference on International computing education research. 2014.
 - `[NSQ 2025]` [NSQ National standards for quality online teaching](National-Standards-for-Quality-Online-Teaching-2025-Accessible.pdf)
+
+- `[Hafeez et al., 2022]` Hafeez, Muhammad, Shazia Naureen, and Sohaib Sultan. "Quality Indicators and Models for Online Learning Quality Assurance in Higher Education." Electronic Journal of e-Learning 20.4 (2022): 374-385.
