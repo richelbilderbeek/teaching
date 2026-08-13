@@ -27,6 +27,19 @@ Swedish  |'Ri-kjell'
 - Sep 2022-now: coordinator of multiple courses, as volunteer, 8-88 yo
 - Mar 2023-now: teacher at UPPMAX, 18-88 yo
 
+<!--
+
+Amount of hours teaching:
+
+2008-2010 't Venster: 0.6 FTE * 40 hours/week * 40 weeks * 2 years = 1920
+2015-2021 Dojo: 6 hours/week on average * 40 weeks * 6 years       = 1440 
+2019-2021 DamsterDojo: 4 hours/week * 40 weeks * 2 years           = 320
+2022-2026 LK: 8 hours/week * 40 weeks * 4 years                    = 1280
+2023-2026 NBIS: 0.4 FTE * 40 hours/week * 40 weeks * 3 years       = 1920 +
+---------------------------------------------------------------------------
+                                                                     6880
+-->
+
 ## Teaching style
 
 Style             |Example of how this looks like
@@ -105,6 +118,9 @@ Energetic         |Enthusiastic, sometimes talks too fast
   A taxonomy for learning, teaching, and assessing:
   A revision of Bloom's taxonomy of educational objectives: complete edition.
   Addison Wesley Longman, Inc., 2001.
+- `[Ballen et al, 2018]` Ballen, Cissy J., et al.
+  "Politics a “chilly” environment for undergraduate women in Norway."
+  PS: Political Science & Politics 51.3 (2018): 653-658.
 - `[Bell, 2020]` Bell, Mike. The fundamentals of teaching:
   A five-step model to put the research evidence into practice. Routledge, 2020.
 - `[Eddy et al, 2015]`
@@ -125,9 +141,6 @@ Energetic         |Enthusiastic, sometimes talks too fast
 - `[Schwartz, 2012]` Schwartz, Beth M., and Regan AR Gurung.
   Evidence-based teaching for higher education.
   American Psychological Association, 2012.
-- `[Ballen et al, 2018]` Ballen, Cissy J., et al.
-  "Politics a “chilly” environment for undergraduate women in Norway."
-  PS: Political Science & Politics 51.3 (2018): 653-658.
 
 ## My favorite literature
 

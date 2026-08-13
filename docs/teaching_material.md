@@ -9,7 +9,7 @@ My teaching material.
 
 ## Learning communities I created
 
-- 🇳🇱 [Damsterdojo](https://github.com/djog/damster_dojo) 2015-2021
+- 🇳🇱 [Damsterdojo](https://github.com/djog/damster_dojo) 2019-2021
 - 🇳🇱 [Dojo](https://github.com/djog/dojo) 2015-2021
 - 🇸🇪 [Lördagskurser](https://uppsala-makerspace.github.io/loerdagskurser/) 2021-present
 
