@@ -27,7 +27,7 @@ My current and former activities.
 ## Other teaching-related activities
 
 - I am one of the organizer of the
-  [NBIS Teaching Literature Club](https://nbisweden.github.io/teaching_literature_club/)
+  [SciLifeLab Teaching Literature Club](https://scilifelab.github.io/teaching_literature_club/)
 - I am one of the organizer of the
   [female-only programming workshops](https://richelbilderbeek.github.io/female_only_programming_workshops/)
   in Uppsala
