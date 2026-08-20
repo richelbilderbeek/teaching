@@ -19,12 +19,7 @@ Here you can find my lesson plans, evaluations and reflections.
     -------------------------|--------------------------------------|----------------------------------------------------------------------------------------------------
     2026-10-..               |Intro to UPPMAX Day 1                 |Diana is boss here, I can adapt
     2026-10-..               |HPC Python day, 1 only                |Richel is boss here, he is happy with any free date around mid October
-    2026-11-14               |NAISS Connect and File Transfer course|As part of the NAISS Intro week, in 'Q4'
-    2026-12-04 and 2026-12-05|Command Line 201, 2 half-days         |Is in NAISS schedule of 2026-03-05
     ```
-
-e can/will have the full week 47, from Monday 16th November to (and including) Friday 20th November! 🥳
-    2026-11-16               |HPC Python day 1 only                |Richel is boss here, he is happy with any free date around mid October
 
     <!-- markdownlint-enable MD013 -->
 
