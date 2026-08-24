@@ -7,7 +7,6 @@ tags:
 
 My teaching material.
 
-
 ## Courses I created
 
 - 🇸🇪 [3D skrivningskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/)
