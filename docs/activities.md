@@ -7,6 +7,12 @@ tags:
 
 My current and former activities.
 
+## Learning communities I created
+
+- 🇳🇱 [Damsterdojo](https://github.com/djog/damster_dojo) 2019-2021
+- 🇳🇱 [Dojo](https://github.com/djog/dojo) 2015-2021
+- 🇸🇪 [Lördagskurser](https://uppsala-makerspace.github.io/loerdagskurser/) 2021-present
+
 ## Courses I teach
 
 - [Intro to R](https://richelbilderbeek.github.io/intro_r_course/)
@@ -21,8 +27,8 @@ My current and former activities.
   a course by NBIS and UPPMAX
 - [R, MATLAB and Julia for HPC](https://github.com/UPPMAX/R-matlab-julia-HPC),
   a course by HPC2N and UPPMAX
-- [UPPMAX Intro to AWK](https://uppmax.github.io/awk_course/)
 - [UPPMAX Intro to UPPMAX](https://uppmax.github.io/uppmax_intro_day_1/)
+
 
 ## Other teaching-related activities
 
@@ -42,8 +48,12 @@ My current and former activities.
 | Noah     | 2025-04-09 | [Report](https://github.com/richelbilderbeek/prao_noah_20250409)    |
 | Johannes | 2025-11-07 | [Report](https://github.com/richelbilderbeek/prao_johannes_20251107)|
 | Signe    | 2025-11-07 | [Report](https://github.com/richelbilderbeek/prao_signe_20251107)   |
-| Olle     | 2025-11-12 | [Report](https://github.com/richelbilderbeek/prao_olle_20251112)    |
 | Max      | 2025-11-21 | [Report](https://github.com/richelbilderbeek/prao_max_20251121)     |
+| Olle     | 2025-11-12 | [Report](https://github.com/richelbilderbeek/prao_olle_20251112)    |
+| Roza     | 2025-11-26 | [Report](https://github.com/richelbilderbeek/prao_roza_20251126)    |
+| Emil     | 2026-03-20 | [Report](https://github.com/richelbilderbeek/prao_emil_20260320)    |
+| Julian   | 2026-03-20 | [Report](https://github.com/richelbilderbeek/prao_julian_20260320)  |
+| Wilmer   | 2026-04-13 | [Report](https://github.com/richelbilderbeek/prao_wilmer_20260413)  |
 
 ## Conferences I visited
 
@@ -53,11 +63,12 @@ My current and former activities.
 
 ## Courses I taught
 
-- Biology, secondary school program
-- C++ for Biologists: a C++ course aimed at biology students in their MSc studies, teaching material is lost
-- [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course, obsoleted
-- [Dojo](https://github.com/djog/dojo.git)
-- [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
-- [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
-- Physics, secondary school program
-- Stagecraft, secondary school program
+- 🇳🇱 Biology, secondary school program
+- 🇬🇧 C++ for Biologists: a C++ course aimed at biology students in their MSc studies, teaching material is lost
+- 🇬🇧 [Correct C++](https://github.com/richelbilderbeek/correct_cpp): an online C++ course, obsoleted
+- 🇳🇱 [Dojo](https://github.com/djog/dojo.git)
+- 🇳🇱 [Makercourse](https://github.com/DIYbioGroningen/Makercourse.git)
+- 🇬🇧 [NBIS Python workshop](https://github.com/NBISweden/workshop-python)
+- 🇳🇱 Physics, secondary school program
+- 🇳🇱 Stagecraft, secondary school program
+- 🇬🇧 [UPPMAX Intro to AWK](https://uppmax.github.io/awk_course/)

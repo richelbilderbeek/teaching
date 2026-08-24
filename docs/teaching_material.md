@@ -7,24 +7,23 @@ tags:
 
 My teaching material.
 
-## Learning communities I created
-
-- 🇳🇱 [Damsterdojo](https://github.com/djog/damster_dojo) 2019-2021
-- 🇳🇱 [Dojo](https://github.com/djog/dojo) 2015-2021
-- 🇸🇪 [Lördagskurser](https://uppsala-makerspace.github.io/loerdagskurser/) 2021-present
 
 ## Courses I created
 
 - 🇸🇪 [3D skrivningskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/)
+- 🇬🇧 [3D printing course](https://richelbilderbeek.github.io/3d_skrivningskurs/#__tabbed_1_2)
 - 🇳🇱 [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
 - 🇸🇪 [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
 - 🇳🇱 [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
 - 🇬🇧 [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
+- 🇬🇧 [Intro to R](https://richelbilderbeek.github.io/intro_r_course/)
 - 🇬🇧 [Laser cutter course](https://richelbilderbeek.github.io/laser_cutter_guide/)
 - 🇸🇪 [Lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
+- 🇬🇧 [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
 - 🇸🇪 [OpenSCAD kurs](https://richelbilderbeek.github.io/openscad_kurs/books/)
 - 🇸🇪 [Processing för ungdomar](https://richelbilderbeek.github.io/processing_foer_ungdomar/)
 - 🇳🇱 [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
+- 🇬🇧 [UPPMAX Intro to AWK](https://uppmax.github.io/awk_course/)
 - 🇸🇪 [Vinylskärarekurs](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
 ## Books I wrote
