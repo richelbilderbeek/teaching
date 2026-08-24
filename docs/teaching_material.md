@@ -26,6 +26,18 @@ My teaching material.
 - 🇬🇧 [UPPMAX Intro to AWK](https://uppmax.github.io/awk_course/)
 - 🇸🇪 [Vinylskärarekurs](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
+## Courses I adapted and/or created part of the materials of
+
+- 🇬🇧 [NAISS Intro to Python for HPC](https://uppmax.github.io/naiss_intro_python/)
+- 🇬🇧 [NAISS File Transfer 101](https://hpc.pages.naiss.se/training/connect-transfer/)
+- 🇬🇧 [NAISS File Transfer 102](https://hpc.pages.naiss.se/training/transfer-102/)
+- 🇬🇧 [NAISS Command Line 102](https://uppmax.github.io/linux-command-line-102)
+- 🇬🇧 [NAISS Python for HPC](https://uppmax.github.io/HPC-python/)
+- 🇬🇧 [NAISS Bianca workshop](https://uppmax.github.io/bianca_workshops/)
+- 🇬🇧 [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms)
+- 🇬🇧 [R, MATLAB and Julia for HPC](https://github.com/UPPMAX/R-matlab-julia-HPC)
+- 🇬🇧 [UPPMAX Intro to UPPMAX](https://uppmax.github.io/uppmax_intro_day_1/)
+
 ## Books I wrote
 
 - [Boost Graph Cookbook 1](https://github.com/richelbilderbeek/boost_graph_cookbook_1):
