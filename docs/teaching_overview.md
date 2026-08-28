@@ -20,7 +20,6 @@ Here you can find my lesson plans, evaluations and reflections.
     2026-10-..               |HPC Python day, 1 only                |Richel is boss here, he is happy with any free date around mid October
     ```
 
-
     <!-- markdownlint-enable MD013 -->
 
 Most recent at the top.
