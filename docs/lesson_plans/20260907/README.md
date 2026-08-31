@@ -13,4 +13,11 @@ This is when I teach:
 
 Hence, that is the course materials
 
-https://nbisweden.github.io/workshop-mlbiostatistics/docs/SM4LS-book/SM4LS-probability/
+- [Probability Theory](https://nbisweden.github.io/workshop-mlbiostatistics/docs/SM4LS-book/SM4LS-probability/)
+  parts 1-4
+- [Linear Regression](https://nbisweden.github.io/workshop-mlbiostatistics/docs/SM4LS-book/SM4LS-lm/)
+  sections 13-15
+
+Both of these have exercises. I will just go through the exercises
+and see what happens :-) . I predict most problems will be because
+of R.
