@@ -10,18 +10,6 @@ tags:
 
 Here you can find my lesson plans, evaluations and reflections.
 
-???- hint "Dates scheduled with pencil"
-
-    <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
-
-    ```text
-    Sketchy date             |Course title                          |Comments
-    -------------------------|--------------------------------------|----------------------------------------------------------------------------------------------------
-    2026-10-..               |HPC Python day, 1 only                |Richel is boss here, he is happy with any free date around mid October
-    ```
-
-    <!-- markdownlint-enable MD013 -->
-
 Most recent at the top.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
