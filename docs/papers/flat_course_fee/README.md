@@ -88,7 +88,7 @@ having a flat course fee to be able to more reliably estimate attendance:
   the are courses that deal with this uncertainty
   by *estimating* attendance.
   Those courses will have a lower number of participants due to
-  a problem that is non-existant for them.
+  a problem that is non-existing for them.
 - **A fee misaligns with our mission**:
   instead of helping our participants to do 'research otherwise not possible',
   we put an administrative burden on them
