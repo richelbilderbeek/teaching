@@ -65,12 +65,13 @@ although similar-but-different setups hint
 that this assumption is false  `[Bhayani et al., 2021][Ketel et al., 2016]`.
 Having (close to) 100% course attendance solves multiple problems:
 
-- **It is more fair to the rejected participants**,
+- **A fee is more fair to the rejected participants**,
   i.e. those that could not attend
   when a course has reached capacity, as there will be less empty
   (virtual) chairs that they themselves could have occupied
-- **It helps schedule the right amount of teaching assistants**,
-  which may help course coordinators
+- **A fee helps schedule the right amount of teaching assistants**:
+  as it is predicted to have a higher course attendance.
+  This may help course coordinators
 
 ## A flat course fee impacts others negatively
 
@@ -142,24 +143,26 @@ a flat course fee for online courses.
 
 Here is an aggregate of the reasons given:
 
-- **The administrative cost is higher than the fee brings in**.
+- **The fee costs time and money**:
+  the administrative cost is higher than the fee brings in.
   This is especially true when attendants
   from different countries (e.g. with a different VAT rate) apply.
-- **The wrong people are penalized**: a flat course fee penalizes
+- **A free penalizes the wrong people**:
+  a flat course fee hinders
   those people that we want to attend, such as early-career
   researchers, students, or participants from less well-funded institutions
   and countries
-- **Better communication is more effective at increasing attendance**.
-  From experience, it was found that personal communication with the
-  registrants increased course attendance.
-  These are actions such a
-  sending personal confirmation reminders,
+- **A fee is inferior to better communication**:
+  It was found by experience that better communication
+  is more effective at increasing attendance,
+  such as sending personal confirmation reminders,
   requiring explicit re-confirmation a week prior,
   or using waitlists with clear cancellation deadlines
-- **There are other ways to increasing attendance that do not cost money**,
+- **A fee is an alternative to free methods**:
+ There are other ways to increasing attendance that do not cost money
   e.g. a short supervisor approval note
-- **A course fee reduces the amount of participants**
-- **A course fee misaligns with higher goals**, such as
+- **A fee reduces the amount of participants**
+- **A fee misaligns with higher goals**, such as
   the principles of Open Science and FAIR training principles
   for public-funded research infrastructure.
 
