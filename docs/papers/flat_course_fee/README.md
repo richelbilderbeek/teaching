@@ -65,20 +65,24 @@ although similar-but-different setups hint
 that this assumption is false  `[Bhayani et al., 2021][Ketel et al., 2016]`.
 Having (close to) 100% course attendance solves multiple problems:
 
-- It is more fair to the rejected participants,
+- **It is more fair to the rejected participants**,
   i.e. those that could not attend
   when a course has reached capacity, as there will be less empty
   (virtual) chairs that they themselves could have occupied
-- It may help course coordinators to
-  schedule the right amount of teaching assistants
+- **It helps schedule the right amount of teaching assistants**,
+  which may help course coordinators
 
 ## A flat course fee impacts others negatively
 
 However, there are also some drawbacks to
 having a flat course fee to be able to more reliably estimate attendance:
 
-- Teachers that care that their courses are open to all, regardless
-  of wealth, can no longer say this applies to SciLifeLab online training
+- **A flat fee means the course is no longer open for all**:
+  This effects all teachers that care that
+  their courses are open to all, even to those registrants
+  with little financial resources.
+  It would mean that SciLifeLab online training will benefit mostly
+  those that can afford them.
 - Courses that can deal with this uncertainty (they **estimate** attendance
   and work from there) will have a lower amount of learners
 - Support staff that feels we should *help* our participants,
@@ -123,7 +127,12 @@ and/or if they are the people SciLifeLab should cater to.
 ## Replies from other online teaching providers
 
 I have collected arguments from others,
-here I share an aggregate of these:
+here I share an aggregate of these.
+
+So far, all reactions have been strongly against the idea of
+a flat course fee for online courses.
+
+Here is an aggregate of the reasons given:
 
 - **The administrative cost is higher than the fee brings in**.
   This is especially true when attendants
