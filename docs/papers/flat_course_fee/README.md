@@ -54,32 +54,26 @@ Having (close to) 100% course attendance solves multiple problems:
 - It is more fair to the learners that could not attend
   when a course has reached capacity, as there will be less empty chairs
   that they could have occupied
-- The right amount of taeching assistants can be scheduled
+- The right amount of teaching assistants can be scheduled
 - Rooms of the right size can be booked
 - Coffee and fika of the right amount of people can be ordered
 
 However, there are also some drawbacks to this solution:
 
-- 
-  
+- Teachers that care that their courses are open to all, regardless
+  of wealth, can no longer say this applies to SciLifeLab online training
+- Courses that can deal with this uncertainty (they **estimate** attendance
+  and work from there) will have a lower amount of learners
+- Support staff that feels we should *help* our participants,
+  instead of putting more administrative burden on them
+  to secure a course fee
+- Participants that have good reasons to cancel a course, now
+  have to pay a fee for a course they (rightfully) cannot attend
+- Participants that have no access to the course fee being paid for them
+  and do not want to pay this from their own money
+- Participants that do not want to deal with the administrative
+  burden of securing money for a course
 
-
-
-
-People that benefit:
-
-- People that care that all registered participants showing up
-
-People that lose:
-
-- Teachers that care about reaching as much learners as possible
-- Learners that cannot afford this flat course fee
-- 
-
-
-
-- Will it be free for people that cannot afford the flat course fee?
-- 
  
 
 
