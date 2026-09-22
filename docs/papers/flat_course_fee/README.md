@@ -1,9 +1,9 @@
 ---
 tags:
-  - paper
+  - opinion piece
 ---
 
-# Good teaching is more than having all registered participants showing up
+# Flat course fees for online teaching: is the cure worth the disease?
 
 This paper started at the NBIS Training Steering Group meeting of 2026-09-21.
 It was announced that a flat fee of 1000 SEK
