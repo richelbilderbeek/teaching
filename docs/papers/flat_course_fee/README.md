@@ -55,8 +55,6 @@ Having (close to) 100% course attendance solves multiple problems:
   when a course has reached capacity, as there will be less empty chairs
   that they could have occupied
 - The right amount of teaching assistants can be scheduled
-- Rooms of the right size can be booked
-- Coffee and fika of the right amount of people can be ordered
 
 However, there are also some drawbacks to this solution:
 
@@ -74,18 +72,56 @@ However, there are also some drawbacks to this solution:
 - Participants that do not want to deal with the administrative
   burden of securing money for a course
 
- 
+It is with good intentions that management tries to help
+its training staff to have more certain estimates
+on the amount of participants that will actually show up.
+It will benefit staff that craves this certainty.
+However, there are simpler solutions, such as simply
+embracing this uncertainty and estimating
+the amount of participants that will actually show up,
+as is done by NAISS and UPPMAX. There, they simply ask teaching assistants
+to be present at the start, after which they are sent back to regular work
+when they are not needed.
 
+It is unknown to which extent there is support for a flat course fee.
+There are no numbers to show how many of us are
+for or against a flat course fee for online courses.
+And the ones that are favored by this flat course fee, are those
+the ones that should be catered to?
+For example, it may be the beginner teachers that crave certainty,
+where more experienced
+teachers have the pedagogic tools to deal with such uncertainty.
+It is an open question if it is the majority of SciLifeLab staff that benefit
+and/or if they are the people SciLifeLab should cater to.
+
+I hope that SciLifeLab management learns that the proposal of a flat course
+is a misstep and wisely undo it, as the cure is worse than the illness
+and the illness can be easily accounted for.
+
+On a more personal note: I may be biased, as I care deeply
+about teaching. I care so much about teaching that most
+saturdays I coordinate courses as a volunteer
+(the so-called [Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)).
+Those course do have a course fee.
+However, [the payment instructions](https://uppsala-makerspace.github.io/loerdagskurser/betalning/#__tabbed_1_2)
+open up with, I quote: 'money should never be a problem at the Saturday
+courses'. I know that around 1 in 20 parents come to me and ask the course
+to be free for their children. I am proud that, at those courses,
+we can say that 'everyone is always welcome' and 'money should never be a
+problem'. I hope that I can remain saying this of SciLifeLab too.
 
 ## References
 
+<!-- markdownlint-disable MD013 --><!-- Keep references 1 line, hence will break 80 characters per line -->
+
+- `[Bhayani et al., 2021]` Bhayani, Ali. "Let students pay for their higher education: Debate concerning free and subsidized education based on sunk cost theory." Journal of Philanthropy and Marketing 26.4 (2021): e1700.
 - `[Goli et al., 2022]`
   Goli, Ali, Pradeep K. Chintagunta, and S. Sriram.
   "Effects of payment on user engagement in online courses."
   Journal of Marketing Research 59.1 (2022): 11-34.
-
-- `[Bhayani et al., 2021]` Bhayani, Ali. "Let students pay for their higher education: Debate concerning free and subsidized education based on sunk cost theory." Journal of Philanthropy and Marketing 26.4 (2021): e1700.
 - `[Ketel et al., 2016]` Ketel, Nadine, et al. "Tuition fees and sunk‐cost effects." The Economic Journal 126.598 (2016): 2342-2362.
+
+<!-- markdownlint-enable MD013 -->
 
 ## Appendix 1: course attendance
 
