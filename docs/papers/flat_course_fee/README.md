@@ -141,7 +141,16 @@ I did so without disclosing my own views.
 So far, all reactions have been strongly against the idea of
 a flat course fee for online courses.
 
-Here is an aggregate of the reasons given:
+<!-- this is a clumsy list for now -->
+
+- 3x against
+- 1x: strongly against
+- 1x: leaning towards the idea is good
+- 1x support
+- 1x: agree ('the idea is reasonable')
+- 1x: positive
+
+Here is an aggregate of the reasons given against having a course fee:
 
 - **The fee costs time and money**:
   the administrative cost is higher than the fee brings in.
