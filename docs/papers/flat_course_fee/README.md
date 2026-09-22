@@ -136,7 +136,7 @@ and/or if they are the people SciLifeLab should cater to.
 I have asked non-SciLifeLab teachers in online courses
 for their response to having an online course fee
 to increase the certainty of a high attendance.
-I did so without disclosing my own views. 
+I did so without disclosing my own views.
 
 So far, all reactions have been strongly against the idea of
 a flat course fee for online courses.
