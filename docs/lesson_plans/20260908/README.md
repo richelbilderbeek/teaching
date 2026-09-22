@@ -26,7 +26,7 @@ of R.
 
 At '1.3 Conditional probability' I could use an example for this:
 
-> Given E and F are subsets of S be two events with 
+> Given E and F are subsets of S be two events with
 > P(E) > 0, then the conditional probability of F
 > given that E occurs is defined as...
 
@@ -74,7 +74,7 @@ variance <- sum((expected_probabilities - found_probabilities) ^ 2) /
 
 Blimey, this works:
 
-```
+```r
 Nheads <- replicate(10000, {
   coins <- sample(c("H", "T"), size=20, replace=TRUE)
   sum(coins == "H")
@@ -99,13 +99,13 @@ In the LOs I find:
 
 But nowhere I find what problems this solves.
 
-The theory I fail to understand most is at 
+The theory I fail to understand most is at
 [section 2.3.3](https://nbisweden.github.io/workshop-mlbiostatistics/docs/SM4LS-book/SM4LS-probability/prob_02discrv.html#binomial):
 I find it hard to even agree with the equations I see.
 
 ## [Exercises: Discrete random variables](https://nbisweden.github.io/workshop-mlbiostatistics/docs/SM4LS-book/SM4LS-probability/prob_exr1_discrv_solutions.html)
 
-### Exercise 1 (BRCA) 
+### Exercise 1 (BRCA)
 
 > The probability of carrying one or more mutations in the breast cancer gene BRCA1 is 0.01. What is the probability of not carrying any mutations in BRCA1?
 
@@ -113,7 +113,7 @@ Yes and no are mutatually exclusive, hence p_yes + p_no = 1.0.
 p_yes = 0.01
 hence p_no = 1.0 - p_yes = 0.99
 
-### Exercise 2 (A coin toss) 
+### Exercise 2 (A coin toss)
 
 > When tossing a fair coin
 > what is the probability of heads?
@@ -128,12 +128,12 @@ P(T) = 0.5
 In a region in Sweden with many children the number of children per household is between 0 and 6. The probability mass function is as follows;
 
 ```text
-x	0	1	2	3	4	5	6
-p(x)	0.14	0.20	0.27	0.19	0.13	0.05	0.02
+x 0 1 2 3 4 5 6
+p(x) 0.14 0.20 0.27 0.19 0.13 0.05 0.02
 ```
 
 > In a randomly chosen household
-> 
+>
 > what is the probability of exactly 3 children?
 
 P(X = 3) = 0.19
@@ -151,9 +151,7 @@ P(X <= 3) = 0.14 + 0.20 + 0.27 + 0.19 = 0.8
 P(X % 2 == 0) = P(X == 0 || X == 2 || X == 4 || X == 6) =
 0.14 + 0.27 + 0.13 + 0.02 = 0.56
 
-
-
-### Exercise 4 (Rolling dice) 
+### Exercise 4 (Rolling dice)
 
 When tossing a fair six-sided die
 
@@ -176,13 +174,14 @@ Ah, this is just social. So, why did the teacher pick
 E[X] over E(X) ?
 
 E[X] = mu = sum(of each element x in set S)(x * p(x))
-where 
+where
+
 - x is the value of x
 - p(x) is the probability of finding x
 
-E(X) = (1 * 1/6) * + (2 * 1/6) + (3 * 1/6) + ... / 6 = 21 / 6 = 3.5
+E(X) = (1 *1/6)* + (2 *1/6) + (3* 1/6) + ... / 6 = 21 / 6 = 3.5
 
-### Exercise 5 (Randomization) 
+### Exercise 5 (Randomization)
 
 > In a clinical trial, enrolled patients are randomly assigned to treatment or control group with equal probability.
 >
@@ -201,7 +200,7 @@ E(X) = (1 * 1/6) * + (2 * 1/6) + (3 * 1/6) + ... / 6 = 21 / 6 = 3.5
 
 Need the probability mass function of the Bernouilli/Binomial distribution.
 
-```
+```text
              (n)                    (20)
 P(X = 15) =  (k) p^k (1-p)^(n -k) = (15) * 0.5^15 * 0.5^5 = (20! / (5! * 15!)) * 0.5^20 = 0.014785767
 ```
@@ -229,18 +228,17 @@ pbinom(q = 6, size = 20, prob = 0.5) # 0.05765915
 
 > What is the most probable number of patients in the treatment group?
 
-No equation for this, but n_trials * p_success = 20 * 0.5 = 10
-
+No equation for this, but n_trials *p_success = 20* 0.5 = 10
 
 > what is the probability of 5 or fewer patients in the control group?
 
-```
+```r
 pbinom(q = 5, size = 20, prob = 0.5) # 0.02069473
 ```
 
 > what is the probability of 2 or fewer patients in the treatment group?
 
-```
+```r
 pbinom(q = 2, size = 20, prob = 0.5) # 0.0002012253
 ```
 
@@ -253,7 +251,7 @@ Checking the answers, I think what is missing in the question:
 
 my answer:
 
-```
+```r
 set.seed(42)
 n_trials <- 10000000
 n_controls <- replicate(n = n_trials,
@@ -266,8 +264,6 @@ Let's do the questions again
 > If 20 patients are enrolled in the study; what is the probability of exactly 15 in the treatment group?
 
 sum(n_controls == 15) / n_trials # 0.015
-
-
 
 > what is the probability of less than 7 in the treatment group?
 
@@ -282,7 +278,7 @@ n_controls_freq <- tibble::as_tibble(n_controls) |> dplyr::count(value)
 most_often_n_controls <- n_controls_freq[n_controls_freq$n == max(n_controls_freq$n), ]$value # 10
 ```
 
-Answer: 
+Answer:
 
 > what is the probability of 5 or fewer patients in the control group?
 
@@ -296,7 +292,7 @@ what is the probability of 2 or fewer patients in the treatment group?
 sum(n_controls >= 19) / n_trials # 1e-05
 ```
 
-```
+```r
 ## Exercise 6
 
 # In a bacterial sample, 1/6 are antibiotic resistant.
@@ -350,10 +346,6 @@ they use 6 balls.
 
 I switch to using the R code as a guideline...
 
-
-
-
-
 ## 2026-09-04
 
 I struggle with getting through the course material.
@@ -367,7 +359,7 @@ to get them out of my head:
   too often. When a plot is shown, only sometimes
   can one see the code. Sometimes, this is incomplete
   code. An example is
-  https://nbisweden.github.io/workshop-mlbiostatistics/docs/SM4LS-book/SM4LS-lm/lm-intro.html#why-linear-models
+  <https://nbisweden.github.io/workshop-mlbiostatistics/docs/SM4LS-book/SM4LS-lm/lm-intro.html#why-linear-models>
   where a plot of 'the diabetes data' is shown,
   but it is never shown how to get that data.
   You need that data later in the exercise.
@@ -379,4 +371,3 @@ read the code behind the course material. I fail to understand the answers
 when it does not provide a reasoning behind it.
 
 OK, back to work...
-

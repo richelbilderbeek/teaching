@@ -1,6 +1,8 @@
 ---
 tags:
   - opinion piece
+  - SciLifeLab
+  - flat course fees
 ---
 
 # Flat course fees for online teaching: is the cure worth the disease?
