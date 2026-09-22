@@ -7,10 +7,14 @@ tags:
 
 # Flat course fees for online teaching: is the cure worth the disease?
 
+## Goal
+
 This paper started at the NBIS Training Steering Group meeting of 2026-09-21.
 It was announced that a flat fee of 1000 SEK
 will be introduced for online courses.
 Here I try to find out who benefits and who is harmed by this idea.
+
+## Flat course fees are announced
 
 The flat course fee was announced in the meeting notes as such:
 
@@ -27,6 +31,8 @@ NBIS is not in bad shape financially.
 Instead, the idea is that
 **it will help registered participants to actually show up**.
 
+## Course attendance is a problem
+
 Course attendance is, indeed, a known problem.
 Ideally, we want it to be 100%, i.e. that all learners
 that register for a course show up. In practice,
@@ -42,6 +48,8 @@ actually show up. Although this figure shows the problem of a
 less-than-100-percent-attendance rate, it also shows a solution
 to this problem that is used at NAISS and UPPMAX: they **estimate**
 how many will show up.
+
+## A flat course fee increases attendance and other positive effects
 
 The idea behind a flat course fee is to increase attendance (i.e.
 the percentage of people that have registered that actually attends the course):
@@ -64,7 +72,10 @@ Having (close to) 100% course attendance solves multiple problems:
 - It may help course coordinators to
   schedule the right amount of teaching assistants
 
-However, there are also some drawbacks to this solution:
+## A flat course fee impacts others negatively
+
+However, there are also some drawbacks to
+having a flat course fee to be able to more reliably estimate attendance:
 
 - Teachers that care that their courses are open to all, regardless
   of wealth, can no longer say this applies to SciLifeLab online training
@@ -80,16 +91,23 @@ However, there are also some drawbacks to this solution:
 - Participants that do not want to deal with the administrative
   burden of securing money for a course
 
+## Intentions are good
+
 It is with good intentions that management tries to help
 its training staff to have more certain estimates
 on the amount of participants that will actually show up.
 It will benefit staff that craves this certainty.
+
+## Other solutions
+
 However, there are simpler solutions, such as simply
 embracing this uncertainty and estimating
 the amount of participants that will actually show up,
 as is done by NAISS and UPPMAX. There, they simply ask teaching assistants
 to be present at the start, after which they are sent back to regular work
 when they are not needed.
+
+## Support for a flat course fee
 
 It is unknown to which extent there is support for a flat course fee.
 There are no numbers to show how many of us are
@@ -102,20 +120,35 @@ teachers have the pedagogic tools to deal with such uncertainty.
 It is an open question if it is the majority of SciLifeLab staff that benefit
 and/or if they are the people SciLifeLab should cater to.
 
+## Replies from other online teaching providers
+
+I have collected arguments from others:
+
+## Conclusion
+
 I hope that SciLifeLab management learns that the proposal of a flat course
 is a misstep and wisely undo it, as the cure is worse than the illness
-and the illness can be easily accounted for.
+and the illness can be easily accounted for. It **is** the SciLifeLab
+way to make mistakes and learn from them.
+
+## Disclosure
 
 On a more personal note: I may be biased, as I care deeply
 about teaching. I care so much about teaching that most
-Saturdays I coordinate courses as a volunteer
+Saturdays I coordinate the teaching of multiple courses as a volunteer
 (the so-called [Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)).
-Those course do have a course fee.
+These courses have around 40 learners in total and are at physical location
+with [fluctuating course attendance](https://uppsala-makerspace.github.io/loerdagskurser/data/statistiker_besoekare/).
+
+Those course do have a course fee, to cover the costs of the courses.
+
 However, [the payment instructions](https://uppsala-makerspace.github.io/loerdagskurser/betalning/#__tabbed_1_2)
 open up with, I quote: 'money should never be a problem at the Saturday
 courses'. I know that around 1 in 20 parents come to me and ask the course
-to be free for their children. I am proud that, at those courses,
-we can say that 'everyone is always welcome' and 'money should never be a
+to be free for their children.
+
+I am proud that, at those courses,
+we state that 'everyone is always welcome' and 'money should never be a
 problem'. I hope that I can remain saying this of SciLifeLab too.
 
 ## References
