@@ -109,7 +109,7 @@ I find it hard to even agree with the equations I see.
 
 > The probability of carrying one or more mutations in the breast cancer gene BRCA1 is 0.01. What is the probability of not carrying any mutations in BRCA1?
 
-Yes and no are mutatually exclusive, hence p_yes + p_no = 1.0.
+Yes and no are mutually exclusive, hence p_yes + p_no = 1.0.
 p_yes = 0.01
 hence p_no = 1.0 - p_yes = 0.99
 

@@ -108,7 +108,7 @@ and the illness can be easily accounted for.
 
 On a more personal note: I may be biased, as I care deeply
 about teaching. I care so much about teaching that most
-saturdays I coordinate courses as a volunteer
+Saturdays I coordinate courses as a volunteer
 (the so-called [Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)).
 Those course do have a course fee.
 However, [the payment instructions](https://uppsala-makerspace.github.io/loerdagskurser/betalning/#__tabbed_1_2)
