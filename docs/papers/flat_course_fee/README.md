@@ -108,6 +108,8 @@ It is with good intentions that management tries to help
 its training staff to have more certain estimates
 on the amount of participants that will actually show up.
 It will benefit staff that craves this certainty.
+Additionally, we can assume teachers to overlook the
+consequences for the possible participants of our courses.
 
 ## Other solutions
 
@@ -164,14 +166,25 @@ Here is an aggregate of the reasons given against having a course fee:
  There are other ways to increasing attendance that do not cost money
   e.g. a short supervisor approval note
 - **A fee reduces the amount of participants**
+- **We are not allowed to have a course fee at all**:
+  this happens to be the case for other (i.e. not SciLifeLab)
+  public-funded research infrastructure
 - **A fee misaligns with higher goals**, such as
   the principles of Open Science and FAIR training principles
   for public-funded research infrastructure.
 
 ## Conclusion
 
-I hope that SciLifeLab management learns that the proposal of a flat course
-is a misstep and wisely undo it, as the cure is worse than the illness
+I hope that SciLifeLab management will re-evaluate using a flat course
+fee for online courses.
+I even assume that SciLifeLab management *will* do so,
+as this is how we work at SciLifeLab work: we try things,
+break things and adapt.
+My high expections of our colleagues in higher positions of power
+are in contrast to some sentiments I received; that management will never
+listen and enforce their ideas instead.
+I believe that a flat course fee is a misstap and I believe that
+management is wise enough to undo it, as the cure is worse than the illness
 and the illness can be easily accounted for. It **is** the SciLifeLab
 way to make mistakes and learn from them.
 
