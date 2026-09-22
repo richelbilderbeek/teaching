@@ -77,23 +77,29 @@ Having (close to) 100% course attendance solves multiple problems:
 However, there are also some drawbacks to
 having a flat course fee to be able to more reliably estimate attendance:
 
-- **A flat fee means the course is no longer open for all**:
+- **A fee means the course is no longer open for all**:
   This effects all teachers that care that
   their courses are open to all, even to those registrants
   with little financial resources.
   It would mean that SciLifeLab online training will benefit mostly
   those that can afford them.
-- Courses that can deal with this uncertainty (they **estimate** attendance
-  and work from there) will have a lower amount of learners
-- Support staff that feels we should *help* our participants,
-  instead of putting more administrative burden on them
+- **A fee solves a non-existing problem**:
+  the are courses that deal with this uncertainty
+  by *estimating* attendance.
+  Those courses will have a lower number of participants due to
+  a problem that is non-existant for them.
+- **A fee misaligns with our mission**:
+  instead of helping our participants to do 'research otherwise not possible',
+  we put an administrative burden on them
   to secure a course fee
-- Participants that have good reasons to cancel a course, now
-  have to pay a fee for a course they (rightfully) cannot attend
-- Participants that have no access to the course fee being paid for them
-  and do not want to pay this from their own money
-- Participants that do not want to deal with the administrative
-  burden of securing money for a course
+- **A fee punishes registrants that cancel for the right reason**:
+  Participants can have good reasons to cancel a course (even last-minute!)
+  and now have to unjustly pay a fee for a course they (rightfully)
+  could not attend
+- **A fee reduces the number of registrations**:
+  Not every learner has access to get a course fee paid for them,
+  nor not every learner wants to deal with the administrative
+  burden of securing money for a course.
 
 ## Intentions are good
 
