@@ -122,7 +122,29 @@ and/or if they are the people SciLifeLab should cater to.
 
 ## Replies from other online teaching providers
 
-I have collected arguments from others:
+I have collected arguments from others,
+here I share an aggregate of these:
+
+- **The administrative cost is higher than the fee brings in**.
+  This is especially true when attendants
+  from different countries (e.g. with a different VAT rate) apply.
+- **The wrong people are penalized**: a flat course fee penalizes
+  those people that we want to attend, such as early-career
+  researchers, students, or participants from less well-funded institutions
+  and countries
+- **Better communication is more effective at increasing attendance**.
+  From experience, it was found that personal communication with the
+  registrants increased course attendance.
+  These are actions such a
+  sending personal confirmation reminders,
+  requiring explicit re-confirmation a week prior,
+  or using waitlists with clear cancellation deadlines
+- **There are other ways to increasing attendance that do not cost money**,
+  e.g. a short supervisor approval note
+- **A course fee reduces the amount of participants**
+- **A course fee misaligns with higher goals**, such as
+  the principles of Open Science and FAIR training principles
+  for public-funded research infrastructure.
 
 ## Conclusion
 
