@@ -138,17 +138,10 @@ for their response to having an online course fee
 to increase the certainty of a high attendance.
 I did so without disclosing my own views.
 
-So far, all reactions have been strongly against the idea of
-a flat course fee for online courses.
-
-<!-- this is a clumsy list for now -->
-
-- 3x against
-- 1x: strongly against
-- 1x: leaning towards the idea is good
-- 1x support
-- 1x: agree ('the idea is reasonable')
-- 1x: positive
+So far, the reactions are around equally in favor
+as in disagreement, with 4 people
+being against a course fee (of which 1 'strongly against')
+and 4 people are fine with a course fee.
 
 Here is an aggregate of the reasons given against having a course fee:
 
