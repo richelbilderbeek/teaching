@@ -12,9 +12,11 @@ Here I try to find out who benefits from this idea.
 
 The flat course fee was announced in the meeting notes as such:
 
-> Online Courses
-> - Flat fee of 1 000 SEK (administrative costs + technical operation cost)
-> - Scrap no-show fee
+```text
+Online Courses
+- Flat fee of 1 000 SEK (administrative costs + technical operation cost)
+- Scrap no-show fee
+```
 
 In that meeting, questions were asked.
 
