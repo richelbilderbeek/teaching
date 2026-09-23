@@ -204,6 +204,16 @@ Suggestions given by those that are against a course fee:
 - **A fee solves a problem that does not exist**,
   as there are enough teaching assistants within NBIS
 
+Other suggestions:
+
+- **It depends on the course setup**:
+  If courses need to book more teaching assistants for more learners
+  (e.g. when there are a lot of discussions),
+  then, yes, having a course fee is a good idea.
+  However, some activities (e.g. automated tests) do not require more
+  teaching assistants when there are more learners.
+  In such a context, a course fee in not needed.
+
 Although this small poll shows some numbers,
 the winner is not decided by mere voting (in that case,
 the course fee would be removed).
