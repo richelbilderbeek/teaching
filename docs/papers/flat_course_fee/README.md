@@ -163,7 +163,7 @@ It does show that a course fee increased engagement (i.e. those
 that attend do spend more time on the platform) of
 17-20% percent at the start <!-- number from paper -->
 and 4% after 10-20 days <!-- number from calculation below -->,
-where a certicate increased engagement 8-9%
+where a certificate increased engagement 8-9%
 during the entire course.
 <!-- From figure 3 and https://www.graphreader.com/ -->
 <!-- free was 1.74, paid was 1.81 -->
@@ -228,7 +228,7 @@ For example, should we cater to teachers that struggle with
 an uncertain amount of participants,
 or to those that do have the pedagogic tools to deal with such uncertainty.
 Additionally, should we focus on teachers that see teaching in
-an economic businesslike way, or to those that intimitely care about
+an economic businesslike way, or to those that intimately care about
 the profession.
 
 ## Support for/against a flat course fee outside of NBIS
@@ -301,7 +301,7 @@ due to the course being full: a person that *is* accepted cancels,
 that empty spot could have been used by the rejected participant.
 Drawbacks are, among others, a lower attendance, an administrative burden,
 a penalization for the wrong people, injustice to those that rightfully
-need to cancel, change of mindset in whcih students are treated as customers
+need to cancel, change of mindset in which students are treated as customers
 and misalignment with higher goals such as Open Science and FAIR principles.
 
 The most elegant alternative of having a flat course fee is to **estimate**
@@ -339,7 +339,7 @@ but it informative about the background from which it was written.
 
 I assume that NBIS Training is open to opposing ideas,
 such as this opinion piece.
-My high expections of those in charge does contrast
+My high expectations of those in charge does contrast
 some sentiments I received during my polling,
 where it was voiced that such decisions are a one-way street
 and was given the advice to just obey.
@@ -361,7 +361,7 @@ in the the so-called [Saturday courses](https://uppsala-makerspace.github.io/loe
 which take place in the Uppsala Makerspace.
 The courses are set up around the motto 'Everyone is always welcome',
 embracing the fact that participants
-may just have migrated to Sweden (e.g. Ukranian refugees)
+may just have migrated to Sweden (e.g. Ukrainian refugees)
 and may have unexpected and irregular
 (e.g. weddings and weddings) events
 in life that are more important.
