@@ -157,12 +157,12 @@ how these interventions changed the number of registrations.
 It does show that a course fee increased engagement (i.e. those
 that attend do spend more time on the platform) of
 17-20% percent at the start <!-- number from paper -->
-and 4% after 10-20 days,
+and 4% after 10-20 days <!-- number from calculation below -->,
+where a certicate increased engagement 8-9%
+during the entire course.
 <!-- From figure 3 and https://www.graphreader.com/ -->
 <!-- free was 1.74, paid was 1.81 -->
 <!-- Using (N-O)/O = (1.81 - 1.74) / 1.74 = 0.040229885 -->
-where a certicate increased engagement 8-9%
-during the entire course.
 
 ## Support for/against a flat course fee
 
