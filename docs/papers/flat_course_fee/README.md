@@ -146,7 +146,7 @@ that helps us predict the effect
 of a flat course fee on registration numbers.
 The closest relevant paper is by Han and colleagues
 that investigate enrollment rate for variable pricing of online courses.
-Based on emperical evidence and assuming a market where online and
+Based on empirical evidence and assuming a market where online and
 traditional courses compete,
 they found that per 10% price increase, there are 15-18% less enrollments
 `[Han et al., 2019]`.
