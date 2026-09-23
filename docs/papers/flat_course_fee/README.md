@@ -136,10 +136,8 @@ Taking a look at the literature, we know that a having course fee
 as 75% of MOOC participants
 state that having no fees is 'influential' for their enrollment `[Clow, 2013]`.
 
-
-
-there is no research (to
-the best of my knowledge) that helps us predict the effect
+However, there seems to be no research (to the best of my knowledge)
+that helps us predict the effect
 of a flat course fee on registration numbers.
 The closest relevant paper is by Han and colleagues 
 that investigate enrollment rate for variable pricing of online courses.
@@ -148,22 +146,15 @@ traditional courses compete,
 they found that per 10% price increase, there are 15-18% less enrollments
 `[Han et al., 2019]`.
 
-
-
-`[Howarth et al., 2016]`
-
-
-
-A similar case is
-decribed by the massive open online course (MOOC)
-provider Coursera, that also struggled
+There is, however, another positive effect of having a course fee:
+it increases engagement with the course.
+This has been found in the massive open online course (MOOC)
+provider Coursera. They also struggle
 with more people registering than being active `[Goli et al., 2022]`.
 They tested out a flat course fee, as well as a certificate.
-The paper, however, does not provide data on
+This research, however, does not provide data on
 how these interventions changed the number of registrations.
-
-
-It does show that a course fee increased *engagement* (i.e. those
+It does show that a course fee increased engagement (i.e. those
 that attend do spend more time on the platform) of
 17-20% percent at the start <!-- number from paper -->
 and 4% after 10-20 days,
@@ -173,8 +164,7 @@ and 4% after 10-20 days,
 where a certicate increased engagement 8-9%
 during the entire course.
 
-
-## Support for a flat course fee
+## Support for/against a flat course fee
 
 It is unknown to which extent there is support for a flat course fee.
 There are no numbers to show how many of us are
