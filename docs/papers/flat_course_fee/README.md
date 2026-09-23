@@ -267,7 +267,7 @@ Below is an aggregate of the reasons they provided:
 - **Any course fee is already paid by the university**:
   The universities has already paid NBIS to deliver courses.
   A course fee would mean that a this is paid by both the university
-  beforehand *and* by the participant 
+  beforehand *and* by the participant
 - **A fee reduces the amount of participants**,
   where we want as big as a reach as possible
 - **We are not allowed to have a course fee at all**:
