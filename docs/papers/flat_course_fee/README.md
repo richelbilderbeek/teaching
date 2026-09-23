@@ -2,6 +2,8 @@
 tags:
   - opinion piece
   - SciLifeLab
+  - NBIS
+  - online training
   - flat course fees
 ---
 
@@ -9,7 +11,8 @@ tags:
 
 ## Goal
 
-This paper started at the NBIS Training Steering Group meeting of 2026-09-21.
+This paper started at the
+NBIS Training Steering Group meeting of 2026-09-21.
 It was announced that a flat fee of 1000 SEK
 will be introduced for online courses.
 Here I try to find out who benefits and who is harmed by this idea.
@@ -82,7 +85,7 @@ having a flat course fee to be able to more reliably estimate attendance:
   This effects all teachers that care that
   their courses are open to all, even to those registrants
   with little financial resources.
-  It would mean that SciLifeLab online training will benefit mostly
+  It would mean that NBIS online training will benefit mostly
   those that can afford them.
 - **A fee solves a non-existing problem**:
   the are courses that deal with this uncertainty
@@ -128,13 +131,37 @@ When there are less participants than estimated,
 those course assistants are sent away,
 back to their regular jobs.
 
-Taking a look at the literature, a similar case is
+Taking a look at the literature, we know that a having course fee
+(versus a course being free), will have an impact,
+as 75% of MOOC participants
+state that having no fees is 'influential' for their enrollment `[Clow, 2013]`.
+
+
+
+there is no research (to
+the best of my knowledge) that helps us predict the effect
+of a flat course fee on registration numbers.
+The closest relevant paper is by Han and colleagues 
+that investigate enrollment rate for variable pricing of online courses.
+Based on emperical evidence and assuming a market where online and
+traditional courses compete,
+they found that per 10% price increase, there are 15-18% less enrollments
+`[Han et al., 2019]`.
+
+
+
+`[Howarth et al., 2016]`
+
+
+
+A similar case is
 decribed by the massive open online course (MOOC)
 provider Coursera, that also struggled
 with more people registering than being active `[Goli et al., 2022]`.
 They tested out a flat course fee, as well as a certificate.
 The paper, however, does not provide data on
 how these interventions changed the number of registrations.
+
 
 It does show that a course fee increased *engagement* (i.e. those
 that attend do spend more time on the platform) of
@@ -146,6 +173,7 @@ and 4% after 10-20 days,
 where a certicate increased engagement 8-9%
 during the entire course.
 
+
 ## Support for a flat course fee
 
 It is unknown to which extent there is support for a flat course fee.
@@ -156,12 +184,12 @@ the ones that should be catered to?
 For example, it may be the beginner teachers that crave certainty,
 where more experienced
 teachers have the pedagogic tools to deal with such uncertainty.
-It is an open question if it is the majority of SciLifeLab staff that benefit
-and/or if they are the people SciLifeLab should cater to.
+It is an open question if it is the majority of NBIS staff that benefit
+and/or if they are the people NBIS should cater to.
 
 ## Replies from other online teaching providers
 
-I have asked non-SciLifeLab teachers in online courses
+I have asked non-NBIS teachers in online courses
 for their response to having an online course fee
 to increase the certainty of a high attendance.
 I did so without disclosing my own views.
@@ -189,11 +217,12 @@ Here is an aggregate of the reasons given against having a course fee:
   requiring explicit re-confirmation a week prior,
   or using waitlists with clear cancellation deadlines
 - **A fee is an alternative to free methods**:
- There are other ways to increasing attendance that do not cost money
+  There are other ways to increasing attendance that do not cost money
   e.g. a short supervisor approval note
-- **A fee reduces the amount of participants**
+- **A fee reduces the amount of participants**,
+  where we want as big as a reach as possible
 - **We are not allowed to have a course fee at all**:
-  this happens to be the case for other (i.e. not SciLifeLab)
+  this happens to be the case for other (i.e. not NBIS)
   public-funded research infrastructure
 - **A fee misaligns with higher goals**, such as
   the principles of Open Science and FAIR training principles
@@ -201,15 +230,17 @@ Here is an aggregate of the reasons given against having a course fee:
 
 ## Conclusion
 
-I hope that SciLifeLab management will re-evaluate using a flat course
+I hope that NBIS Training will re-evaluate using a flat course
 fee for online courses. As shown by the small poll I did,
 this decision has mixed support and has both positive and negative effects.
 
-I assume that SciLifeLab management is open to opposing ideas such as this
-opinion piece.
-My high expections of managment does contrast some sentiments I received:
-that management decisions are a one-way street and was given the advice to
-just obey.
+I assume that NBIS Training is open to opposing ideas,
+such as this opinion piece.
+My high expections of those in charge does contrast
+some sentiments I received during my polling,
+where it was voiced that such decisions are a one-way street
+and was given the advice to just obey.
+Again, I do believe my colleagues are *actually* fine with opposing ideas.
 
 I believe that the idea of a course fee was made with the best intentions
 and that, at first glance, it seems like a good decisions.
@@ -252,7 +283,7 @@ that need our courses the most.
 I am proud that, at those courses,
 we live up to our mottos that
 'everyone is always welcome' and 'money should never be a problem'.
-I hope that I can do the same for SciLifeLab too.
+I hope that I can do the same for NBIS too.
 
 ## References
 
@@ -264,5 +295,16 @@ I hope that I can do the same for SciLifeLab too.
   "Effects of payment on user engagement in online courses."
   Journal of Marketing Research 59.1 (2022): 11-34.
 - `[Ketel et al., 2016]` Ketel, Nadine, et al. "Tuition fees and sunk‐cost effects." The Economic Journal 126.598 (2016): 2342-2362.
+
+- `[Han et al., 2019]`
+  Han, Yongseung, Michael P. Ryan, and Kelly Manley.
+  "Online course enrolment and tuition:
+  empirical evidence from public colleges in Georgia, USA."
+  International Journal of Education Economics and Development 10.1
+  (2019): 1-21.
+
+- `[Howarth et al., 2016]` Howarth, Jason Paul, et al. "Learner motivation for MOOC registration and the role of MOOCs as a university ‘taster’." International Journal of Lifelong Education 35.1 (2016): 74-85.
+
+- `[Clow, 2013]` Clow, Doug. "MOOCs and the funnel of participation." Proceedings of the third international conference on learning analytics and knowledge. 2013.
 
 <!-- markdownlint-enable MD013 -->
