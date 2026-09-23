@@ -296,7 +296,7 @@ in a more welcoming, just and efficient way.
 
 ## Epilogue
 
-These are some things that do not add to the opinion piece,
+These are some things that do not add to this opinion piece,
 but it informative about the background from which it was written.
 
 ### My assumptions about NBIS Training
@@ -353,23 +353,19 @@ I hope that I can do the same for NBIS too.
 <!-- markdownlint-disable MD013 --><!-- Keep references 1 line, hence will break 80 characters per line -->
 
 - `[Admiraal et al., 2023]` Admiraal, Wilfried et al., "Mind the gap: Early-career teachers' level of preparedness, professional development, working conditions, and feelings of distress". Social Psychology of Education 26.6 (2023): 1759-1787.
-
 - `[Bhayani et al., 2021]` Bhayani, Ali. "Let students pay for their higher education: Debate concerning free and subsidized education based on sunk cost theory." Journal of Philanthropy and Marketing 26.4 (2021): e1700.
+- `[Clow, 2013]` Clow, Doug. "MOOCs and the funnel of participation." Proceedings of the third international conference on learning analytics and knowledge. 2013.
 - `[Goli et al., 2022]`
   Goli, Ali, Pradeep K. Chintagunta, and S. Sriram.
   "Effects of payment on user engagement in online courses."
   Journal of Marketing Research 59.1 (2022): 11-34.
-- `[Ketel et al., 2016]` Ketel, Nadine, et al. "Tuition fees and sunk‐cost effects." The Economic Journal 126.598 (2016): 2342-2362.
-
 - `[Han et al., 2019]`
   Han, Yongseung, Michael P. Ryan, and Kelly Manley.
   "Online course enrolment and tuition:
   empirical evidence from public colleges in Georgia, USA."
   International Journal of Education Economics and Development 10.1
   (2019): 1-21.
-
 - `[Howarth et al., 2016]` Howarth, Jason Paul, et al. "Learner motivation for MOOC registration and the role of MOOCs as a university ‘taster’." International Journal of Lifelong Education 35.1 (2016): 74-85.
-
-- `[Clow, 2013]` Clow, Doug. "MOOCs and the funnel of participation." Proceedings of the third international conference on learning analytics and knowledge. 2013.
+- `[Ketel et al., 2016]` Ketel, Nadine, et al. "Tuition fees and sunk‐cost effects." The Economic Journal 126.598 (2016): 2342-2362.
 
 <!-- markdownlint-enable MD013 -->
