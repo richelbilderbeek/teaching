@@ -167,15 +167,53 @@ during the entire course.
 ## Support for/against a flat course fee
 
 It is unknown to which extent there is support for a flat course fee.
-There are no numbers to show how many of us are
-for or against a flat course fee for online courses.
-And the ones that are favored by this flat course fee, are those
-the ones that should be catered to?
-For example, it may be the beginner teachers that crave certainty,
+Hence, 
+I have asked NBIS and non-NBIS
+teachers in online courses
+for their response to having an online course fee
+to increase the certainty of a high attendance.
+I did so without disclosing my own views.
+
+So far, the reactions are around mixed,
+with 5 people being against a course fee
+(of which 1 'strongly against' and 1 'very problematic')
+and 4 people that are fine with a course fee.
+
+Suggestions given by those in favor of the course fee:
+
+- **Consider using a no-show fee instead**:
+  this may be a good option too
+- **Charging a fee increases the investment with a course**
+- **The course fee amount not a problem**,
+  as this will be paid by supervisors, not the students themselves
+- **The course fee is too high**
+
+Suggestions given by those that are against a course fee:
+
+- **A course fee introduces more hurdles for entry**,
+  such as convincing a PI to pay for it, followed by
+  the administrative processes that follow.
+- **The course fee is too high**
+  and it should not be more than 500 kroner.
+- **A fee will reduce the amount of participants**,
+  which will hurt courses that have a low amount of participants.
+  Instead, learners will increasingly turn to AI
+  (as long as this is perceived as free)
+- **A fee solves a problem that does not exist**,
+  as there are enough teaching assistants within NBIS
+
+Although this small poll shows some numbers,
+the winner is not decided by mere voting (in that case,
+the course fee would be removed).
+Instead, a more useful question is to what kind of training
+*should* be catered too.
+For example, most NBIS teachers are beginner teachers (i.e. less than
+5 years of full-time teaching)
+<!-- (me included) -->
+and are known to focus mostly on 'survival' `[Admiraal et al., 2023]`.
+It may be the beginner teachers that craves to have certainty,
 where more experienced
 teachers have the pedagogic tools to deal with such uncertainty.
-It is an open question if it is the majority of NBIS staff that benefit
-and/or if they are the people NBIS should cater to.
 
 ## Replies from other online teaching providers
 
@@ -184,22 +222,22 @@ for their response to having an online course fee
 to increase the certainty of a high attendance.
 I did so without disclosing my own views.
 
-So far, the reactions are around equally in favor
-as in disagreement, with 4 people
-being against a course fee (of which 1 'strongly against')
-and 4 people are fine with a course fee.
-
-Here is an aggregate of the reasons given against having a course fee:
+Below is an aggregate of the reasons
+given by people of other online teaching providers
+*against* having a course fee.
 
 - **The fee costs time and money**:
   the administrative cost is higher than the fee brings in.
   This is especially true when attendants
   from different countries (e.g. with a different VAT rate) apply.
-- **A free penalizes the wrong people**:
+- **A fee penalizes the wrong people**:
   a flat course fee hinders
   those people that we want to attend, such as early-career
   researchers, students, or participants from less well-funded institutions
-  and countries
+  and countries.
+  It is exactly those that we should provide this service to.
+- **A fee turns students into customers**:
+  this is a big difference in mindset with lots of risks involved
 - **A fee is inferior to better communication**:
   It was found by experience that better communication
   is more effective at increasing attendance,
@@ -208,7 +246,8 @@ Here is an aggregate of the reasons given against having a course fee:
   or using waitlists with clear cancellation deadlines
 - **A fee is an alternative to free methods**:
   There are other ways to increasing attendance that do not cost money
-  e.g. a short supervisor approval note
+  e.g. a short supervisor approval note or asking people
+  to write 100 words explaining why the course might be useful for them
 - **A fee reduces the amount of participants**,
   where we want as big as a reach as possible
 - **We are not allowed to have a course fee at all**:
@@ -278,6 +317,8 @@ I hope that I can do the same for NBIS too.
 ## References
 
 <!-- markdownlint-disable MD013 --><!-- Keep references 1 line, hence will break 80 characters per line -->
+
+- `[Admiraal et al., 2023]` Admiraal, Wilfried et al., "Mind the gap: Early-career teachers' level of preparedness, professional development, working conditions, and feelings of distress". Social Psychology of Education 26.6 (2023): 1759-1787.
 
 - `[Bhayani et al., 2021]` Bhayani, Ali. "Let students pay for their higher education: Debate concerning free and subsidized education based on sunk cost theory." Journal of Philanthropy and Marketing 26.4 (2021): e1700.
 - `[Goli et al., 2022]`
