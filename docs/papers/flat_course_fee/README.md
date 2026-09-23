@@ -168,7 +168,7 @@ during the entire course.
 <!-- free was 1.74, paid was 1.81 -->
 <!-- Using (N-O)/O = (1.81 - 1.74) / 1.74 = 0.040229885 -->
 
-## Support for/against a flat course fee
+## Support for/against a flat course fee within NBIS
 
 It is unknown to which extent there is support for a flat course fee.
 Hence, 
@@ -178,10 +178,7 @@ for their response to having an online course fee
 to increase the certainty of a high attendance.
 I did so without disclosing my own views.
 
-So far, the reactions are around mixed,
-with 5 people being against a course fee
-(of which 1 'strongly against' and 1 'very problematic')
-and 4 people that are fine with a course fee.
+So far, the reactions are around 50-50.
 
 Suggestions given by those in favor of the course fee:
 
@@ -211,23 +208,23 @@ the winner is not decided by mere voting (in that case,
 the course fee would be removed).
 Instead, a more useful question is to what kind of training
 *should* be catered too.
-For example, most NBIS teachers are beginner teachers (i.e. less than
-5 years of full-time teaching)(me included)
-and are known to focus mostly on 'survival' `[Admiraal et al., 2023]`.
-It may be the beginner teachers that craves to have certainty,
-where more experienced
-teachers have the pedagogic tools to deal with such uncertainty.
+For example, should we cater to teachers that struggle with
+an uncertain amount of participants, 
+or to those that do have the pedagogic tools to deal with such uncertainty.
+Additionally, should we focus on teachers that see teaching in
+an economic businesslike way, or to those that intimitely care about
+the profession.
 
-## Replies from other online teaching providers
+## Support for/against a flat course fee outside of NBIS
 
 I have asked non-NBIS teachers in online courses
 for their response to having an online course fee
 to increase the certainty of a high attendance.
 I did so without disclosing my own views.
 
-Below is an aggregate of the reasons
-given by people of other online teaching providers
-*against* having a course fee.
+So far, the reactions are clear: all are against a course fee.
+
+Below is an aggregate of the reasons they provided:
 
 - **The fee costs time and money**:
   the administrative cost is higher than the fee brings in.
@@ -262,11 +259,47 @@ given by people of other online teaching providers
 
 ## Conclusion
 
-I hope that NBIS Training will re-evaluate using a flat course
-fee for online courses. 
+Not all learners that register for our online courses
+actually show up.
+This is a known problem for NBIS and other online course providers, such
+as NAISS and UPPMAX.
 
-As shown by the small poll I did,
-this decision has mixed support and has both positive and negative effects.
+Having a flat course fee is a well-intended way
+to increase the certainty that all registered participants
+will actually show up, although the academic literature provides no evidence
+that a course fee will increase attendance. <!-- But hey, I can have missed it. Please help me out! -->
+Knowing more certain that all registered participants
+will actually show up is
+is meant to help assure that
+the right amount of teaching assistants can
+be scheduled. 
+Drawbacks are, among others, a lower attendance, an administrative burden,
+a penalization for the wrong people, injustice to those that rightfully
+need to cancel, change of mindset in whcih students are treated as customers
+and misalignment with higher goals such as Open Science and FAIR principles.
+
+The most elegant alternative of having a flat course fee is to **estimate**
+the amount of participants actually showing up, as is done
+by, for example, NAISS and UPPMAX.
+Advantages are, among others, a higher attendance,
+no administrative burden, the mindset to treat students as learns
+and alignment with higher goals such as and FAIR principles.
+A drawback may be that not all teachers or teaching assistants
+have the mindset or pedagogic tools to deal with such uncertainty.
+
+I conclude that **it would be better to have no course fee**,
+similar to other government-funded course providers
+and this idea would have support from within NBIS staff.
+I hope that NBIS Training will re-evaluate using a flat course
+to enable research otherwise not possible
+in a more welcoming, just and efficient way.
+
+## Epilogue
+
+These are some things that do not add to the opinion piece,
+but it informative about the background from which it was written.
+
+### My assumptions about NBIS Training
 
 I assume that NBIS Training is open to opposing ideas,
 such as this opinion piece.
@@ -274,15 +307,11 @@ My high expections of those in charge does contrast
 some sentiments I received during my polling,
 where it was voiced that such decisions are a one-way street
 and was given the advice to just obey.
+This is a sentiment that I do think is relevant, but I did not
+investigated this any further.
 Again, I do believe my colleagues are *actually* fine with opposing ideas.
 
-I believe that the idea of a course fee was made with the best intentions
-and that, at first glance, it seems like a good decisions.
-Upon closer inspection, however, I conclude that such a course fee
-does more harm than good and I propose the course fee to be removed,
-to enable research otherwise not possible in a more welcoming and efficient way.
-
-## Epilogue
+### Addressing my biases
 
 On a more personal note: I am biased, as I care deeply about teaching
 and the effect my teaching has on my learners. Throughout this opinion
