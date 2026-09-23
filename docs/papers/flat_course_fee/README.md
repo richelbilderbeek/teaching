@@ -213,6 +213,11 @@ Other suggestions:
   However, some activities (e.g. automated tests) do not require more
   teaching assistants when there are more learners.
   In such a context, a course fee in not needed.
+- **Only accept a course fee paid by an institutional account**:
+  this would assure that participants do not pay from their own money
+- **Allow participants to follow the course at a reduced fee**:
+  this would assure that participants with access to less financial resources
+  can attend anyways
 
 Although this small poll shows some numbers,
 the winner is not decided by mere voting (in that case,
