@@ -103,7 +103,8 @@ having a flat course fee to be able to more reliably estimate attendance:
 - **A fee punishes registrants that cancel for the right reason**:
   Participants can have good reasons to cancel a course (even last-minute!)
   and now have to unjustly pay a fee for a course they (rightfully)
-  could not attend
+  could not attend. Examples are funerals and accidents involving
+  hospitalization.
 - **A fee reduces the number of registrations**:
   Not every learner has access to get a course fee paid for them,
   nor not every learner wants to deal with the administrative
@@ -143,7 +144,7 @@ state that having no fees is 'influential' for their enrollment `[Clow, 2013]`.
 However, there seems to be no research (to the best of my knowledge)
 that helps us predict the effect
 of a flat course fee on registration numbers.
-The closest relevant paper is by Han and colleagues 
+The closest relevant paper is by Han and colleagues
 that investigate enrollment rate for variable pricing of online courses.
 Based on emperical evidence and assuming a market where online and
 traditional courses compete,
@@ -171,7 +172,7 @@ during the entire course.
 ## Support for/against a flat course fee within NBIS
 
 It is unknown to which extent there is support for a flat course fee.
-Hence, 
+Hence,
 I have asked NBIS and non-NBIS
 teachers in online courses
 for their response to having an online course fee
@@ -209,7 +210,7 @@ the course fee would be removed).
 Instead, a more useful question is to what kind of training
 *should* be catered too.
 For example, should we cater to teachers that struggle with
-an uncertain amount of participants, 
+an uncertain amount of participants,
 or to those that do have the pedagogic tools to deal with such uncertainty.
 Additionally, should we focus on teachers that see teaching in
 an economic businesslike way, or to those that intimitely care about
@@ -272,7 +273,10 @@ Knowing more certain that all registered participants
 will actually show up is
 is meant to help assure that
 the right amount of teaching assistants can
-be scheduled. 
+be scheduled.
+Also, it is more fair to those that were not accepted by the course
+due to the course being full: a person that *is* accepted cancels,
+that empty spot could have been used by the rejected participant.
 Drawbacks are, among others, a lower attendance, an administrative burden,
 a penalization for the wrong people, injustice to those that rightfully
 need to cancel, change of mindset in whcih students are treated as customers
