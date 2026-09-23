@@ -9,6 +9,10 @@ tags:
 
 # Flat course fees for online teaching: is the cure worth the disease?
 
+!!! warning "Work in progress"
+
+    This opinion piece is a work in progress and will change.
+
 ## Goal
 
 This paper started at the
@@ -208,8 +212,7 @@ the course fee would be removed).
 Instead, a more useful question is to what kind of training
 *should* be catered too.
 For example, most NBIS teachers are beginner teachers (i.e. less than
-5 years of full-time teaching)
-<!-- (me included) -->
+5 years of full-time teaching)(me included)
 and are known to focus mostly on 'survival' `[Admiraal et al., 2023]`.
 It may be the beginner teachers that craves to have certainty,
 where more experienced
@@ -260,7 +263,9 @@ given by people of other online teaching providers
 ## Conclusion
 
 I hope that NBIS Training will re-evaluate using a flat course
-fee for online courses. As shown by the small poll I did,
+fee for online courses. 
+
+As shown by the small poll I did,
 this decision has mixed support and has both positive and negative effects.
 
 I assume that NBIS Training is open to opposing ideas,
