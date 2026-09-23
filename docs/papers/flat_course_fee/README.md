@@ -259,6 +259,10 @@ Below is an aggregate of the reasons they provided:
   There are other ways to increasing attendance that do not cost money
   e.g. a short supervisor approval note or asking people
   to write 100 words explaining why the course might be useful for them
+- **Any course fee is already paid by the university**:
+  The universities has already paid NBIS to deliver courses.
+  A course fee would mean that a this is paid by both the university
+  beforehand *and* by the participant 
 - **A fee reduces the amount of participants**,
   where we want as big as a reach as possible
 - **We are not allowed to have a course fee at all**:
@@ -267,6 +271,9 @@ Below is an aggregate of the reasons they provided:
 - **A fee misaligns with higher goals**, such as
   the principles of Open Science and FAIR training principles
   for public-funded research infrastructure.
+- **There is no evidence that a course fee increases attendance**:
+  universities are to follow evidence-based practices themselves
+  too in their decision making.
 
 ## Conclusion
 
@@ -296,10 +303,20 @@ The most elegant alternative of having a flat course fee is to **estimate**
 the amount of participants actually showing up, as is done
 by, for example, NAISS and UPPMAX.
 Advantages are, among others, a higher attendance,
-no administrative burden, the mindset to treat students as learns
+no administrative burden, the mindset to treat students as learners
 and alignment with higher goals such as and FAIR principles.
 A drawback may be that not all teachers or teaching assistants
 have the mindset or pedagogic tools to deal with such uncertainty.
+
+Another promising alternative to increase course attendance
+is to improve the personal communication
+with the participant.
+This alternative has been a success story at another course provider.
+Advantages are, among others, a higher attendance,
+the mindset to treat students as learners
+and alignment with higher goals such as and FAIR principles.
+It does have the disadvantage that it demands extra work
+for a course coordinator.
 
 I conclude that **it would be better to have no course fee**,
 similar to other government-funded course providers
