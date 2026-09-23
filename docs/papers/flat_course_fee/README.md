@@ -107,18 +107,44 @@ having a flat course fee to be able to more reliably estimate attendance:
 It is with good intentions that management tries to help
 its training staff to have more certain estimates
 on the amount of participants that will actually show up.
-It will benefit staff that craves this certainty.
-Additionally, we can assume teachers to overlook the
-consequences for the possible participants of our courses.
+We can expect staff to trust management on making good decisions
+or -the more negative one-
+we can speculate on staff to 'just' obey management without questions.
+Whatever relation our colleagues in training have,
+a flat course fee will benefit those that crave knowing
+how many participants show up.
 
 ## Other solutions
 
-However, there are simpler solutions, such as simply
-embracing this uncertainty and estimating
-the amount of participants that will actually show up,
-as is done by NAISS and UPPMAX. There, they simply ask teaching assistants
-to be present at the start, after which they are sent back to regular work
-when they are not needed.
+Taking a look at similar course providers,
+we can see a simpler solution at NAISS and UPPMAX,
+where this uncertainty is simply
+embraced and the amount of participants
+that will actually show up is **estimated**.
+From the estimated amount of participants,
+the fitting amount of teaching assistants
+are asked to be present at the start of a course.
+When there are less participants than estimated,
+those course assistants are sent away,
+back to their regular jobs.
+
+Taking a look at the literature, a similar case is
+decribed by the massive open online course (MOOC)
+provider Coursera, that also struggled
+with more people registering than being active `[Goli et al., 2022]`.
+They tested out a flat course fee, as well as a certificate.
+The paper, however, does not provide data on
+how these interventions changed the number of registrations.
+
+It does show that a course fee increased *engagement* (i.e. those
+that attend do spend more time on the platform) of
+17-20% percent at the start <!-- number from paper -->
+and 4% after 10-20 days,
+<!-- From figure 3 and https://www.graphreader.com/ -->
+<!-- free was 1.74, paid was 1.81 -->
+<!-- Using (N-O)/O = (1.81 - 1.74) / 1.74 = 0.040229885 -->
+where a certicate increased engagement 8-9%
+during the entire course.
 
 ## Support for a flat course fee
 
@@ -176,37 +202,57 @@ Here is an aggregate of the reasons given against having a course fee:
 ## Conclusion
 
 I hope that SciLifeLab management will re-evaluate using a flat course
-fee for online courses.
-I even assume that SciLifeLab management *will* do so,
-as this is how we work at SciLifeLab work: we try things,
-break things and adapt.
-My high expections of our colleagues in higher positions of power
-are in contrast to some sentiments I received; that management will never
-listen and enforce their ideas instead.
-I believe that a flat course fee is a misstap and I believe that
-management is wise enough to undo it, as the cure is worse than the illness
-and the illness can be easily accounted for. It **is** the SciLifeLab
-way to make mistakes and learn from them.
+fee for online courses. As shown by the small poll I did,
+this decision has mixed support and has both positive and negative effects.
 
-## Disclosure
+I assume that SciLifeLab management is open to opposing ideas such as this
+opinion piece.
+My high expections of managment does contrast some sentiments I received:
+that management decisions are a one-way street and was given the advice to
+just obey.
 
-On a more personal note: I may be biased, as I care deeply
-about teaching. I care so much about teaching that most
-Saturdays I coordinate the teaching of multiple courses as a volunteer
-(the so-called [Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)).
-These courses have around 40 learners in total and are at physical location
-with [fluctuating course attendance](https://uppsala-makerspace.github.io/loerdagskurser/data/statistiker_besoekare/).
+I believe that the idea of a course fee was made with the best intentions
+and that, at first glance, it seems like a good decisions.
+Upon closer inspection, however, I conclude that such a course fee
+does more harm than good and I propose the course fee to be removed,
+to enable research otherwise not possible in a more welcoming and efficient way.
 
-Those course do have a course fee, to cover the costs of the courses.
+## Epilogue
+
+On a more personal note: I am biased, as I care deeply about teaching
+and the effect my teaching has on my learners. Throughout this opinion
+piece, however, I have been open to opposing views too, to the best of
+my abilities.
+
+I think learning is important. I think learning is so important
+that I sacrifice most Saturdays to coordinate and teach multiple courses.
+I do so as a volunteer,
+in the the so-called [Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/),
+which take place in the Uppsala Makerspace.
+The courses are set up around the motto 'Everyone is always welcome',
+embracing the fact that participants
+may just have migrated to Sweden (e.g. Ukranian refugees)
+and may have unexpected and irregular
+(e.g. weddings and weddings) events
+in life that are more important.
+The courses have grown to around 40 participants and
+have [fluctuating attendance](https://uppsala-makerspace.github.io/loerdagskurser/data/statistiker_besoekare/).
+
+Those courses do have a course fee, to cover the costs of the courses,
+of 900 kroner per year.
 
 However, [the payment instructions](https://uppsala-makerspace.github.io/loerdagskurser/betalning/#__tabbed_1_2)
 open up with, I quote: 'money should never be a problem at the Saturday
 courses'. I know that around 1 in 20 parents come to me and ask the course
-to be free for their children.
+to be free for their children, which has always been granted.
+In that way, we have been able to keep
+the participants of lower socio-economic status, which may be the ones
+that need our courses the most.
 
 I am proud that, at those courses,
-we state that 'everyone is always welcome' and 'money should never be a
-problem'. I hope that I can remain saying this of SciLifeLab too.
+we live up to our mottos that
+'everyone is always welcome' and 'money should never be a problem'.
+I hope that I can do the same for SciLifeLab too.
 
 ## References
 
