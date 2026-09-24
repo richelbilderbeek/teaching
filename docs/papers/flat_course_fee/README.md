@@ -189,6 +189,7 @@ Suggestions given by those in favor of the course fee:
 - **The course fee amount not a problem**,
   as this will be paid by supervisors, not the students themselves
 - **The course fee is too high**
+- **The course fee will probably increase attendance**
 
 Suggestions given by those that are against a course fee:
 
