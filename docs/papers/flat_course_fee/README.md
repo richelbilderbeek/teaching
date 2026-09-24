@@ -290,7 +290,7 @@ as NAISS and UPPMAX.
 Having a flat course fee is a well-intended way
 to increase the certainty that all registered participants
 will actually show up, although the academic literature provides no evidence
-that a course fee will increase attendance. <!-- But hey, I can have missed it. Please help me out! -->
+that a course fee will *actually* increase attendance. <!-- But hey, I can have missed it. Please help me out! -->
 Knowing more certain that all registered participants
 will actually show up is
 is meant to help assure that
@@ -323,9 +323,18 @@ and alignment with higher goals such as and FAIR principles.
 It does have the disadvantage that it demands extra work
 for a course coordinator.
 
+So, the people that may benefit of a flat course are those that teach courses
+that have too many registrations. The people that will certainlt
+be affected negatively are those that teach courses that do have enough
+capacity. When we shift the focus to the researcher we are supposed to teach,
+we see that for them, a course fee may be a slight to a major inconvenience,
+where the potential participants with less resources are affected more
+negatively. Putting the spotlight on the reputation of NBIS, a course
+fee will make NBIS no longer welcome to all.
+
 I conclude that **it would be better to have no course fee**,
 similar to other government-funded course providers
-and this idea would have support from within NBIS staff.
+and this idea has support from within NBIS staff.
 I hope that NBIS Training will re-evaluate using a flat course
 to enable research otherwise not possible
 in a more welcoming, just and efficient way.
