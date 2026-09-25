@@ -25,8 +25,8 @@ is indeed taken up by someone. Although these were the only arguments
 presented, some teachers think it will also help increase
 engagement to courses: if our participants have had to pay, they will
 take a course more seriously. Also, from a management perspective,
-this is a great mechanism to weed out smaller (hence, less cost-effective)
-courses.
+this may be a very effective mechanism to weed out smaller
+(hence, less cost-effective) courses.
 
 This well-intended solution to some, however, is a hindrance to all:
 teachers of courses that have no problem accepting all
@@ -35,20 +35,18 @@ number of (applications and) participants.
 Courses taught to a small pool of potential
 participants (e.g. highly specialized topics) expect
 to be cancelled more often, due to lack of participants.
+A big group of people that are disadvantaged are the participants
+that do show up after registration and do engange in a course:
+there were not part of the problem, but are now hindered by the solution.
+Also, it will introduce injustice to the accepted participants
+that need to cancel for reasons we think are valid,
+such as unexpected events in their private lives such as deaths
+and hospitalizations.
+Finally, those with ideals are hurt:
+those that think education should be free
+and those that feel that our participants are always welcome.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Appendix
 
 ## Goal
 
