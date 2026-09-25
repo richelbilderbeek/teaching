@@ -13,8 +13,6 @@ tags:
 
     This opinion piece is a work in progress and will change.
 
-## Abstract
-
 NBIS Training intends to start charging a course fee of 1000 SEK
 for online teaching.
 This should help the teachers of those courses that reject some of the
@@ -24,8 +22,9 @@ to applicants that were rejected, that their spot in that full course
 is indeed taken up by someone. Although these were the only arguments
 presented, some teachers think it will also help increase
 engagement to courses: if our participants have had to pay, they will
-take a course more seriously. Also, from a management perspective,
-this may be a very effective mechanism to weed out smaller
+take a course more seriously.
+Also, from a management perspective,
+introducing a course fee is an effective mechanism to weed out smaller
 (hence, less cost-effective) courses.
 
 This well-intended solution to some, however, is a hindrance to all:
@@ -46,9 +45,22 @@ Finally, those with ideals are hurt:
 those that think education should be free
 and those that feel that our participants are always welcome.
 
-I conclude that introducing a course fee is well-intended
-solution to a problem that can be solved in more elegant
-ways.
+Here is an overview of the winners and losers of introducing
+a flat course fee:
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Group     |Winners                                              |Losers
+----------|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------
+Management|Those that want big cost-effective course            |Those that think education should be free, those that think highly-specialized small courses should exist
+Teachers  |Those that need to reject applicants to their courses|Those that teach courses that are below capacity, those that have the pedagic tools and/or assistants to teach bigger groups
+Teachers  |Those that want more engagement of participants      |Those that see the amount of engagement as a given (and hence, their own problem)
+Learners  |Those that are rejected by a course                  |Those that show up in a course, those that rightfully need to cancel a course
+
+<!-- markdownlint-enable MD013 -->
+
+I conclude that introducing a flat course fee for online courses
+is a solution to some and a hindrance to all.
 
 The most elegant way to deal with this problem is to **estimate**
 how many registered learners actually show up.
@@ -60,14 +72,23 @@ This solution is elegant, as there is no money,
 nor administrative machinery involved: there is only the uncertainty
 one expects from working with humans with a private life.
 
-Assuming the course fee is a tool by management to reduce the amount
-of smaller courses, 
+If the real problem solved is a too large amount of too small courses,
+i.e. management sees these small courses as cost-ineffective, then
+here, too, there are more elegant solutions, such as making decisions
+based on the **estimated** amount of how many registered learners
+actually show up.
 
+The alternative solution, i.e. to **estimate** the amount of actual participants
+from the number of registrations, is a solution used by other
+course providers. It seems, however, they do have no choice: as
+govenmental non-profit organisations they are not allowed to introduce
+a course fee. 
 
-
-
-
-
+I conclude that introducing a flat course fee for online courses
+is a solution to some and a hindrance to all.
+I know embracing the encertainty of working with humans
+is a more elegant and *humane* solution.
+Hence, I suggest to **keep online courses free of charge**.
 
 ## Appendix
 
