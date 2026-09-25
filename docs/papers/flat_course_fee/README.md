@@ -76,7 +76,7 @@ The anonymized and aggregated responses can be found in
 
 **There are many alternative solutions given**:
 both NBIS and non-NBIS staff suggested alternative solutions,
-again, see 
+again, see
 [appendix 2](appendix_2.md) (for NBIS staff) and [appendix 3](appendix_3.md)
 (for non-NBIS staff).
 
@@ -94,7 +94,7 @@ nor administrative machinery involved: there is only the uncertainty
 one expects from working with humans with a private life.
 It seems, however, they do have no choice: as
 govenmental non-profit organisations (both NAISS and some others I asked)
-are not allowed to introduce a course fee. 
+are not allowed to introduce a course fee.
 
 **This solution can be used to weed out smaller courses too**:
 If the real problem solved is a too large amount of too small courses,
@@ -125,5 +125,3 @@ Hence, I suggest to **keep online courses free of charge**.
   gives some background information about this opinion piece
 - [Appendix 5: insights from the academic literature](appendix_5.md)
   states what can be read in the academic literature.
-
-

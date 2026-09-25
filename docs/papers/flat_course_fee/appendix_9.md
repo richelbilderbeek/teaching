@@ -3,7 +3,7 @@
 These are some things that do not add to this opinion piece,
 but it informative about the background from which it was written.
 
-### My assumptions about NBIS Training
+## My assumptions about NBIS Training
 
 I assume that NBIS Training is open to opposing ideas,
 such as this opinion piece.
@@ -15,7 +15,7 @@ This is a sentiment that I do think is relevant, but I did not
 investigated this any further.
 Again, I do believe my colleagues are *actually* fine with opposing ideas.
 
-### Addressing my biases
+## Addressing my biases
 
 On a more personal note: I am biased, as I care deeply about teaching
 and the effect my teaching has on my learners. Throughout this opinion

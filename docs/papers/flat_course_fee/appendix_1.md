@@ -1,6 +1,6 @@
 # Appendix 1: course attendance
 
-The idea presented behind the course fee is that 
+The idea presented behind the course fee is that
 it will help registered participants to actually show up.
 
 Course attendance is a known problem.

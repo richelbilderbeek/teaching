@@ -11,9 +11,9 @@ A more detailed history can be found at
 
 ## Course attendance
 
-The idea presented behind the course fee is that 
+The idea presented behind the course fee is that
 it will help registered participants to actually show up.
-This is a known problem (with an elegant solution), 
+This is a known problem (with an elegant solution),
 the extent of which is
 shown in [appendix 1](appendix_1.md)
 
@@ -103,7 +103,7 @@ The academic literature does not help much:
 a course fee is predicted to lower the number
 of registrations `[Han et al., 2019]`
 (however, this is for dynamically priced courses)
-and to increase the engagement of participants `[Goli et al., 2022]`. 
+and to increase the engagement of participants `[Goli et al., 2022]`.
 For more details,
 see [appendix 5: insights from the academic literature](appendix_5.md)
 

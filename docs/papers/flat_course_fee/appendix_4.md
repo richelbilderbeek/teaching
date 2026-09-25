@@ -27,7 +27,7 @@ and started developing this opinion piece.
 The goal was to sharpen my thoughts about this:
 my idealistic attitude may hinder my ideas,
 so I needed others to help me see opposing ideas.
- 
+
 ## 2026-09-25: first draft of this opinion piece
 
 It took me a while to get there, but the first draft I liked
