@@ -116,7 +116,7 @@ Hence, I suggest to **keep online courses free of charge**.
 ## Appendices
 
 - [Appendix](appendix.md): general overview of all appendices
-- [Appendix 1: course attendance](appendix.md) shows the number of
+- [Appendix 1: course attendance](appendix_1.md) shows the number of
   registrations and the number of actual participants for some online
   courses
 - [Appendix 2: support for/against a flat course fee within NBIS](appendix_2.md)
