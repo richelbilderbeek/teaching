@@ -9,7 +9,7 @@ where the flat fee for online courses was announced.
 A more detailed history can be found at
 [Appendix 4: history of this opinion piece](appendix_4.md).
 
-## Course attendence
+## Course attendance
 
 The idea presented behind the course fee is that 
 it will help registered participants to actually show up.
@@ -97,38 +97,15 @@ When there are less participants than estimated,
 those course assistants are sent away,
 back to their regular jobs.
 
-Taking a look at the literature, we know that a having course fee
-(versus a course being free), will have an impact,
-as 75% of MOOC participants
-state that having no fees is 'influential' for their enrollment `[Clow, 2013]`.
+## Insights from the academic literature
 
-However, there seems to be no research (to the best of my knowledge)
-that helps us predict the effect
-of a flat course fee on registration numbers.
-The closest relevant paper is by Han and colleagues
-that investigate enrollment rate for variable pricing of online courses.
-Based on empirical evidence and assuming a market where online and
-traditional courses compete,
-they found that per 10% price increase, there are 15-18% less enrollments
-`[Han et al., 2019]`.
-
-There is, however, another positive effect of having a course fee:
-it increases engagement with the course.
-This has been found in the massive open online course (MOOC)
-provider Coursera. They also struggle
-with more people registering than being active `[Goli et al., 2022]`.
-They tested out a flat course fee, as well as a certificate.
-This research, however, does not provide data on
-how these interventions changed the number of registrations.
-It does show that a course fee increased engagement (i.e. those
-that attend do spend more time on the platform) of
-17-20% percent at the start <!-- number from paper -->
-and 4% after 10-20 days <!-- number from calculation below -->,
-where a certificate increased engagement 8-9%
-during the entire course.
-<!-- From figure 3 and https://www.graphreader.com/ -->
-<!-- free was 1.74, paid was 1.81 -->
-<!-- Using (N-O)/O = (1.81 - 1.74) / 1.74 = 0.040229885 -->
+The academic literature does not help much:
+a course fee is predicted to lower the number
+of registrations `[Han et al., 2019]`
+(however, this is for dynamically priced courses)
+and to increase the engagement of participants `[Goli et al., 2022]`. 
+For more details,
+see [appendix 5: insights from the academic literature](appendix_5.md)
 
 ## Support for/against a flat course fee within NBIS
 
@@ -156,119 +133,6 @@ So far, the reactions are clear: all are against a course fee.
 
 You can read these in
 [appendix 3: support for/against a flat course fee outside of NBIS](appendix_3.md)
-
-## Conclusion
-
-Not all learners that register for our online courses
-actually show up.
-This is a known problem for NBIS and other online course providers, such
-as NAISS and UPPMAX.
-
-Having a flat course fee is a well-intended way
-to increase the certainty that all registered participants
-will actually show up, although the academic literature provides no evidence
-that a course fee will *actually* increase attendance. <!-- But hey, I can have missed it. Please help me out! -->
-Knowing more certain that all registered participants
-will actually show up is
-is meant to help assure that
-the right amount of teaching assistants can
-be scheduled.
-Also, it is more fair to those that were not accepted by the course
-due to the course being full: a person that *is* accepted cancels,
-that empty spot could have been used by the rejected participant.
-Drawbacks are, among others, a lower attendance, an administrative burden,
-a penalization for the wrong people, injustice to those that rightfully
-need to cancel, change of mindset in which students are treated as customers
-and misalignment with higher goals such as Open Science and FAIR principles.
-
-The most elegant alternative of having a flat course fee is to **estimate**
-the amount of participants actually showing up, as is done
-by, for example, NAISS and UPPMAX.
-Advantages are, among others, a higher attendance,
-no administrative burden, the mindset to treat students as learners
-and alignment with higher goals such as and FAIR principles.
-A drawback may be that not all teachers or teaching assistants
-have the mindset or pedagogic tools to deal with such uncertainty.
-
-Another promising alternative to increase course attendance
-is to improve the personal communication
-with the participant.
-This alternative has been a success story at another course provider.
-Advantages are, among others, a higher attendance,
-the mindset to treat students as learners
-and alignment with higher goals such as and FAIR principles.
-It does have the disadvantage that it demands extra work
-for a course coordinator.
-
-So, the people that may benefit of a flat course are those that teach courses
-that have too many registrations. The people that will certainlt
-be affected negatively are those that teach courses that do have enough
-capacity. When we shift the focus to the researcher we are supposed to teach,
-we see that for them, a course fee may be a slight to a major inconvenience,
-where the potential participants with less resources are affected more
-negatively. Putting the spotlight on the reputation of NBIS, a course
-fee will make NBIS no longer welcome to all.
-
-I conclude that **it would be better to have no course fee**,
-similar to other government-funded course providers
-and this idea has support from within NBIS staff.
-I hope that NBIS Training will re-evaluate using a flat course
-to enable research otherwise not possible
-in a more welcoming, just and efficient way.
-
-## Epilogue
-
-These are some things that do not add to this opinion piece,
-but it informative about the background from which it was written.
-
-### My assumptions about NBIS Training
-
-I assume that NBIS Training is open to opposing ideas,
-such as this opinion piece.
-My high expectations of those in charge does contrast
-some sentiments I received during my polling,
-where it was voiced that such decisions are a one-way street
-and was given the advice to just obey.
-This is a sentiment that I do think is relevant, but I did not
-investigated this any further.
-Again, I do believe my colleagues are *actually* fine with opposing ideas.
-
-### Addressing my biases
-
-On a more personal note: I am biased, as I care deeply about teaching
-and the effect my teaching has on my learners. Throughout this opinion
-piece, however, I have been open to opposing views too, to the best of
-my abilities.
-
-I think learning is important. I think learning is so important
-that I sacrifice most Saturdays to coordinate and teach multiple courses.
-I do so as a volunteer,
-in the the so-called [Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/),
-which take place in the Uppsala Makerspace.
-The courses are set up around the motto 'Everyone is always welcome',
-embracing the fact that participants
-may just have migrated to Sweden (e.g. Ukrainian refugees)
-and may have unexpected and irregular
-(e.g. weddings and weddings) events
-in life that are more important.
-The courses have grown to around 40 participants and
-have [fluctuating attendance](https://uppsala-makerspace.github.io/loerdagskurser/data/statistiker_besoekare/).
-
-Those courses do have a course fee, to cover the costs of the courses,
-of 900 kroner per year.
-
-However, [the payment instructions](https://uppsala-makerspace.github.io/loerdagskurser/betalning/#__tabbed_1_2)
-open up with, I quote: 'money should never be a problem at the Saturday
-courses'. I know that around 1 in 20 parents come to me and ask the course
-to be free for their children, which has always been granted.
-In that way, we have been able to keep
-the participants of lower socio-economic status, which may be the ones
-that need our courses the most.
-
-I am proud that, at those courses,
-we live up to our mottos that
-'everyone is always welcome' and 'money should never be a problem'.
-I hope that I can do the same for NBIS too.
 
 ## References
 
