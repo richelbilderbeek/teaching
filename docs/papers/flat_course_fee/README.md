@@ -46,6 +46,29 @@ Finally, those with ideals are hurt:
 those that think education should be free
 and those that feel that our participants are always welcome.
 
+I conclude that introducing a course fee is well-intended
+solution to a problem that can be solved in more elegant
+ways.
+
+The most elegant way to deal with this problem is to **estimate**
+how many registered learners actually show up.
+From such an estimate, one can over-accept participants,
+knowing that some will not show up.
+For example, within NAISS, we know that each 3 registrations equal
+1 person attending the course.
+This solution is elegant, as there is no money,
+nor administrative machinery involved: there is only the uncertainty
+one expects from working with humans with a private life.
+
+Assuming the course fee is a tool by management to reduce the amount
+of smaller courses, 
+
+
+
+
+
+
+
 ## Appendix
 
 ## Goal
