@@ -121,5 +121,9 @@ Hence, I suggest to **keep online courses free of charge**.
 - [Appendix 3: support for/against a flat course fee outside of NBIS](appendix_3.md)
   shows the reasons for/against a flat course fee given by staff
   of other (online) training providers
+- [Appendix 4: history of this opinion piece](appendix_4.md)
+  gives some background information about this opinion piece
+- [Appendix 5: insights from the academic literature](appendix_5.md)
+  states what can be read in the academic literature.
 
 

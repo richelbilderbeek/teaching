@@ -1,47 +1,21 @@
 # Appendix
 
-## Goal
+## History
 
-This paper started at the
-NBIS Training Steering Group meeting of 2026-09-21.
-It was announced that a flat fee of 1000 SEK
-will be introduced for online courses.
-Here I try to find out who benefits and who is harmed by this idea.
+This opinion piece started at
+the NBIS Training Steering Group meeting of 2026-09-21,
+where the flat fee for online courses was announced.
 
-## Flat course fees are announced
+A more detailed history can be found at
+[Appendix 4: history of this opinion piece](appendix_4.md).
 
-The flat course fee was announced in the meeting notes as such:
+## Course attendence
 
-```text
-Online Courses
-- Flat fee of 1 000 SEK (administrative costs + technical operation cost)
-- Scrap no-show fee
-```
-
-In that meeting, questions were asked by the course leaders.
-
-The course fee did not arise because of the money:
-NBIS is not in bad shape financially.
-Instead, the idea is that
-**it will help registered participants to actually show up**.
-
-## Course attendance is a problem
-
-Course attendance is, indeed, a known problem.
-Ideally, we want it to be 100%, i.e. that all learners
-that register for a course show up. In practice,
-for  this is what it may look like in practice:
-
-![Attendance](attendance.png)
-
-> Figure 1: course attendance. See [Appendix 1](appendix_1.md)
-
-By eyeballing (and ignoring the 100% outlier, where 3 out of 3 showed up)
-we see that in those course we expect around 1 in 3 registered learners to
-actually show up. Although this figure shows the problem of a
-less-than-100-percent-attendance rate, it also shows a solution
-to this problem that is used at NAISS and UPPMAX: they **estimate**
-how many will show up.
+The idea presented behind the course fee is that 
+it will help registered participants to actually show up.
+This is a known problem (with an elegant solution), 
+the extent of which is
+shown in [appendix 1](appendix_1.md)
 
 ## A flat course fee increases attendance and other positive effects
 
