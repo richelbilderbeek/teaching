@@ -7,11 +7,48 @@ tags:
   - flat course fees
 ---
 
-# Flat course fees for online teaching: is the cure worth the disease?
+# Flat course fees for online teaching: a solution to some, that is a hindrance to all
 
 !!! warning "Work in progress"
 
     This opinion piece is a work in progress and will change.
+
+## Abstract
+
+NBIS Training intends to start charging a course fee of 1000 SEK
+for online teaching.
+This should help the teachers of those courses that reject some of the
+(too) many applicants: it should help assure that the people that
+are accepted into the course do indeed show up. Also, this is more just
+to applicants that were rejected, that their spot in that full course
+is indeed taken up by someone. Although these were the only arguments
+presented, some teachers think it will also help increase
+engagement to courses: if our participants have had to pay, they will
+take a course more seriously. Also, from a management perspective,
+this is a great mechanism to weed out smaller (hence, less cost-effective)
+courses.
+
+This well-intended solution to some, however, is a hindrance to all:
+teachers of courses that have no problem accepting all
+participants, suddenly have a problem: they expect a lower
+number of (applications and) participants.
+Courses taught to a small pool of potential
+participants (e.g. highly specialized topics) expect
+to be cancelled more often, due to lack of participants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Goal
 
@@ -189,7 +226,6 @@ Suggestions given by those in favor of the course fee:
 - **The course fee amount not a problem**,
   as this will be paid by supervisors, not the students themselves
 - **The course fee is too high**
-- **The course fee will probably increase attendance**
 
 Suggestions given by those that are against a course fee:
 
