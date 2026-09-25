@@ -13,6 +13,7 @@ tags:
 
     This opinion piece is a work in progress and will change.
 
+**For some, a solution will be implemented**:
 NBIS Training intends to start charging a course fee of 1000 SEK
 for online teaching (until now, these have been free of charge).
 This should help the teachers of those courses that reject some of the
@@ -27,7 +28,7 @@ Also, from a management perspective,
 introducing a course fee is an effective mechanism to weed out smaller
 (hence, less cost-effective) courses.
 
-This well-intended solution to some, however, is a hindrance to all:
+**For most, this will be hindrance**:
 teachers of courses that have no problem accepting all
 participants, suddenly have a problem: they expect a lower
 number of (applications and) participants.
@@ -58,6 +59,9 @@ Teachers  |Those that want more engagement of participants                      
 Learners  |Those that are rejected by a course, where in hindsight, there was an open spot                     |Those that show up in a course, those that rightfully need to cancel a course
 
 <!-- markdownlint-enable MD013 -->
+
+> Table 1: the winners and losers of implementing a flat course
+> for online courses
 
 I conclude that introducing a flat course fee for online courses is
 **a solution to some and a hindrance to most**.
