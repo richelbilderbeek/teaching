@@ -61,6 +61,8 @@ Learners  |Those that are rejected by a course, where in hindsight, there was an
 
 I conclude that introducing a flat course fee for online courses is
 **a solution to some and a hindrance to most**.
+Most problematic, I feel, is that the learners that gain from this
+policy, are those not even present in our courses!
 
 **Support for a flat course fee for online courses appears mixed**:
 when asking NBIS staff about this,
