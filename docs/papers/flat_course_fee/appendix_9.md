@@ -5,15 +5,6 @@ but it informative about the background from which it was written.
 
 ## My assumptions about NBIS Training
 
-I assume that NBIS Training is open to opposing ideas,
-such as this opinion piece.
-My high expectations of those in charge does contrast
-some sentiments I received during my polling,
-where it was voiced that such decisions are a one-way street
-and was given the advice to just obey.
-This is a sentiment that I do think is relevant, but I did not
-investigated this any further.
-Again, I do believe my colleagues are *actually* fine with opposing ideas.
 
 ## Addressing my biases
 

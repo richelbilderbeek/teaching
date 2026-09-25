@@ -71,31 +71,10 @@ having a flat course fee to be able to more reliably estimate attendance:
   nor not every learner wants to deal with the administrative
   burden of securing money for a course.
 
-## Intentions are good
+## The effect of management
 
-It is with good intentions that management tries to help
-its training staff to have more certain estimates
-on the amount of participants that will actually show up.
-We can expect staff to trust management on making good decisions
-or -the more negative one-
-we can speculate on staff to 'just' obey management without questions.
-Whatever relation our colleagues in training have,
-a flat course fee will benefit those that crave knowing
-how many participants show up.
-
-## Other solutions
-
-Taking a look at similar course providers,
-we can see a simpler solution at NAISS and UPPMAX,
-where this uncertainty is simply
-embraced and the amount of participants
-that will actually show up is **estimated**.
-From the estimated amount of participants,
-the fitting amount of teaching assistants
-are asked to be present at the start of a course.
-When there are less participants than estimated,
-those course assistants are sent away,
-back to their regular jobs.
+The idea coming from management has an effect,
+which is decribed in [Appendix 6: the effect of management](appendix_6.md)
 
 ## Insights from the academic literature
 

@@ -129,3 +129,4 @@ Hence, I suggest to **keep online courses free of charge**.
   gives some background information about this opinion piece
 - [Appendix 5: insights from the academic literature](appendix_5.md)
   states what can be read in the academic literature.
+- [Appendix 6: the effect of management](appendix_6.md)
