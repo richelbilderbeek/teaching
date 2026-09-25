@@ -17,60 +17,6 @@ This is a known problem (with an elegant solution),
 the extent of which is
 shown in [appendix 1](appendix_1.md)
 
-## A flat course fee increases attendance and other positive effects
-
-The idea behind a flat course fee is to increase attendance (i.e.
-the percentage of people that have registered that actually attends the course):
-if a learner has paid 1000 SEK before attending (and it cannot be refunded
-after 3 weeks before the course starts), this should motivate him/her
-to actually attend.
-
-At first glance, a flat course fee like a good idea
-to increase course attendance.
-Here I assume a flat course fee increases
-course attendance to 100,
-although similar-but-different setups hint
-that this assumption is false  `[Bhayani et al., 2021][Ketel et al., 2016]`.
-Having (close to) 100% course attendance solves multiple problems:
-
-- **A fee is more fair to the rejected participants**,
-  i.e. those that could not attend
-  when a course has reached capacity, as there will be less empty
-  (virtual) chairs that they themselves could have occupied
-- **A fee helps schedule the right amount of teaching assistants**:
-  as it is predicted to have a higher course attendance.
-  This may help course coordinators
-
-## A flat course fee impacts others negatively
-
-However, there are also some drawbacks to
-having a flat course fee to be able to more reliably estimate attendance:
-
-- **A fee means the course is no longer open for all**:
-  This effects all teachers that care that
-  their courses are open to all, even to those registrants
-  with little financial resources.
-  It would mean that NBIS online training will benefit mostly
-  those that can afford them.
-- **A fee solves a non-existing problem**:
-  the are courses that deal with this uncertainty
-  by *estimating* attendance.
-  Those courses will have a lower number of participants due to
-  a problem that is non-existing for them.
-- **A fee misaligns with our mission**:
-  instead of helping our participants to do 'research otherwise not possible',
-  we put an administrative burden on them
-  to secure a course fee
-- **A fee punishes registrants that cancel for the right reason**:
-  Participants can have good reasons to cancel a course (even last-minute!)
-  and now have to unjustly pay a fee for a course they (rightfully)
-  could not attend. Examples are funerals and accidents involving
-  hospitalization.
-- **A fee reduces the number of registrations**:
-  Not every learner has access to get a course fee paid for them,
-  nor not every learner wants to deal with the administrative
-  burden of securing money for a course.
-
 ## The effect of management
 
 The idea coming from management has an effect,
@@ -117,9 +63,6 @@ You can read these in
 
 <!-- markdownlint-disable MD013 --><!-- Keep references 1 line, hence will break 80 characters per line -->
 
-- `[Admiraal et al., 2023]` Admiraal, Wilfried et al., "Mind the gap: Early-career teachers' level of preparedness, professional development, working conditions, and feelings of distress". Social Psychology of Education 26.6 (2023): 1759-1787.
-- `[Bhayani et al., 2021]` Bhayani, Ali. "Let students pay for their higher education: Debate concerning free and subsidized education based on sunk cost theory." Journal of Philanthropy and Marketing 26.4 (2021): e1700.
-- `[Clow, 2013]` Clow, Doug. "MOOCs and the funnel of participation." Proceedings of the third international conference on learning analytics and knowledge. 2013.
 - `[Goli et al., 2022]`
   Goli, Ali, Pradeep K. Chintagunta, and S. Sriram.
   "Effects of payment on user engagement in online courses."
@@ -130,7 +73,5 @@ You can read these in
   empirical evidence from public colleges in Georgia, USA."
   International Journal of Education Economics and Development 10.1
   (2019): 1-21.
-- `[Howarth et al., 2016]` Howarth, Jason Paul, et al. "Learner motivation for MOOC registration and the role of MOOCs as a university ‘taster’." International Journal of Lifelong Education 35.1 (2016): 74-85.
-- `[Ketel et al., 2016]` Ketel, Nadine, et al. "Tuition fees and sunk‐cost effects." The Economic Journal 126.598 (2016): 2342-2362.
 
 <!-- markdownlint-enable MD013 -->
