@@ -14,7 +14,7 @@ tags:
     This opinion piece is a work in progress and will change.
 
 NBIS Training intends to start charging a course fee of 1000 SEK
-for online teaching.
+for online teaching (until now, these have been free of charge).
 This should help the teachers of those courses that reject some of the
 (too) many applicants: it should help assure that the people that
 are accepted into the course do indeed show up. Also, this is more just
@@ -62,27 +62,44 @@ Learners  |Those that are rejected by a course, where in hindsight, there was an
 I conclude that introducing a flat course fee for online courses is
 **a solution to some and a hindrance to most**.
 
-The most elegant way to deal with this problem is to **estimate**
-how many registered learners actually show up.
+**Support for a flat course fee for online courses appears mixed**:
+when asking NBIS staff about this,
+around half support the idea,
+where all staff of other (online) course providers
+are (sometimes fiercely) against it.
+The sample size is too small, however, to extrapolate these conclusions.
+The anonymized and aggregated responses can be found in
+[appendix 2](appendix_2.md) (for NBIS staff) and [appendix 3](appendix_3.md)
+(for non-NBIS staff).
+
+**There are many alternative solutions given**:
+both NBIS and non-NBIS staff suggested alternative solutions,
+again, see 
+[appendix 2](appendix_2.md) (for NBIS staff) and [appendix 3](appendix_3.md)
+(for non-NBIS staff).
+
+**The most elegant and widely applied solution is to estimate**,
+i.e. to **estimate** how many registered learners actually show up
+and plan accordingly.
 From such an estimate, one can over-accept participants,
 knowing that some will not show up.
-For example, within NAISS, we know that each 3 registrations equal
-1 person attending the course.
+For example, within NAISS (another online course provider,
+involved in supercomputing), we know that each 3 registrations equal
+1 person attending the course (with a
+detailed overview shown in [appendix 1](appendix_1.md)).
 This solution is elegant, as there is no money,
 nor administrative machinery involved: there is only the uncertainty
 one expects from working with humans with a private life.
+It seems, however, they do have no choice: as
+govenmental non-profit organisations (both NAISS and some others I asked)
+are not allowed to introduce a course fee. 
 
+**This solution can be used to weed out smaller courses too**:
 If the real problem solved is a too large amount of too small courses,
 i.e. management sees these small courses as cost-ineffective, then
 here, too, there are more elegant solutions, such as making decisions
 based on the **estimated** amount of how many registered learners
 actually show up.
-
-The alternative solution, i.e. to **estimate** the amount of actual participants
-from the number of registrations, is a solution used by other
-course providers. It seems, however, they do have no choice: as
-govenmental non-profit organisations they are not allowed to introduce
-a course fee. 
 
 I already concluded that introducing a flat course fee for online courses is
 **a solution to some and a hindrance to most**.
