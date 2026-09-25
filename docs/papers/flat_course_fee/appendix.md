@@ -20,7 +20,7 @@ shown in [appendix 1](appendix_1.md)
 ## The effect of management
 
 The idea coming from management has an effect,
-which is decribed in [Appendix 6: the effect of management](appendix_6.md)
+which is described in [Appendix 6: the effect of management](appendix_6.md)
 
 ## Insights from the academic literature
 

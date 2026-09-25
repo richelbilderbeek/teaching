@@ -36,7 +36,7 @@ Courses taught to a small pool of potential
 participants (e.g. highly specialized topics) expect
 to be cancelled more often, due to lack of participants.
 A big group of people that are disadvantaged are the participants
-that do show up after registration and do engange in a course:
+that do show up after registration and do engage in a course:
 there were not part of the problem, but are now hindered by the solution.
 Also, it will introduce injustice to the accepted participants
 that need to cancel for reasons we think are valid,
@@ -54,7 +54,7 @@ a flat course fee:
 Group     |Winners                                                                                             |Losers
 ----------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------
 Management|Those that want big cost-effective course                                                           |Those that think education should be free, those that think highly-specialized small courses should exist
-Teachers  |Those that need to reject applicants to their courses, those that have problems arranging assistants|Those that teach courses that are below capacity, those that have the pedagic tools and/or assistants to teach bigger groups
+Teachers  |Those that need to reject applicants to their courses, those that have problems arranging assistants|Those that teach courses that are below capacity, those that have the pedagogic tools and/or assistants to teach bigger groups
 Teachers  |Those that want more engagement of participants                                                     |Those that see the amount of engagement as a given (and hence, their own problem)
 Learners  |Those that are rejected by a course, where in hindsight, there was an open spot                     |Those that show up in a course, those that rightfully need to cancel a course
 
@@ -97,7 +97,7 @@ This solution is elegant, as there is no money,
 nor administrative machinery involved: there is only the uncertainty
 one expects from working with humans with a private life.
 It seems, however, they do have no choice: as
-govenmental non-profit organisations (both NAISS and some others I asked)
+governmental non-profit organisations (both NAISS and some others I asked)
 are not allowed to introduce a course fee.
 
 **This solution can be used to weed out smaller courses too**:
@@ -109,7 +109,7 @@ actually show up.
 
 I already concluded that introducing a flat course fee for online courses is
 **a solution to some and a hindrance to most**.
-I know embracing the encertainty of working with humans
+I know embracing the uncertainty of working with humans
 is a more elegant and *humane* solution.
 Hence, I suggest to **keep online courses free of charge**.
 
