@@ -28,7 +28,7 @@ Also, from a management perspective,
 introducing a course fee is an effective mechanism to weed out smaller
 (hence, less cost-effective) courses.
 
-**For most, this will be hindrance**:
+**For most, this will be a hindrance**:
 teachers of courses that have no problem accepting all
 participants, suddenly have a problem: they expect a lower
 number of (applications and) participants.
