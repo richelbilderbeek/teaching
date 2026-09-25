@@ -5,7 +5,6 @@ but it informative about the background from which it was written.
 
 ## My assumptions about NBIS Training
 
-
 ## Addressing my biases
 
 On a more personal note: I am biased, as I care deeply about teaching
