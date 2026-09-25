@@ -50,12 +50,12 @@ a flat course fee:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Group     |Winners                                                                        |Losers
-----------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------
-Management|Those that want big cost-effective course                                      |Those that think education should be free, those that think highly-specialized small courses should exist
-Teachers  |Those that need to reject applicants to their courses                          |Those that teach courses that are below capacity, those that have the pedagic tools and/or assistants to teach bigger groups
-Teachers  |Those that want more engagement of participants                                |Those that see the amount of engagement as a given (and hence, their own problem)
-Learners  |Those that are rejected by a course, where in hindsight, there was an open spot|Those that show up in a course, those that rightfully need to cancel a course
+Group     |Winners                                                                                             |Losers
+----------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------
+Management|Those that want big cost-effective course                                                           |Those that think education should be free, those that think highly-specialized small courses should exist
+Teachers  |Those that need to reject applicants to their courses, those that have problems arranging assistants|Those that teach courses that are below capacity, those that have the pedagic tools and/or assistants to teach bigger groups
+Teachers  |Those that want more engagement of participants                                                     |Those that see the amount of engagement as a given (and hence, their own problem)
+Learners  |Those that are rejected by a course, where in hindsight, there was an open spot                     |Those that show up in a course, those that rightfully need to cancel a course
 
 <!-- markdownlint-enable MD013 -->
 
