@@ -113,6 +113,11 @@ I know embracing the uncertainty of working with humans
 is a more elegant and *humane* solution.
 Hence, I suggest to **keep online courses free of charge**.
 
+## Survey
+
+You are encouraged to share your thoughts
+[in this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeYP3l2UhKt-smzXXsoaalVXXeNsW09fGhkKU1ef5VRMMlVMg/viewform?usp=publish-editor).
+
 ## Appendices
 
 - [Appendix](appendix.md): general overview of all appendices
