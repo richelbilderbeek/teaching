@@ -10,7 +10,7 @@ In that regard, I think I did well:
 - I typically respond first to a post on Zoom or Slack
 - I prepare calling for a teacher, by -after reading the post from a learner-
   also look up the room where the teacher needs to go
-- I let the teachers have their autority, e.g. I asked what they wanted me
+- I let the teachers have their authority, e.g. I asked what they wanted me
   to do (instead of me suggesting what I needed to do)
 - I encouraged the teachers to give technical questions to me (so
   that they can focus on teaching epigenomics)
