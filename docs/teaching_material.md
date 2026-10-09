@@ -19,7 +19,7 @@ My teaching material.
 - 🇬🇧 [Laser cutter course](https://richelbilderbeek.github.io/laser_cutter_guide/)
 - 🇸🇪 [Lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
 - 🇬🇧 [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
-- 🇸🇪 [OpenSCAD kurs](https://richelbilderbeek.github.io/openscad_kurs/books/)
+- 🇸🇪 [OpenSCAD kurs](https://uppsala-makerspace.github.io/openscad_kurs/books/)
 - 🇸🇪 [Processing för ungdomar](https://richelbilderbeek.github.io/processing_foer_ungdomar/)
 - 🇳🇱 [Processing voor jonge tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners)
 - 🇬🇧 [UPPMAX Intro to AWK](https://uppmax.github.io/awk_course/)

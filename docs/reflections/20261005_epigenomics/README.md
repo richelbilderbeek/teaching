@@ -25,4 +25,12 @@ Matthews, Michael T., and Stephen C. Yanchar.
 for learning." Journal of Computing in Higher Education 30.1 (2018): 111-124.
 [DOI to paper](https://doi.org/10.1007/s12528-018-9175-3).
 
+After some fresh reading, I changed to this paper:
+
+Matteucci, M.C., Guglielmi, D. & Lauermann, F.
+Teachers’ sense of responsibility for educational outcomes
+and its associations with teachers’ instructional approaches
+and professional wellbeing. Soc Psychol Educ 20, 275–298 (2017).
+[DOI](https://doi.org/10.1007/s11218-017-9369-y)
+
 
