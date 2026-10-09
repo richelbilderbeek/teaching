@@ -14,5 +14,7 @@ Date      |Description                    |Reflection
 2026-01-22|RSE Tools                      |[Reflection](20260122_rse_tools/README.md)
 2026-02-02|NAISS Intro Week 2026 February |[Reflection](202602_naiss_intro_week/README.md)
 2026-09-07|Biostatistics for Life sciences|[Reflection](20260907/README.md)
+2026-10-05|Epigenomics data analysis      |[Reflection](20261005_epigenomics/README.md)
+
 
 <!-- markdownlint-enable MD013 -->

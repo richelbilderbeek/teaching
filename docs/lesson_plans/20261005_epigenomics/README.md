@@ -1,4 +1,8 @@
-# Epigenomics course
+# Epigenomics course lesson plan
+
+- [Lesson plan](../../lesson_plans/20261005_epigenomics/README.md)
+- [Reflection](../../reflections/20261005_epigenomics/README.md)
+
 
 - Pelle project folder: `/gorilla/proj/epi2026/`
 
