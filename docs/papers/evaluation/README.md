@@ -118,7 +118,6 @@ are used.
 
 See `[Martínez-Gómez, 2011]`.
 
-
 ## Alternatives: use an observation and evaluation tool
 
 E.g. the POET-O observation and evaluation tool `[Jia et al., 2025]`:
