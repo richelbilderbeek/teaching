@@ -22,7 +22,7 @@ rushed.
     - [X] How does the website work?
     - [ ] What is the course goal?
     - [X] How to participate?
-- 9:08: interesting, exercises from 15:00 onwards
+- 9:08: interesting, exercises from 15:00 onward
   without teachers.
 - 9:14 questions. About Canvas
 - 9:17 start lecture
@@ -61,9 +61,6 @@ rushed.
 - 9:06 first question
 - 9:09 start lecture
 - 10:02 end of lecture, first question
-
-<https://status.uppmax.uu.se/2026-10-07/2026-10-05-october-maintenance/>
-
 - 10:07 Third question
 - 10:08 Fourth question
 - 10:12 thanks for answer of fourth question
@@ -75,7 +72,7 @@ rushed.
 - 10:32 6 learners in main room
 - 10:37 1 learner in the room
 - 10:49 Teacher in first BO room
-- 11:03 Teacher back in main toom
+- 11:03 Teacher back in main room
 - 13:00 start lecture
 - 13:07 ask for questions, none
 - 13:14 ask for questions, none

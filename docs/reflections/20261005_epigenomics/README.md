@@ -32,3 +32,4 @@ Teachers’ sense of responsibility for educational outcomes
 and its associations with teachers’ instructional approaches
 and professional wellbeing. Soc Psychol Educ 20, 275–298 (2017).
 [DOI](https://doi.org/10.1007/s11218-017-9369-y)
+
