@@ -19,7 +19,7 @@ In that regard, I think I did well:
 
 An interesting viewpoint I encountered was that the learners are the sole
 responsible for their own learning, i.e. a teacher does not need to motivate
-them. To explore this view, next SLL TLC we will read 
+them. To explore this view, next SLL TLC we will read
 Matthews, Michael T., and Stephen C. Yanchar.
 "Instructional designers’ perspectives on learners’ responsibility
 for learning." Journal of Computing in Higher Education 30.1 (2018): 111-124.
@@ -32,5 +32,3 @@ Teachers’ sense of responsibility for educational outcomes
 and its associations with teachers’ instructional approaches
 and professional wellbeing. Soc Psychol Educ 20, 275–298 (2017).
 [DOI](https://doi.org/10.1007/s11218-017-9369-y)
-
-

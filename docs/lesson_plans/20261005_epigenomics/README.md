@@ -3,7 +3,6 @@
 - [Lesson plan](../../lesson_plans/20261005_epigenomics/README.md)
 - [Reflection](../../reflections/20261005_epigenomics/README.md)
 
-
 - Pelle project folder: `/gorilla/proj/epi2026/`
 
 I can login and create files on Pelle.
@@ -17,20 +16,19 @@ rushed.
 
 ## 2026-10-05
 
-
 - 8:30 I arrived
 - 8:47 1st other TA arrived
 - 9:02 start lecture, people 23
-  - [X] How does the website work?
-  - [ ] What is the course goal?
-  - [X] How to participate?
+    - [X] How does the website work?
+    - [ ] What is the course goal?
+    - [X] How to participate?
 - 9:08: interesting, exercises from 15:00 onwards
   without teachers.
 - 9:14 questions. About Canvas
 - 9:17 start lecture
-  - [ ] What is the lecture goal?
+    - [ ] What is the lecture goal?
 - 9:45 QC, people 24 people
-  - Gender check -> sex-at-birth check
+    - Gender check -> sex-at-birth check
 - 9:55 start DMPs. 24 people
 - 10:02 intro start exercises
 - 10:05 start exercise
@@ -43,7 +41,7 @@ rushed.
 ## 2026-10-06
 
 - 8:20 I arrived, 1 learner present
-- 8:25 a 2nd learner came in 
+- 8:25 a 2nd learner came in
 - 8:55 10
 - 9:01 15
 - 9:09
@@ -64,12 +62,12 @@ rushed.
 - 9:09 start lecture
 - 10:02 end of lecture, first question
 
-https://status.uppmax.uu.se/2026-10-07/2026-10-05-october-maintenance/
+<https://status.uppmax.uu.se/2026-10-07/2026-10-05-october-maintenance/>
 
 - 10:07 Third question
 - 10:08 Fourth question
 - 10:12 thanks for answer of fourth question
-- 10:13 fifth question 
+- 10:13 fifth question
 - 10:15 remark by side teacher
 - 10:16 addition by teacher
 - 10:17 start break
@@ -98,9 +96,3 @@ https://status.uppmax.uu.se/2026-10-07/2026-10-05-october-maintenance/
 - 9:13 question ended, start lecture
 - 9:37 'I think this was a lot of information', start of ending lecture
 - 9:40 introduce exercises, ask for questions
-
-
-
-
-
-

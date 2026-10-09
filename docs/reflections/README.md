@@ -16,5 +16,4 @@ Date      |Description                    |Reflection
 2026-09-07|Biostatistics for Life sciences|[Reflection](20260907/README.md)
 2026-10-05|Epigenomics data analysis      |[Reflection](20261005_epigenomics/README.md)
 
-
 <!-- markdownlint-enable MD013 -->
