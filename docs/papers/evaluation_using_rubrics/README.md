@@ -21,49 +21,6 @@ checklists of what good teaching is.
 
 What are the checklists available?
 
-## `[Fernandez and Mateo, 1992]`
-
-`[Fernandez and Mateo, 1992]` checked many survey questions
-and how these questions correlated to two dimensions
-of teaching (teaching competence demonstrated and motivational skills).
-The value is the rightmost value in table 2a, which is for university
-level schooling
-
-F1   |Description
------|-------------------------------------------------------------------------
-0.906|Explains the content of each subject coherently
-0.902|Explains clearly
-0.892|Comparative mark for the teacher as against others (same year)
-0.892|His/her explanations held my attention in class
-0.881|His/her way of teaching helps in the understanding of the subject matter
-0.831|Shows him/herself competent in the content of the course given.
-0.856|Reflects the usefulness of the class content explained.
-0.795|Shows adequate previous preparation for the class.
-0.846|Thanks to what I have learned I feel a greater interest for this area.
-0.826|Establishes an adequate interrelation between the different subjects.
-0.864|Arouses students' interest in the subject.
-0.804|I would like to follow another course again with this teacher.
-0.852|Answers questions accurately`
-0.848|Secures students' attention for the subject matter explained
-0.781|Shows enthusiasm for the class content explained.
-0.736|Alludes to the implications of different viewpoints.
-
-- `F1` = teaching skill demonstrated
-
-F2   |Description
------|---------------------------------------------------------------------
-0.903|Encourages the expression of the students' own ideas.
-0.888|Shows him/herself accessible in his/her relationship with students
-0.872|Motivates students to ask about any doubts.
-0.835|Stimulates student participation in class.
-0.854|Shows interest in the concerns of each student.
-0.807|Takes students' valuable ideas into consideration.
-
-- `F2` = motivational skill demonstrated
-
-See `[Marsh, 1984]` for a paper where 9 dimensions of teacher quality
-are used.
-
 ## POET-O by `[Jia et al., 2025]`
 
 E.g. the POET-O observation and evaluation tool `[Jia et al., 2025]`:
