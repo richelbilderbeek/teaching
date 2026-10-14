@@ -19,12 +19,12 @@ Intermediate|6         |2026-05-22 |16        |4         |25%
 
 At 2026-10-14 this will be the new communication strategy:
 
-Email text                                |When                     |What should be in the email                                     |Goal of email
-------------------------------------------|-------------------------|----------------------------------------------------------------|----------------------------------------------------------------------
-[Email text](registration_confirmation.md)|Short after registration |Confirmation, event value, date/time in local zone, calendar add|Early contact closes the commitment gap `[Abdolrasulnia et al., 2004]`
-[Email text](reminder_1_week.md)          |1 week before session    |Simple reminder to prepare                                      |Learners need to be prepared
-[Email text](reminder_1_day.md)           |1 day before session     |Simple reminder with link and clear message what to do          |Most webinar users prefer this timing  `[Almuzian et al, 2022]`
-[Email text](reminder_1_hour.md)          |1 hour before session    |Very short reminder with join link                              |Many users want a last-minute prompt  `[Almuzian et al, 2022]`
+When                     |What should be in the email                                     |Goal of email
+-------------------------|----------------------------------------------------------------|----------------------------------------------------------------------
+Short after registration |Confirmation, event value, date/time in local zone, calendar add|Early contact closes the commitment gap `[Abdolrasulnia et al., 2004]`
+1 week before session    |Simple reminder to prepare                                      |Learners need to be prepared
+1 day before session     |Simple reminder with link and clear message what to do          |Most webinar users prefer this timing  `[Almuzian et al, 2022]`
+1 hour before session    |Very short reminder with join link                              |Many users want a last-minute prompt  `[Almuzian et al, 2022]`
 
 We will keep track of attendance rate
 
