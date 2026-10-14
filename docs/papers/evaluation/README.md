@@ -125,7 +125,7 @@ E.g. the POET-O observation and evaluation tool `[Jia et al., 2025]`:
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 No.|Theme                       |Facet
----|----------------------------|-----------------------------------|
+---|----------------------------|-----------------------------------
 1  |Presentation and Activities |The lesson and learning activities are well organized
 2  |.                           |Planned student activities reflect appropriate lesson objectives
 3  |.                           |Depth and breadth of material presented appears appropriate to type of course, student level, and time dedicated to the topic
