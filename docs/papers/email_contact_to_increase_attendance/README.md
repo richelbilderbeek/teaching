@@ -1,39 +1,42 @@
 # Email contact to increase attendance
 
-Prompt to Consensus:
+Research question: can increase email contact increase attendance for free
+online courses?
 
-> I am looking for ways to to increase the amount of participants actually showing up for free online training after registration. I understood that an increased amount of emails (e.g. reminders) helps do so. How and when to send which email? Are there evidence-based cases where the optimal emailing strategy is found?
+## Experiment 1: Bianca intermediate
 
-Answer by Consensus:
+At 2026-10-14 this will be the new communication strategy:
 
-> Reminder emails do increase show-up or participation,
-> but the evidence does not support one universal optimal schedule
-> for free online training;
-> the best-supported pattern is to start reminders soon after registration,
-> send 2-3 reminders, keep them simple,
-> and tailor timing and content to the audience and channel
+Email text                                |When                     |What should be in the email                                     |Goal of email
+------------------------------------------|-------------------------|----------------------------------------------------------------|----------------------------------------------------------------------
+[Email text](registration_confirmation.md)|Short after registration |Confirmation, event value, date/time in local zone, calendar add|Early contact closes the commitment gap `[Abdolrasulnia et al., 2004]`
+[Email text](reminder_1_week.md)          |1 week before session    |Simple reminder to prepare                                      |Learners need to be prepared
+[Email text](reminder_1_day.md)           |1 day before session     |Simple reminder with link and clear message what to do          |Most webinar users prefer this timing  `[Almuzian et al, 2022]`
+[Email text](reminder_1_hour.md)          |1 hour before session    |Very short reminder with join link                              |Many users want a last-minute prompt  `[Almuzian et al, 2022]`
 
-My interpretation of the rest:
+## Experiment 2: HPC Python 
 
-- Send an email short after registration
-- Send an email a week before
-- Send an email 1 day before
-- Send an email 1 hour before
+Have we ever seen an effect?
 
-Content of the email:
+Checking
+[the 'HPC Python Day 1' communication](https://uppmax.github.io/naiss_intro_python/communication/)
+and [the 'HPC Python Day 1' data](https://uppmax.github.io/naiss_intro_python/data/)
+we see:
 
-- date
-- time
-- link
-- action
+No |Date      |Strategy|Registrations|Participants|Attendance
+---|----------|--------|-------------|------------|----------
+3  |2025-03-04|B       |67           |16          |24%
+5  |2025-10-14|B       |30           |12          |40%
+6  |2025-11-27|A       |42           |8           |19%
+7  |2026-03-03|B       |57           |19          |33%
+8  |2026-04-20|A       |50           |19          |38%
 
-Ah, a Consensus table:
+- Strategy `A`: sufficient
+- Strategy `B`: more effort
 
-Touchpoint                    |Best-supported content                                          |Why
-------------------------------|----------------------------------------------------------------|---------------------------------------------------------------
-Right after registration      |Confirmation, event value, date/time in local zone, calendar add|Early contact closes the commitment gap `[Abdolrasulnia et al., 2004]`
-1 day before                  |Simple reminder with link and clear CTA                         |Most webinar users prefer this timing  `[Almuzian et al, 2022]`
-1 hour before                 |Very short reminder with join link                              |Many users want a last-minute prompt  `[Almuzian et al, 2022]`
+The data, being very limited, shows no significant difference:
+
+![Participation rates](participation_rates.svg)
 
 ## References
 
