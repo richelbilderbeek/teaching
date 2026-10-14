@@ -28,7 +28,7 @@ Email text                                |When                     |What should
 
 We will keep track of attendance rate
 
-## Experiment 2: HPC Python 
+## Experiment 2: HPC Python
 
 Have we ever seen an effect?
 
