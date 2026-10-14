@@ -5,6 +5,18 @@ online courses?
 
 ## Experiment 1: Bianca intermediate
 
+From [the 'Bianca course' data](https://uppmax.github.io/bianca_workshops/data/),
+focusing on the intermediate course, we see:
+
+Course      |Iteration |Course date|Registered|Showing up|Attendance
+------------|----------|-----------|----------|----------|----------
+Intermediate|1         |2023-12-11 |?         |12        |.
+Intermediate|2         |2024-05-24 |?         |5         |.
+Intermediate|3         |2024-11-11 |?         |6         |.
+Intermediate|4         |2025-05-22 |3         |3         |100%
+Intermediate|5         |2025-11-18 |7         |2         |29%
+Intermediate|6         |2026-05-22 |16        |4         |25%
+
 At 2026-10-14 this will be the new communication strategy:
 
 Email text                                |When                     |What should be in the email                                     |Goal of email
@@ -13,6 +25,8 @@ Email text                                |When                     |What should
 [Email text](reminder_1_week.md)          |1 week before session    |Simple reminder to prepare                                      |Learners need to be prepared
 [Email text](reminder_1_day.md)           |1 day before session     |Simple reminder with link and clear message what to do          |Most webinar users prefer this timing  `[Almuzian et al, 2022]`
 [Email text](reminder_1_hour.md)          |1 hour before session    |Very short reminder with join link                              |Many users want a last-minute prompt  `[Almuzian et al, 2022]`
+
+We will keep track of attendance rate
 
 ## Experiment 2: HPC Python 
 
