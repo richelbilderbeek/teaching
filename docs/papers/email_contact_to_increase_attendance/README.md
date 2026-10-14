@@ -38,4 +38,4 @@ Right after registration      |Confirmation, event value, date/time in local zon
 ## References
 
 - `[Abdolrasulnia et al., 2004]` Abdolrasulnia, M., Collins, B. C., Casebeer, L., Wall, T., Spettell, C., Ray, M. N., Weissman, N., Allison, J., C., E., Edu, C., Edu, N. W., & Allison, J. Bmc Medical Education Using Email Reminders to Engage Physicians in an Internet-based Cme Intervention.
-- `[Almuzian et al, 2022]` Almuzian, M., Mheissen, S., Wertheimer, M., & Khan, H. (2022). Global survey to assess preferences for attending virtual orthodontic learning sessions: Pre-webinar settings. Journal of Orthodontics, 50, 157 - 165. https://doi.org/10.1177/14653125221124622
+- `[Almuzian et al, 2022]` Almuzian, M., Mheissen, S., Wertheimer, M., & Khan, H. (2022). Global survey to assess preferences for attending virtual orthodontic learning sessions: Pre-webinar settings. Journal of Orthodontics, 50, 157 - 165. <https://doi.org/10.1177/14653125221124622>
