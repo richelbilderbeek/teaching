@@ -61,7 +61,6 @@ No.|Theme                       |Facet
 30 |.                           |Instructor uses active learning techniques
 31 |.                           |Instructor treats students respectfully, offering encouragement in public ways and does not criticize student publicly
 32 |.                           |Instructor utilizes diverse methods of instruction to accommodate all learners
-32 |.                           |Instructor utilizes diverse methods of instruction to accommodate all learners
 
 <!-- markdownlint-enable MD013 -->
 
