@@ -35,7 +35,7 @@ My teaching material.
 - 🇬🇧 [NAISS Python for HPC](https://uppmax.github.io/HPC-python/)
 - 🇬🇧 [NAISS Bianca workshop](https://uppmax.github.io/bianca_workshops/)
 - 🇬🇧 [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms)
-- 🇬🇧 [R, MATLAB and Julia for HPC](https://github.com/UPPMAX/R-matlab-julia-HPC)
+- 🇬🇧 [R, MATLAB and Julia for HPC](https://gitlab.naiss.se/hpc/training/R-matlab-julia-HPC)
 - 🇬🇧 [UPPMAX Intro to UPPMAX](https://uppmax.github.io/uppmax_intro_day_1/)
 
 ## Books I wrote
