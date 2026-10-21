@@ -17,7 +17,7 @@ My teaching material.
 - 🇳🇱 [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
 - 🇬🇧 [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
 - 🇬🇧 [Intro to R](https://richelbilderbeek.github.io/intro_r_course/)
-- 🇬🇧 [Laser cutter course](https://richelbilderbeek.github.io/laser_cutter_guide/)
+- 🇬🇧 [Laser cutter course](https://uppsala-makerspace.github.io/laser_cutter_guide/)
 - 🇸🇪 [Lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
 - 🇬🇧 [Mermaid](https://github.com/richelbilderbeek/lesson_mermaid)
 - 🇸🇪 [OpenSCAD kurs](https://uppsala-makerspace.github.io/openscad_kurs/books/)
