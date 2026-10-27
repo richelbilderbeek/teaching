@@ -6,6 +6,7 @@ parallelized
 Parasuram
 TLO
 Abdolrasulnia
+Amdahl's
 Almuzian
 Bmc
 Casebeer
