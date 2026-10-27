@@ -32,7 +32,7 @@ My teaching material.
 - 🇬🇧 [NAISS File Transfer 101](https://hpc.pages.naiss.se/training/connect-transfer/)
 - 🇬🇧 [NAISS File Transfer 102](https://hpc.pages.naiss.se/training/transfer-102/)
 - 🇬🇧 [NAISS Command Line 102](https://uppmax.github.io/linux-command-line-102)
-- 🇬🇧 [NAISS Python for HPC](https://uppmax.github.io/HPC-python/)
+- 🇬🇧 [NAISS Python for HPC](https://gitlab.naiss.se/hpc/training/HPC-python)
 - 🇬🇧 [NAISS Bianca workshop](https://uppmax.github.io/bianca_workshops/)
 - 🇬🇧 [Programming Formalisms](https://github.com/UPPMAX/programming_formalisms)
 - 🇬🇧 [R, MATLAB and Julia for HPC](https://gitlab.naiss.se/hpc/training/R-matlab-julia-HPC)
