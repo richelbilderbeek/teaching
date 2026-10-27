@@ -13,6 +13,7 @@ My teaching material.
 - 🇬🇧 [3D printing course](https://richelbilderbeek.github.io/3d_skrivningskurs/#__tabbed_1_2)
 - 🇳🇱 [Arduino voor jonge tieners](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
 - 🇸🇪 [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
+- 🇳🇱 [Programmeren in C++ voor beginners](https://github.com/richelbilderbeek/ProgrammerenInCppVoorBeginnersMetCppBuilder)
 - 🇬🇧 [Create a plot using `ggplot2`](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/)
 - 🇳🇱 [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
 - 🇬🇧 [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
