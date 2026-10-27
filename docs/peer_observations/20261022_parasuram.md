@@ -1,7 +1,7 @@
 # Notes from the Parallel computation course – 2026-10-22
 
 Events:
-Intro about the participant   Schedule/agenda  Stage setting (background/basic check)  Terminology  Motivation for topic of the day  Hand calc. of speedup  connection with Amdahl’s law ….
+Intro about the participant   Schedule/agenda  Stage setting (background/basic check)  Terminology  Motivation for topic of the day  Hand calc. of speedup  connection with Amdahl's law ….
 
 Obs:
 
