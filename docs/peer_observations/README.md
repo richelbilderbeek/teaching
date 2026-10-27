@@ -18,6 +18,7 @@ When       | Observee        | Observer     | Observation text
 2026-01-19 | Me              | Stephan      | [Text file](https://uppmax.github.io/uppmax_intro_day_1/evaluations/20260119/observation.txt)
 2026-03-03 | Me              | Jill         | [Text file](20260303_jill.txt)
 2026-03-12 | Erik and Stephan| Me           | On paper only
+2026-10-22 | Me              | Parasuram    | [Notes](20261022_parasuram.md)
 
 <!-- markdownlint-enable MD013 -->
 
