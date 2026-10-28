@@ -61,7 +61,7 @@ No |Date      |Registered|Present and active |Evaluated
 ---|----------|----------|-------------------|-------------
 1  |2026-05-11|14        |3 (21%)            |3 (100%)
 
-### [Linux Command Line 102](https://uppmax.github.io/linux-command-line-102/data/#amounts__of__learners)
+### [Linux Command Line 102](https://hpc.pages.naiss.se/training/linux-command-line-102/data/#amounts__of__learners)
 
 No |Dates                    |`n_reg`|`n_learn` | `n_eval`
 ---|-------------------------|-------|----------|-----------
