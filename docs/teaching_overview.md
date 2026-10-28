@@ -12,6 +12,17 @@ Here you can find my lesson plans, evaluations and reflections.
 
 Most recent at the top.
 
+???- question "Dates with pencil"
+
+    From [this NAISS planning document](https://nextcloud.naiss.se/s/R3EyT6WnF94XRgt):
+
+    - 8-12 Feb: NAISS intro week
+    - 19 Mar: File Transfer 102
+    - 19-23 Apr: HPC-Python
+    - 10-14 May: Programming formalisms
+    - 21 May: Arrhenius sens interm
+    - 24-28 May: NAISS introweek
+
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 **When**    | **Organisation**            | **What**                                                                                                                 | **Lesson plan**                                                                                                     | **Evaluation**                                                                                                                                                                                                                    | **Reflection**
