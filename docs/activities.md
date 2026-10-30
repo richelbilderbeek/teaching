@@ -45,21 +45,21 @@ Language|Course homepage                                                        
 
 Who      | When       | Report
 ---------|------------|--------------------------------------------------------------------
-Felix    | 2024-04-17 | [Report](https://richelbilderbeek.github.io/prao_felix_20240417)
-Emil     | 2024-06-03 | [Report](https://richelbilderbeek.github.io/prao_emil_20240603)
-Frans    | 2024-11-14 | [Report](https://richelbilderbeek.github.io/prao_frans_20241114)
-Jonathan | 2024-11-26 | [Report](https://richelbilderbeek.github.io/prao_jonatan_20241126)
-Noah     | 2025-04-09 | [Report](https://richelbilderbeek.github.io/prao_noah_20250409)
-Johannes | 2025-11-07 | [Report](https://richelbilderbeek.github.io/prao_johannes_20251107)
-Signe    | 2025-11-07 | [Report](https://richelbilderbeek.github.io/prao_signe_20251107)
-Max      | 2025-11-21 | [Report](https://richelbilderbeek.github.io/prao_max_20251121)
-Olle     | 2025-11-12 | [Report](https://richelbilderbeek.github.io/prao_olle_20251112)
-Roza     | 2025-11-26 | [Report](https://richelbilderbeek.github.io/prao_roza_20251126)
-Emil     | 2026-03-20 | [Report](https://richelbilderbeek.github.io/prao_emil_20260320)
-Julian   | 2026-03-20 | [Report](https://richelbilderbeek.github.io/prao_julian_20260320)
-Wilmer   | 2026-04-13 | [Report](https://richelbilderbeek.github.io/prao_wilmer_20260413)
-Ada      | 2026-11-06 | [Report](https://richelbilderbeek.github.io/prao_ada_20261106/)
-Melker   | 2026-11-09 | [Report](https://richelbilderbeek.github.io/prao_melker_20261109)
+Felix    | 2024-04-17 | [Report](https://github.com/richelbilderbeek/prao_felix_20240417)
+Emil     | 2024-06-03 | [Report](https://github.com/richelbilderbeek/prao_emil_20240603)
+Frans    | 2024-11-14 | [Report](https://github.com/richelbilderbeek/prao_frans_20241114)
+Jonathan | 2024-11-26 | [Report](https://github.com/richelbilderbeek/prao_jonatan_20241126)
+Noah     | 2025-04-09 | [Report](https://github.com/richelbilderbeek/prao_noah_20250409)
+Johannes | 2025-11-07 | [Report](https://github.com/richelbilderbeek/prao_johannes_20251107)
+Signe    | 2025-11-07 | [Report](https://github.com/richelbilderbeek/prao_signe_20251107)
+Max      | 2025-11-21 | [Report](https://github.com/richelbilderbeek/prao_max_20251121)
+Olle     | 2025-11-12 | [Report](https://github.com/richelbilderbeek/prao_olle_20251112)
+Roza     | 2025-11-26 | [Report](https://github.com/richelbilderbeek/prao_roza_20251126)
+Emil     | 2026-03-20 | [Report](https://github.com/richelbilderbeek/prao_emil_20260320)
+Julian   | 2026-03-20 | [Report](https://github.com/richelbilderbeek/prao_julian_20260320)
+Wilmer   | 2026-04-13 | [Report](https://github.com/richelbilderbeek/prao_wilmer_20260413)
+Ada      | 2026-11-09 | [Report](https://github.com/richelbilderbeek/prao_ada_20261106)
+Melker   | 2026-11-16 | [Report](https://github.com/richelbilderbeek/prao_melker_20261109)
 
 ## Conferences I visited
 
