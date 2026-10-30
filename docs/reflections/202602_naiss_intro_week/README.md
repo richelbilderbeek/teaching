@@ -35,13 +35,13 @@ Our learners will state this on the evaluations.
     Too short time to try things out                                               |Selecting software modules
     more exercises would have been nice                                            |Running jobs on clusters
     Would be nice to have some more hands-on activities                            |Running jobs on clusters
-    Sometimes a little more time might have been needed for the exercises          |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L29)
-    Most of lectures were rather fast, and not much time for exercises             |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L31)
-    It was good. I didn't finish all the exercises on on the time given            |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L35)
-    Generally good pace, sometimes a bit too fast (ex. 3min to try things yourself)|['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L38)
-    The pace was ok if one have some experience, otherwise probably a bit fast     |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L41)
-    The course materials are very good, though lectures were rather fast           |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L59)
-    I would suggest more time for doing exercises                                  |['Command Line 201' evaluation](https://github.com/UPPMAX/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L70)
+    Sometimes a little more time might have been needed for the exercises          |['Command Line 201' evaluation](https://gitlab.naiss.se/hpc/training/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L29)
+    Most of lectures were rather fast, and not much time for exercises             |['Command Line 201' evaluation](https://gitlab.naiss.se/hpc/training/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L31)
+    It was good. I didn't finish all the exercises on on the time given            |['Command Line 201' evaluation](https://gitlab.naiss.se/hpc/training/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L35)
+    Generally good pace, sometimes a bit too fast (ex. 3min to try things yourself)|['Command Line 201' evaluation](https://gitlab.naiss.se/hpc/training/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L38)
+    The pace was ok if one have some experience, otherwise probably a bit fast     |['Command Line 201' evaluation](https://gitlab.naiss.se/hpc/training/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L41)
+    The course materials are very good, though lectures were rather fast           |['Command Line 201' evaluation](https://gitlab.naiss.se/hpc/training/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L59)
+    I would suggest more time for doing exercises                                  |['Command Line 201' evaluation](https://gitlab.naiss.se/hpc/training/linux-command-line-102/blame/main/docs/evaluations/20260204/README.md#L70)
 
 However, some sessions ('Connect and File Transfer' and
 'Working with sensitive data')
