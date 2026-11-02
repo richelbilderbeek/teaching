@@ -1,6 +1,5 @@
 # AI tutors
 
-
 ## References
 
 - `[Kestin et al., 2025]`
