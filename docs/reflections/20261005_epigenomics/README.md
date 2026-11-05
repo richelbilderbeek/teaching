@@ -2,6 +2,7 @@
 
 - [Lesson plan](../../lesson_plans/20261005_epigenomics/README.md)
 - [Reflection](../../reflections/20261005_epigenomics/README.md)
+- [Rendered course website](https://nbisweden.github.io/workshop-epigenomics/)
 
 I have been a TA for 4 days in this course.
 I define that a good TA is there to help both the teachers and the learners.
@@ -32,3 +33,18 @@ Teachers’ sense of responsibility for educational outcomes
 and its associations with teachers’ instructional approaches
 and professional wellbeing. Soc Psychol Educ 20, 275–298 (2017).
 [DOI](https://doi.org/10.1007/s11218-017-9369-y)
+
+## After some time
+
+There were some other things that I wonder.
+
+- On Wednesday, there was a session from a guest teacher.
+  This session was a pure lecture, without any exercises.
+  After the lecture, there were exercises by that day's main
+  teacher. How useful was this guest session? To me it seemed to
+  take away course time.
+- On Thursday, there was a BIG Talk.
+  This session was a pure lecture, without any exercises.
+  After the lecture, there were exercises by that day's main
+  teacher. How useful was this BIG Talk? To me it seemed to
+  take away course time.
