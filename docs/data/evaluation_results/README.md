@@ -4,25 +4,29 @@
 
 I asked Google Gemini to go through all the evaluation results then summarize.
 
-???- question "What was the data?
+???- question "What was the data?"
 
     This is the raw data I uploaded:
 
     [`evaluation_comments_per_person.csv`](evaluation_comments_per_person.csv)
 
-???- question "What was the prompt?
+???- question "What was the prompt?"
 
     Prompt 1:
      
+    ```text
     Summarize what was said about Richel.
     Summarize these results in Markdown file that has two bulleted lists:
     one for praise and one criticism.
+    ```
 
     Prompt 2:
 
+    ```text
     Limit the Markdown file to 80 characters per line.
     Add a summary section about what people think about Richel
     Add a section about what to expect when you are in Richel's classroom.
+    ```
 
 Here is the summary about me:
 
