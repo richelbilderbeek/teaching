@@ -90,9 +90,6 @@ Energetic         |Enthusiastic, sometimes talks too fast
 
     !!! quote "Some positive quotes"
 
-
-
-
 ???- question "What is 'cold calling'?"
 
     Cold calling is, after asking a plenary question and giving
