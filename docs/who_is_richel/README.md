@@ -74,6 +74,25 @@ Energetic         |Enthusiastic, sometimes talks too fast
 
     > Evidence-based teaching cycle, from `[Bell, 2020]`
 
+???- question "People about my teaching style
+
+    Here I collect some positive and negative quotes on my teaching style
+
+    !!! quote "A course leader"
+
+        I have taken a few courses on [a topic]
+        here and there where I managed to get through without learning anything.
+        I think your approach is excellent, there is no way to escape into the
+        strategy 'this is difficult, I will just listen now and hope it will make
+        sense later on' - and later on realising that it is not
+        self-explanatory. I also think that it is an excellent approach for
+        beginners.
+
+    !!! quote "Some positive quotes"
+
+
+
+
 ???- question "What is 'cold calling'?"
 
     Cold calling is, after asking a plenary question and giving
