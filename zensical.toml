@@ -20,8 +20,6 @@ nav = [
     "reflections/README.md",
     "who_is_richel/README.md",
   ]},
-  
-
 ]
 
 [project.theme]
