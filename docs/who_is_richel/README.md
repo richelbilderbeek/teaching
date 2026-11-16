@@ -74,7 +74,7 @@ Energetic         |Enthusiastic, sometimes talks too fast
 
     > Evidence-based teaching cycle, from `[Bell, 2020]`
 
-???- question "People about my teaching style
+???- question "People about my teaching style"
 
     Here I collect some positive and negative quotes on my teaching style
 
