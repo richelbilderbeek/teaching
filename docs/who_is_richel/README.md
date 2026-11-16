@@ -80,15 +80,40 @@ Energetic         |Enthusiastic, sometimes talks too fast
 
     !!! quote "A course leader"
 
-        I have taken a few courses on [a topic]
-        here and there where I managed to get through without learning anything.
-        I think your approach is excellent, there is no way to escape into the
-        strategy 'this is difficult, I will just listen now and hope it will make
-        sense later on' - and later on realising that it is not
-        self-explanatory. I also think that it is an excellent approach for
-        beginners.
+        > I have taken a few courses on [a topic]
+        > here and there where I managed to get through without learning anything.
+        > I think your approach is excellent, there is no way to escape into the
+        > strategy 'this is difficult, I will just listen now and hope it will make
+        > sense later on' - and later on realising that it is not
+        > self-explanatory. I also think that it is an excellent approach for
+        > beginners.
+
+        [Email contact with course coordinator](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/reflections/20261013/#contact-with-course-coordinator)
 
     !!! quote "Some positive quotes"
+
+        > Use Richèl's teaching style for all topics. 
+
+        [Evaluation result](https://hpc.pages.naiss.se/training/HPC-python/evaluations/20260423_day_3/)
+      
+        > I liked Richel the most
+
+        [Evaluation result](https://hpc.pages.naiss.se/training/R-matlab-julia-HPC/reflections/20240312_richel/#teaching)
+
+    !!! quote "Some negative quotes"
+
+        > Very irritating teaching style in terms of the way we were spoken to,
+        > in my opinion.
+
+        [Evaluation result](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/reflections/20261013/#6-verbatim-student-submissions)
+
+        > I am not fond of the way Richel teaches (sorry - he is very nice).
+
+        [Evaluation result](https://hpc.pages.naiss.se/training/HPC-python/evaluations/20260423_day_3/)
+
+        >  Richel should have more advanced material, we are smarter than he thinks
+
+        [Evaluation result](https://hpc.pages.naiss.se/training/HPC-python/evaluations/20260424_day_4/)
 
 ???- question "What is 'cold calling'?"
 
