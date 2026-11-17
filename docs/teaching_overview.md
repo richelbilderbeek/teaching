@@ -19,6 +19,7 @@ Most recent at the top.
     - 20-22 Feb: UPPMAX intro week, teach on 20th
     - 8-12 Feb: NAISS intro week
     - 19 Mar: File Transfer 102
+    - ?April 13th-15th: data management, teach git
     - 19-23 Apr: HPC-Python
     - 10-14 May: Programming formalisms
     - 21 May: Arrhenius sens interm
