@@ -16,8 +16,8 @@ Most recent at the top.
 
     From [this NAISS planning document](https://nextcloud.naiss.se/s/R3EyT6WnF94XRgt):
 
-    - 20-22 Feb: UPPMAX intro week, teach on 20th
     - 8-12 Feb: NAISS intro week
+    - 20-22 Feb: UPPMAX intro week, teach on 20th
     - 19 Mar: File Transfer 102
     - April 15th: data management day 3: teach git
     - 19-23 Apr: HPC-Python
