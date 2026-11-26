@@ -1,0 +1,51 @@
+Publication,Subject and setting,Participants,Treatment,Steps,Duration,Posttest,ES
+"Anderson, Boyle, Corbett, and Lewis (1990); also Anderson, Corbett, Koedinger, and Pelletier (1995)","Geometry course, high school in Pittsburgh, PA, 1986–1987",5 classes,Geometry Tutor,SBT,1 quarter,Local,1.00
+Arbuckle (2005),"Algebra I, public schools, Edmond, OK, Grades 9–11, 2003–2004","111 students (83 T, 28 C)",Cognitive Tutor,SBT,10 weeks,Local,0.74
+"Arnott, Hastings, and Allbritton (2008)","Research methods, DePaul University, Winter 2007","125 students (73 T, 52 C)",Research Methods Tutor,SSBT,5 weeks,Local,0.60
+"Arroyo, Royer, and Woolf (2011)",Grades 7 and 8 math classes,"172 students (81 T, 91 C)",Wayang Outpost,SBT,4 days,Standardized,0.23
+R. K. Atkinson (2007),"Reading comprehension, 3 high schools, and technical center, Phoenix metro area, AZ, 2004–2006","159 students (139 T, 20 C)","Gradations, STAR, and Read On!",SBT,"8–12 weeks, about 36 hours",Standardized,0.25
+Burns (1993),"Arithmetic, public school, Westchester County, NY, Grade 3","56 students (19 T, 37 C)",MEADOW,SBT,"6 weeks, 1 20-minute session per week",Local,0.75
+Cabalo and Vu (2007),"Algebra I, 5 high schools and 1 community college, Maui, HI, 2005–2006","345 students (182 T, 163 C)",Cognitive Tutor Algebra I,SBT,6 months,Standardized,0.03
+"Campuzano, Dynarski, Agodini, and Rall (2009)","Algebra I, 11 schools in 4 districts, Grades 8–9, 2004–2006","775 students (440 T, 315 C)",Cognitive Tutor Algebra I,SBT,"1 school year, 24 weeks, 2,149 minutes",Standardized,-0.06
+Carlson and Miller (1996),"Writing, 2 high schools, San Antonio, TX, 1993","852 students (429 T, 423 C)",Fundamental Skills Training Project’s R-WISE 1.0,SBT,"1 term, 9 sessions, 8 hours total",Local,0.78
+"Chang, Wang, Dai, and Sung (1999)","Computing course, universities in Taiwan","48 students (24 T, 24 C)",Web-Soc individualized tutoring,SBT,"1 session, 50 minutes",Local,0.95
+Corbett (2001b),"Prealgebra, North Hills Junior High academic classes, Grade 7, Pittsburgh, PA, 2000–2001","50 students (10 T, 40 C)",Cognitive Tutor Pre-Algebra,SBT,1 school year,Both local and standardized,0.46
+Corbett (2002),"Prealgebra, Chartiers Valley Middle School academic classes, Grades 8–9, Pittsburgh, PA, 2001–2002",173 students,Cognitive Tutor Pre-Algebra,SBT,1 school year,Both local and Standardized,0.21
+Corbett and Anderson (2001); also Corbett (2001a),College course in LISP computer programming,"40 students (30 T, 10 C)",ACT Programming Tutor,SBT,"5 lessons, average of 7 sessions and 12 total hours",Local,1.00
+Fletcher (2011),"Information technology systems, U.S. Navy Center for Information Dominance, Corry Station, Pensacola, FL, Fall 2010","40 students (20 T, 20 C)",DARPA Digital Tutor,SBT,8 weeks,Local,1.97
+Fletcher and Morrison (2012),"Information technology systems, San Diego Naval Base, Winter 2011–2012","24 students (12 T, 12 C)",DARPA Digital Tutor,SBT,16 weeks,Local,3.18
+"Gott, Lesgold, and Kane (1996)","Electronic maintenance, 3 U.S. Air Force bases","41 students (18 T, 23 C)",Sherlock 2,SBT,—,Local,0.85
+"Graesser, Jackson, et al. (2003); reanalyzed in Graesser et al. (2004)","College physics, Universities of Memphis and Mississippi, and Rhodes College","29 students (21 T, 8 C)",Why/AutoTutor,SSBT,"1 week, 2 sessions, 2–3 hours each",Local,0.78
+"Graesser, Moreno, et al. (2003); reanalyzed in Graesser et al. (2004)",Lesson in computer literacy at University of Memphis,81 students,AutoTutor 1.0 and 2.0,SSBT,"1 session, 45–55 minutes",Local,0.17
+"Grubišic, Stankov, Rosic, and Žitko (2009)","Introduction to computer science, University of Split, Croatia, 2006–2007","39 students (20 T, 19 C)",xTex-Sys (eXtended Tutor-Expert System),SBT,14 weeks,Local,1.23
+"Grubišic, Stankov, and Žitko (2006)","Introduction to computer science, University of Split, Croatia, 2005–2006","80 students (40 T, 40 C)",xTex-Sys (eXtended Tutor-Expert System),SBT,14 weeks,Local,0.79
+"Hastings, Arnott-Hill, and Allbritton (2010)","Research methods, Chicago State University","87 students (56 T, 31 C)",Research Methods Tutor,SSBT,"5 weeks, 2–4 hours total",Local,1.21
+"Hategekimana, Gilbert, and Blessing (2008)","Picture-editing, Iowa State University, Fall 2007","50 students (26 T, 24 C)",ITS,SBT,"1 week, 2 sessions, total of 90 minutes",Local,-0.34
+"Jeremic, Jovanovic, and Gasevic (2009)","Upper-division software course, Military Academy, Belgrade, Serbia, Spring, 2006","42 students (14 T, 28 C)",DEPTHS (Design Patterns Teaching Helping System),SBT,5 months,Local,0.62
+"Johnson, Flesher, Jehng, and Ferej (1993)","Electrical troubleshooting, University of Illinois at Urbana-Champaign, 1990–1991","34 students (18 T, 16 C)",Technical Troubleshooting Tutor,SBT,"12 weeks, average of 5.25 total hours",Local,0.80
+"Koedinger, Aleven, Heffernan, McLaren, and Hockenberry (2004)","LSAT analytic problems, college in northeastern U.S.","30 students (15 T, 15 C)",LSAT Analytic Logic Tutor,SSBT,"1 session, 1 hour",Local,0.78
+Koedinger and Anderson (1993),"Geometry theorem proving, high school in Pittsburgh, PA, 1992",31 students,ANGLE,SBT,"4–5 weeks, 25 class periods, 44 minutes each",Local,0.96
+"Koedinger, Anderson, Hadley, and Mark (1997)","Algebra, 3 high schools, Pittsburgh, PA, Grade 9, 1993–1994","590 students (470 T, 120 C)",PAT (Practical Algebra Tutor) and Pittsburgh Urban Math Project,SBT,1 year,Both local and standardized,0.68
+"Le, Menzel, and Pinkwart (2009)","Computer programing, University of Hamburg, Germany","35 students (18 T, 17 C)",INCOM,SBT,"1 session, 1 hour",Local,0.31
+Mendicino and Heffernan (2007),"Algebra, high school, rural area, 2004–2006",121 students,ITS,SSBT,"1 session, 30–45 minutes",Local,0.63
+"Mendicino, Razzaq, and Heffernan (2009)","Mathematics, elementary school, rural area, Grade 5",28 students,ITS,SSBT,1 session,Local,0.55
+Naser (2009),"C programming, Al-Azhar University of Gaza, Palestine","62 students (31 T, 31 C)",CPP-Tutor (C Intelligent Tutoring System),SBT,1 month,Local,0.77
+"Pane, Griffin, McCaffrey, and Karam (2013)",Middle and high schools in 7 states,"9840 students (4296 T, 5544 C)",Cognitive Tutor Algebra I,SBT,1 year,Standardized,0.20
+"Pane, McCaffrey, Slaughter, Steele, and Ikemoto (2010)","Geometry, 8 high schools, Baltimore County, MD, 2005–2008","699 students (348 T, 351 C)",Cognitive Tutor Geometry,SBT,1 term,Standardized,-0.19
+Parvez and Blank (2007),"Object-oriented programming, Lehigh University summer high school program, Spring and Summer 2007","32 students (16 T, 16 C)",DesignFirstITS,SBT,—,Local,0.90
+Pek and Poh (2005),"Engineering mechanics, Singapore Polytechnic","33 students (16 T, 17 C)",iTutor,SBT,"1 session, about 80 minutes",Local,1.17
+"Person, Bautista, Graesser, Mathews, and The Tutoring Research Group (2001); also Graesser et al. (2004)","Computer literacy, University of Memphis",60 students,AutoTutor 1.1 and 2.0,SSBT,"1 session, 45–55 minutes",Local,0.21
+Phillips and Johnson (2011),"Financial Accounting, University of Saskatchewan",139 students,ITS,SBT,1 homework assignment,Local,0.39
+Reif and Scott (1999),"Introductory physics, Carnegie Mellon University, Fall 1996","30 students (14 T, 16 C)",PAL (Personal Assistant for Learning),SBT,"1 week, 5 sessions, 7.5 hours",Local,0.78
+"Reiser, Anderson, and Farrell (1985); also Anderson et al. (1990)","LISP computer programming course, Carnegie Mellon University, 1984","20 students (10 T, 10 C)",GREATERP LISP Tutor,SBT,6 weeks,Local,1.00
+"S. Ritter, Kulikowich, Lei, McGuire, and Morgan (2007)","Algebra I, 3 junior high schools, Moore, OK, 2000–2001","257 students (153 T, 102 C)",Cognitive Tutor Algebra I,SBT,1 year,Standardized,0.40
+Shneyderman (2001),"Algebra I, 6 high schools, Miami, FL, 2000–2001","777 students (325 T, 452 C)",Cognitive Tutor Algebra I,SBT,1 year,Standardized,0.22
+Smith (2001),"Algebra I, 6 suburban high schools, Virginia City Beach, VA, 1999–2000","445 students (229 T, 216 C)",Carnegie Algebra Tutor,SBT,3 terms,Standardized,-0.07
+"Stankov, Glavinic, and Grubišic (2004)","Computer science, University in Croatia, 2004–2005","22 students (11 T, 11 C)",DTex-Sys (Distributed Tutor Expert System),SBT,"1 term, 15 weeks, 2 hours weekly",Local,1.16
+"Stankov, Rosic, Žitko, and Grubišic (2008)","Science, University of Split (1 study) and primary schools (8 studies), Split, Croatia, Grade 2 to first-year college, 2005–2007","380 students (190 T, 190 C)",xTex-Sys (eXtended Tutor-Expert System),SBT,5 to 14 weeks,Local,0.74
+Steuck and Miller (1997),"Scientific inquiry in ecology and biology, 15 junior and senior high schools in 5 states, Grades 7, 9, and 10, 1995–1996","1553 students (765 T, 788 C)",Fundamental Skills Training Project’s ISIS (Instruction in Scientific Inquiry Skills),SBT,"36 weeks, 18 sessions, 18 hours total tutoring time",Local,0.37
+Suraweera and Mitrovic (2002),"Database design, University of Canterbury, Christchurch, New Zealand, August 2001",62 students,KERMIT,SBT,"1 session, about 1 hour",Local,0.56
+Timms (2007),"Lessons on force, motion, and speed, middle school science classes","131 students (101 T, 31 C)",Full FOSS tutor,SBT,Several days,Local,0.63
+"VanLehn et al. (2007), Experiment 2","Physics, University of Memphis and 3 other universities","48 students (32 T, 16 C)",Why2-AutoTutor and Why2-Atlas,SSBT,"2 sessions, average of 126 total minutes",Local,0.70
+VanLehn et al. (2005),"Introductory physics, U.S. Naval Academy, 2000–2003","912 students (89 T, 823 C)",Andes,SBT,1 term,Local,0.25
+Wheeler and Regian (1999),"Word problems, 7 high schools, Texas, New Mexico, and Ohio, Grade 9, 1992–1993","493 students (409 T, 84 C)",Fundamental Skills Training Project’s Word Problem Solving tutor,SBT,"1 school year, one 50-minute session per week",Local,0.40
